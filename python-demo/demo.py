@@ -4,50 +4,65 @@ import pandas as pd
 import geopandas as gpd
 
 # read the table of existing stations
-gdf_ds = gpd.read_file(  # ds: dienststellen
-    filename = 'GEOJSON:dienststellen-gemass-opentransportdataswiss.geojson',
-    columns = ['designationofficial', 'number', 'operatingpoint', 'isocountrycode'],
+df_ds = gpd.read_file(  # ds: dienststellen
+    filename = 'actual-date-swiss-service-point.csv',
+    columns = ['designationOfficial', 'number', 'isoCountryCode', 'hasGeolocation', 'wgs84East', 'wgs84North'],
 )
-gdf_ds.set_index('number', inplace = True)
+df_ds.set_index('number', inplace = True)
 
-gdf_ds = gdf_ds.loc[
-    (gdf_ds.loc[:, 'operatingpoint'] == 'true')
-    & (~gdf_ds.loc[:, 'geometry'].isna())
-    & (gdf_ds.loc[:, 'isocountrycode'] == 'CH')
+df_ds = df_ds.loc[
+    (df_ds.loc[:, 'hasGeolocation'] == 'true')
+    & (df_ds.loc[:, 'isoCountryCode'] == 'CH')
 ]
+
+# create the point geometry for each station
+gdf_ds = (
+    df_ds
+    .set_geometry(
+        df_ds.apply(
+            lambda row: shapely.Point((row['wgs84East'], row['wgs84North'])),
+            axis = 1
+        ),
+        crs = 'EPSG:4326'
+    )
+    .loc[:, ['designationOfficial', 'geometry']]
+)
+del df_ds
 
 # then read the file of train stations served by any route
 df_is = gpd.read_file(  # is: ist
-    'ist-daten-sbb.geojson',
-    columns = ['linien_id', 'linien_text', 'ankunftszeit', 'bpuic', 'fahrt_bezeichner'],
+    '2026-03-19_istdaten.csv',
+    columns = ['LINIEN_ID', 'LINIEN_TEXT', 'BPUIC', 'ANKUNFTSZEIT'],
     ignore_geometry = True,
 )
 
+df_is = df_is.loc[df_is.loc[:, 'BPUIC'].isin(gdf_ds.index)]
+
 # the arrival time of the first station of the route is empty
-df_is.loc[:, 'ankunftszeit'] = (
-    df_is
-    .loc[:, 'ankunftszeit']
+df_is['ANKUNFTSZEIT'] = (
+    pd
+    .to_datetime(df_is.loc[:, 'ANKUNFTSZEIT'], format = '%d.%m.%Y %H:%M')
     .fillna(pd.Timestamp(year = 1, month = 1, day = 1))
 )
-df_is.sort_values(by = 'ankunftszeit', inplace = True)
+df_is.sort_values(by = 'ANKUNFTSZEIT', inplace = True)
 
 # now select a station and collect all stations reachable without transfers
-ds_id = 8507100  # Thun Bhf
+ds_id = '8507100'  # Thun Bhf
 df_eb = (  # eb: erreichbar
     df_is
-    .groupby(by = ['linien_id', 'linien_text'])
-    .apply(lambda chunk: chunk.drop_duplicates(subset = 'bpuic', keep = 'first'))  # only unique stations
-    .groupby(by = ['linien_id', 'linien_text'])
-    .filter(lambda chunk: (chunk.loc[:, 'bpuic'] == ds_id).any())  # origin station is served by route
+    .groupby(by = ['LINIEN_ID', 'LINIEN_TEXT'])
+    .apply(lambda chunk: chunk.drop_duplicates(subset = 'BPUIC', keep = 'first'))  # only unique stations
+    .groupby(by = ['LINIEN_ID', 'LINIEN_TEXT'])
+    .filter(lambda chunk: (chunk.loc[:, 'BPUIC'] == ds_id).any())  # origin station is served by route
 )
 
 # now create the routes by joining the coordinates of the stations
 line_ids, line_texts, line_descriptions, linestrings = [], [], [], []
-for (line_id, line_text), chunk in df_eb.groupby(by = ['linien_id', 'linien_text']):
+for (line_id, line_text), chunk in df_eb.groupby(by = ['LINIEN_ID', 'LINIEN_TEXT']):
     linestring = shapely.LineString(
-        [gdf_ds.loc[stop_id, 'geometry'] for stop_id in chunk.loc[:, 'bpuic']]
+        [gdf_ds.loc[stop_id, 'geometry'] for stop_id in chunk.loc[:, 'BPUIC']]
     )
-    line_description = ' -> '.join([gdf_ds.loc[stop_id, 'designationofficial'] for stop_id in chunk.loc[:, 'bpuic']])
+    line_description = ' -> '.join([gdf_ds.loc[stop_id, 'designationOfficial'] for stop_id in chunk.loc[:, 'BPUIC']])
     
     line_ids.append(line_id)
     line_texts.append(line_text)
@@ -75,8 +90,8 @@ m = gdf_ln.explore(
 # then add a marker for the origin station
 folium.Marker(
     location = tuple(reversed(gdf_ds.loc[ds_id, 'geometry'].coords[0])),
-    tooltip = gdf_ds.loc[ds_id, 'designationofficial'],
-    popup = gdf_ds.loc[ds_id, 'designationofficial'],
+    tooltip = gdf_ds.loc[ds_id, 'designationOfficial'],
+    popup = gdf_ds.loc[ds_id, 'designationOfficial'],
     icon = folium.Icon(color = 'red'),
 ).add_to(m)
 
@@ -85,14 +100,14 @@ folium.GeoJson(
     (
         gdf_ds
         .join(
-            df_eb.drop_duplicates('bpuic').set_index('bpuic'),
+            df_eb.drop_duplicates('BPUIC').set_index('BPUIC'),
             how = 'inner',
         )
-        .loc[:, ['designationofficial', 'geometry']]
+        .loc[:, ['designationOfficial', 'geometry']]
     ),
     name = 'Reachable Stations',
     marker = folium.Circle(radius = 1000, fill_color = 'red', color = 'black'),
-    tooltip = folium.GeoJsonTooltip(fields = ['designationofficial']),
+    tooltip = folium.GeoJsonTooltip(fields = ['designationOfficial']),
 ).add_to(m)
 
 # export the map

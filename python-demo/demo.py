@@ -6,13 +6,14 @@ import geopandas as gpd
 # read the table of existing stations
 df_ds = gpd.read_file(  # ds: dienststellen
     filename = 'actual-date-swiss-service-point.csv',
-    columns = ['designationOfficial', 'number', 'isoCountryCode', 'hasGeolocation', 'wgs84East', 'wgs84North'],
+    columns = ['designationOfficial', 'number', 'isoCountryCode', 'hasGeolocation', 'wgs84East', 'wgs84North', 'meansOfTransport'],
 )
 df_ds.set_index('number', inplace = True)
 
 df_ds = df_ds.loc[
     (df_ds.loc[:, 'hasGeolocation'] == 'true')
     & (df_ds.loc[:, 'isoCountryCode'] == 'CH')
+    & (df_ds.loc[:, 'meansOfTransport'].apply(lambda x: 'TRAIN' in x))
 ]
 
 # create the point geometry for each station
@@ -32,11 +33,16 @@ del df_ds
 # then read the file of train stations served by any route
 df_is = gpd.read_file(  # is: ist
     '2026-03-19_istdaten.csv',
-    columns = ['LINIEN_ID', 'LINIEN_TEXT', 'BPUIC', 'ANKUNFTSZEIT'],
+    columns = ['LINIEN_ID', 'LINIEN_TEXT', 'BPUIC', 'ANKUNFTSZEIT', 'PRODUKT_ID'],
     ignore_geometry = True,
 )
+df_is.loc[df_is.loc[:, 'PRODUKT_ID'].isna(), 'PRODUKT_ID'] = 'Zug'
 
-df_is = df_is.loc[df_is.loc[:, 'BPUIC'].isin(gdf_ds.index)]
+df_is = df_is.loc[
+    df_is.loc[:, 'BPUIC'].isin(gdf_ds.index)
+    & (df_is.loc[:, 'PRODUKT_ID'] == 'Zug'),
+    ['LINIEN_ID', 'LINIEN_TEXT', 'BPUIC', 'ANKUNFTSZEIT']
+]
 
 # the arrival time of the first station of the route is empty
 df_is['ANKUNFTSZEIT'] = (
@@ -47,13 +53,14 @@ df_is['ANKUNFTSZEIT'] = (
 df_is.sort_values(by = 'ANKUNFTSZEIT', inplace = True)
 
 # now select a station and collect all stations reachable without transfers
+
 ds_id = '8507100'  # Thun Bhf
 df_eb = (  # eb: erreichbar
     df_is
     .groupby(by = ['LINIEN_ID', 'LINIEN_TEXT'])
     .apply(lambda chunk: chunk.drop_duplicates(subset = 'BPUIC', keep = 'first'))  # only unique stations
     .groupby(by = ['LINIEN_ID', 'LINIEN_TEXT'])
-    .filter(lambda chunk: (chunk.loc[:, 'BPUIC'] == ds_id).any())  # origin station is served by route
+    .filter(lambda chunk: ds_id in chunk['BPUIC'].values)  # origin station is served by route
 )
 
 # now create the routes by joining the coordinates of the stations

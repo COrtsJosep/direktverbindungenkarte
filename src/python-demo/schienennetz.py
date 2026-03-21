@@ -14,7 +14,11 @@ class SchienenNetz():
             .read_file('schienennetz_knoten.geojson')
             .set_index('object_id')
         )
-        self.__gdf_ds = gpd.read_file('dienststellen.geojson').to_crs(self.__gdf_ka.crs)
+        self.__gdf_ds = (
+            gpd.read_file('dienststellen.geojson')
+            .to_crs(self.__gdf_ka.crs)
+            .set_index('number')
+        )
         
         self.__df_cw = (  # cw: crosswalk
             self.__gdf_ds

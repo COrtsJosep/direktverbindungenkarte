@@ -33,13 +33,8 @@
 { "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
 { "type": "Feature", "properties": { "number": "8505163", "designationOfficial": "Realp" }, "geometry": { "type": "Point", "coordinates": [ 8.503458516469999, 46.598625759390004 ] } },
 { "type": "Feature", "properties": { "number": "8505164", "designationOfficial": "Hospental" }, "geometry": { "type": "Point", "coordinates": [ 8.57096435385, 46.621082266050003 ] } },
-{ "type": "Feature", "properties": { "number": "8509000", "designationOfficial": "Chur" }, "geometry": { "type": "Point", "coordinates": [ 9.528937733039999, 46.853084162759998 ] } },
 { "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
 { "type": "Feature", "properties": { "number": "8518885", "designationOfficial": "Täsch Monte Rosa" }, "geometry": { "type": "Point", "coordinates": [ 7.77476005576, 46.074534045839997 ] } },
-{ "type": "Feature", "properties": { "number": "8509253", "designationOfficial": "St. Moritz" }, "geometry": { "type": "Point", "coordinates": [ 9.84585384995, 46.497988725020001 ] } },
-{ "type": "Feature", "properties": { "number": "8509192", "designationOfficial": "Tiefencastel" }, "geometry": { "type": "Point", "coordinates": [ 9.57244619403, 46.663997114579999 ] } },
-{ "type": "Feature", "properties": { "number": "8509251", "designationOfficial": "Samedan" }, "geometry": { "type": "Point", "coordinates": [ 9.87318700981, 46.533757964780001 ] } },
-{ "type": "Feature", "properties": { "number": "8509195", "designationOfficial": "Filisur" }, "geometry": { "type": "Point", "coordinates": [ 9.68234974266, 46.67517862359 ] } },
 { "type": "Feature", "properties": { "number": "8509179", "designationOfficial": "Disentis/Mustér" }, "geometry": { "type": "Point", "coordinates": [ 8.855174644610001, 46.705093222830001 ] } }
 ]
 }

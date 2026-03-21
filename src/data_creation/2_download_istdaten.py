@@ -9,7 +9,7 @@ gdf_ds = gpd.read_file(cd.parent / 'assets' / 'dienststellen_dirty.geojson').set
 # read the file of train stations served by any route
 df_is = gpd.read_file(  # is: ist
     filename = 'https://data.opentransportdata.swiss/dataset/ist-daten-v2/resource_permalink/2026-03-19_istdaten.csv',  # 403 TODO
-    columns = ['LINIEN_ID', 'LINIEN_TEXT', 'BPUIC', 'ANKUNFTSZEIT', 'PRODUKT_ID'],
+    columns = ['FAHRT_BEZEICHNER', 'BPUIC', 'ANKUNFTSZEIT', 'PRODUKT_ID'],
     ignore_geometry = True,
 )
 df_is.loc[:, 'PRODUKT_ID'] = df_is.loc[:, 'PRODUKT_ID'].fillna('Zug')
@@ -17,7 +17,7 @@ df_is.loc[:, 'PRODUKT_ID'] = df_is.loc[:, 'PRODUKT_ID'].fillna('Zug')
 df_is = df_is.loc[
     df_is.loc[:, 'BPUIC'].isin(gdf_ds.index)  # only stops from which we have the station
     & (df_is.loc[:, 'PRODUKT_ID'] == 'Zug'),  # only rail travel
-    ['LINIEN_ID', 'LINIEN_TEXT', 'BPUIC', 'ANKUNFTSZEIT']
+    ['FAHRT_BEZEICHNER', 'BPUIC', 'ANKUNFTSZEIT']
 ]
 
 # the arrival time of the first station of the route is empty

@@ -3,12 +3,9 @@
 "name": "8509253",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "number": "8501689", "designationOfficial": "Zermatt" }, "geometry": { "type": "Point", "coordinates": [ 7.74783789838, 46.023999881249999 ] } },
-{ "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
 { "type": "Feature", "properties": { "number": "8509000", "designationOfficial": "Chur" }, "geometry": { "type": "Point", "coordinates": [ 9.528937733039999, 46.853084162759998 ] } },
 { "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
 { "type": "Feature", "properties": { "number": "8509050", "designationOfficial": "Chur West" }, "geometry": { "type": "Point", "coordinates": [ 9.514775826339999, 46.850396074290003 ] } },
-{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
 { "type": "Feature", "properties": { "number": "8509269", "designationOfficial": "Sagliains" }, "geometry": { "type": "Point", "coordinates": [ 10.10305301589, 46.764828582020002 ] } },
 { "type": "Feature", "properties": { "number": "8509264", "designationOfficial": "Lavin" }, "geometry": { "type": "Point", "coordinates": [ 10.11101408453, 46.76961814461 ] } },
 { "type": "Feature", "properties": { "number": "8509263", "designationOfficial": "Susch" }, "geometry": { "type": "Point", "coordinates": [ 10.079460170060001, 46.752058394229998 ] } },

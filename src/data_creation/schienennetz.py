@@ -18,22 +18,17 @@ class SchienenNetz():
         )
         self.__gdf_ds = (
             gpd.read_file(cd.parent / 'assets' / 'dienststellen.geojson')
-            .to_crs(self.__gdf_ka.crs)
+            .to_crs(self.__gdf_kn.crs)
             .set_index('number')
         )
         
-        self.__df_cw = (  # cw: crosswalk
-            self.__gdf_ds
-            .sjoin_nearest(
-                right = self.__gdf_kn,
-                how = 'left',
-                max_distance = 250,
-            )
-            .dropna()
-            .reset_index()
-            .loc[:, ['number', 'object_id']]
-            .set_index('number')
-        )
+        self.__cw = {}  # cw: crosswalk
+        for ds_id in self.__gdf_ds.index:
+            ds_p = self.__gdf_ds.loc[ds_id, 'geometry']
+            distances = self.__gdf_kn.loc[:, 'geometry'].apply(lambda kn_p: kn_p.distance(ds_p))
+            kn_in_circle = distances[distances <= 250].index.to_list()
+            if kn_in_circle:
+                self.__cw[ds_id] = kn_in_circle
     
         self.__G = nx.Graph()
         for (node_from, node_to), row in self.__gdf_ka.iterrows():
@@ -45,9 +40,9 @@ class SchienenNetz():
         self.__gdf_ds.to_crs('EPSG:4326', inplace = True)
 
     def get_linestring_route(self, number_start: str, number_end: str) -> set[shapely.LineString]:
-        if (
-            (number_start not in self.__df_cw.index) 
-            or (number_end not in self.__df_cw.index)
+        if (  # station does not have a node at less than 250m
+            (number_start not in self.__cw.keys()) 
+            or (number_end not in self.__cw.keys())
         ):  # then just draw a straing line connecting the stations
             return {
                 shapely.LineString(
@@ -57,14 +52,18 @@ class SchienenNetz():
                     ]
                 ), 
             }
-            
-        node_start = self.__df_cw.loc[number_start, 'object_id']
-        node_end = self.__df_cw.loc[number_end, 'object_id']
         
-        try:
-            path_nodes = nx.shortest_path(self.__G, node_start, node_end)
-        except nx.NetworkXNoPath:
-            return {
+        path_nodes = []
+        for node_start in self.__cw[number_start]:
+            for node_end in self.__cw[number_end]:
+                try:
+                    path_nodes = nx.shortest_path(self.__G, node_start, node_end)
+                except nx.NetworkXNoPath:
+                    pass
+                    
+        if not path_nodes:  # somehow there is no path
+            print(f'No path found between {number_start} and {number_end}.')
+            return {  # just return a straight line between the nodes
                 shapely.LineString(
                     [
                         self.__gdf_kn.loc[node_start, 'geometry'],
@@ -73,6 +72,7 @@ class SchienenNetz():
                 ), 
             }
         
+        # now just create the route by joining all segments
         linestring_route = set()
         for i in range(len(path_nodes) - 1):
             if (path_nodes[i], path_nodes[i + 1]) in self.__gdf_ka.index:

@@ -52,13 +52,6 @@
 { "type": "Feature", "properties": { "number": "8507273", "designationOfficial": "Oeschseite" }, "geometry": { "type": "Point", "coordinates": [ 7.3522899959, 46.531369998530003 ] } },
 { "type": "Feature", "properties": { "number": "8507272", "designationOfficial": "Saanenmöser" }, "geometry": { "type": "Point", "coordinates": [ 7.31172000155, 46.517609997009998 ] } },
 { "type": "Feature", "properties": { "number": "8507290", "designationOfficial": "Zweisimmen" }, "geometry": { "type": "Point", "coordinates": [ 7.37486190719, 46.553482551329999 ] } },
-{ "type": "Feature", "properties": { "number": "8507298", "designationOfficial": "Wimmis" }, "geometry": { "type": "Point", "coordinates": [ 7.6355974518, 46.675722195939997 ] } },
-{ "type": "Feature", "properties": { "number": "8507292", "designationOfficial": "Boltigen" }, "geometry": { "type": "Point", "coordinates": [ 7.39007365616, 46.627368255519997 ] } },
-{ "type": "Feature", "properties": { "number": "8507297", "designationOfficial": "Oey-Diemtigen" }, "geometry": { "type": "Point", "coordinates": [ 7.57915212949, 46.659887768639997 ] } },
-{ "type": "Feature", "properties": { "number": "8507296", "designationOfficial": "Erlenbach im Simmental" }, "geometry": { "type": "Point", "coordinates": [ 7.55523519614, 46.659091778319997 ] } },
-{ "type": "Feature", "properties": { "number": "8507483", "designationOfficial": "Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.6801030578, 46.686395668350002 ] } },
-{ "type": "Feature", "properties": { "number": "8507493", "designationOfficial": "Interlaken West" }, "geometry": { "type": "Point", "coordinates": [ 7.8514531376, 46.682627980360003 ] } },
-{ "type": "Feature", "properties": { "number": "8507492", "designationOfficial": "Interlaken Ost" }, "geometry": { "type": "Point", "coordinates": [ 7.86900000435, 46.690499996189999 ] } },
 { "type": "Feature", "properties": { "number": "8504071", "designationOfficial": "Lessoc" }, "geometry": { "type": "Point", "coordinates": [ 7.052550004, 46.507380001949997 ] } }
 ]
 }

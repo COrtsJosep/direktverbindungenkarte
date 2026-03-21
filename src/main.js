@@ -1,3 +1,7 @@
+import 'leaflet-notifications';
+import 'font-awesome/css/font-awesome.min.css';
+import 'leaflet-notifications/css/leaflet-notifications.css';
+
 var map = L.map('map').setView([46.798449, 8.231879], 9);
 
 L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}.{ext}', {
@@ -6,6 +10,24 @@ L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}
 	attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://www.stamen.com/" target="_blank">Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	ext: 'png'
 }).addTo(map);
+
+L.controlCredits({
+    imageurl: 'public/GitHub_Invertocat_Black.png',
+    tooltip: 'Made by COrtsJosep',
+    width: '45px',
+    height: '45px',
+    expandcontent: 'Made for fun by COrtsJosep, hosted at<br/><a href="https://github.com/COrtsJosep/direktverbindungenkarte" target="_blank">COrtsJosep/direktverbindungenkarte</a>',
+    imagealt: 'Could not load icon'
+}).addTo(map);
+
+var notifications = L.control.notifications({ 
+    className: 'modern',
+    timeout: 5000,
+    closable: false,
+    dismissable: true
+}).addTo(map);
+
+notifications.info('Info', 'Click on a train station to discover where you can travel to with a direct connection.');
 
 var dienstStelleStyle = {
     radius: 7.5,
@@ -35,9 +57,19 @@ function addNetwork(number) {
     var railRoadsLayer = new L.GeoJSON.AJAX(`src/python-demo/reachable_net_readyfiles/${number}.geojson`, {
         style: railRoadsStyle,
         onEachFeature: function(feature, layer) {
+            if (feature.properties && feature.properties.line_description) {
+                layer.on('click', function(e) {
+                    var popup = L
+                        .popup({ closeButton: false, minWidth: 0 })
+                        .setContent(feature.properties.line_description)
+                        .setLatLng(e.latlng);
+                    layer.bindPopup(popup).openPopup();
+                });
+            }
             layer.on({
                 'add': function(){layer.bringToBack()}
-            })
+            });
+            
         }
     });
     railRoadsLayer.addTo(map);
@@ -52,7 +84,6 @@ function addNetwork(number) {
     },
     onEachFeature: function(feature, layer) {
         if (feature.properties && feature.properties.designationOfficial && feature.properties.number) {
-            // Show popup on hover
             layer.on('mouseover', function(e) {
                 var popup = L.popup({ closeButton: false, minWidth: 0 }).setContent(feature.properties.designationOfficial);
                 layer.bindPopup(popup).openPopup();
@@ -75,6 +106,8 @@ function addNetwork(number) {
     }
     });
     reachableDienstStelleLayer.addTo(map);
+    
+    notifications.info('Info', 'Click on another train station to discover where you can travel to with a direct connection, or click on the same one again to deselect it.');
 }
 
 var allDienstStelleLayer = new L.GeoJSON.AJAX("src/python-demo/dienststellen.geojson", {
@@ -83,7 +116,6 @@ var allDienstStelleLayer = new L.GeoJSON.AJAX("src/python-demo/dienststellen.geo
     },
     onEachFeature: function(feature, layer) {
         if (feature.properties && feature.properties.designationOfficial && feature.properties.number) {
-            // Show popup on hover
             layer.on('mouseover', function(e) {
                 var popup = L.popup({ closeButton: false, minWidth: 0 }).setContent(feature.properties.designationOfficial);
                 layer.bindPopup(popup).openPopup();

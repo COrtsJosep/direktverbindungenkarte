@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "8501094",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
+{ "type": "Feature", "properties": { "number": "8501054", "designationOfficial": "La Gottaz" }, "geometry": { "type": "Point", "coordinates": [ 6.48445999976, 46.506549994579998 ] } },
+{ "type": "Feature", "properties": { "number": "8501082", "designationOfficial": "Chardonney-Château" }, "geometry": { "type": "Point", "coordinates": [ 6.43256000327, 46.534700000219999 ] } },
+{ "type": "Feature", "properties": { "number": "8501085", "designationOfficial": "Ballens-Froideville" }, "geometry": { "type": "Point", "coordinates": [ 6.3902300012, 46.549659996259997 ] } },
+{ "type": "Feature", "properties": { "number": "8501084", "designationOfficial": "Le Manège" }, "geometry": { "type": "Point", "coordinates": [ 6.43217000067, 46.55911999928 ] } },
+{ "type": "Feature", "properties": { "number": "8501087", "designationOfficial": "Mauraz" }, "geometry": { "type": "Point", "coordinates": [ 6.42971999911, 46.584919995329997 ] } },
+{ "type": "Feature", "properties": { "number": "8501089", "designationOfficial": "Villars-Bozon" }, "geometry": { "type": "Point", "coordinates": [ 6.40236000052, 46.610459995809997 ] } },
+{ "type": "Feature", "properties": { "number": "8501088", "designationOfficial": "Tuilerie" }, "geometry": { "type": "Point", "coordinates": [ 6.41421999543, 46.5927999954 ] } },
+{ "type": "Feature", "properties": { "number": "8501091", "designationOfficial": "Vufflens-le-Château" }, "geometry": { "type": "Point", "coordinates": [ 6.47317999473, 46.524809993689999 ] } },
+{ "type": "Feature", "properties": { "number": "8501090", "designationOfficial": "Prélionne" }, "geometry": { "type": "Point", "coordinates": [ 6.48027000096, 46.509469993960003 ] } },
+{ "type": "Feature", "properties": { "number": "8501093", "designationOfficial": "Yens" }, "geometry": { "type": "Point", "coordinates": [ 6.42731999569, 46.519960001020003 ] } },
+{ "type": "Feature", "properties": { "number": "8501092", "designationOfficial": "Bussy-Chardonney" }, "geometry": { "type": "Point", "coordinates": [ 6.44650999784, 46.526779994190001 ] } },
+{ "type": "Feature", "properties": { "number": "8501095", "designationOfficial": "Ballens" }, "geometry": { "type": "Point", "coordinates": [ 6.3744599981, 46.552259998030003 ] } },
+{ "type": "Feature", "properties": { "number": "8501094", "designationOfficial": "Apples" }, "geometry": { "type": "Point", "coordinates": [ 6.42358000054, 46.550879994660001 ] } },
+{ "type": "Feature", "properties": { "number": "8501096", "designationOfficial": "Bière" }, "geometry": { "type": "Point", "coordinates": [ 6.33690999407, 46.53743999364 ] } },
+{ "type": "Feature", "properties": { "number": "8501081", "designationOfficial": "Chigny" }, "geometry": { "type": "Point", "coordinates": [ 6.47225000121, 46.516019993500002 ] } },
+{ "type": "Feature", "properties": { "number": "8501099", "designationOfficial": "L'Isle" }, "geometry": { "type": "Point", "coordinates": [ 6.41118000413, 46.617269994099999 ] } },
+{ "type": "Feature", "properties": { "number": "8501080", "designationOfficial": "Le Marais" }, "geometry": { "type": "Point", "coordinates": [ 6.46259000093, 46.527469996210002 ] } },
+{ "type": "Feature", "properties": { "number": "8501083", "designationOfficial": "Reverolle" }, "geometry": { "type": "Point", "coordinates": [ 6.43097000017, 46.540429993449997 ] } },
+{ "type": "Feature", "properties": { "number": "8501097", "designationOfficial": "Pampigny-Sévery" }, "geometry": { "type": "Point", "coordinates": [ 6.43216999862, 46.576979999 ] } },
+{ "type": "Feature", "properties": { "number": "8501098", "designationOfficial": "Montricher" }, "geometry": { "type": "Point", "coordinates": [ 6.39305000296, 46.596329994649999 ] } }
+]
+}

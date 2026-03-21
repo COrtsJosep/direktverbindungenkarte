@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "8502181",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8502177", "designationOfficial": "Schöftland Nordweg" }, "geometry": { "type": "Point", "coordinates": [ 8.051227413, 47.311107275559998 ] } },
+{ "type": "Feature", "properties": { "number": "8502192", "designationOfficial": "Distelberg" }, "geometry": { "type": "Point", "coordinates": [ 8.04936488719, 47.375995545670001 ] } },
+{ "type": "Feature", "properties": { "number": "8502179", "designationOfficial": "Mittelmuhen" }, "geometry": { "type": "Point", "coordinates": [ 8.054314559990001, 47.334530954530003 ] } },
+{ "type": "Feature", "properties": { "number": "8502178", "designationOfficial": "Obermuhen" }, "geometry": { "type": "Point", "coordinates": [ 8.05448031511, 47.329403147599997 ] } },
+{ "type": "Feature", "properties": { "number": "8502195", "designationOfficial": "Muhen" }, "geometry": { "type": "Point", "coordinates": [ 8.0532653458, 47.33878204666 ] } },
+{ "type": "Feature", "properties": { "number": "8502181", "designationOfficial": "Oberentfelden Uerkenbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.04567290302, 47.361074937550001 ] } },
+{ "type": "Feature", "properties": { "number": "8502180", "designationOfficial": "Muhen Nord" }, "geometry": { "type": "Point", "coordinates": [ 8.052674812839999, 47.343486560220001 ] } },
+{ "type": "Feature", "properties": { "number": "8502194", "designationOfficial": "Oberentfelden Engelplatz" }, "geometry": { "type": "Point", "coordinates": [ 8.046622938060001, 47.356167883700003 ] } },
+{ "type": "Feature", "properties": { "number": "8502197", "designationOfficial": "Hirschthal" }, "geometry": { "type": "Point", "coordinates": [ 8.05282289778, 47.319886728900002 ] } },
+{ "type": "Feature", "properties": { "number": "8502182", "designationOfficial": "Unterentfelden Oberdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.042021116040001, 47.364736838950002 ] } },
+{ "type": "Feature", "properties": { "number": "8502196", "designationOfficial": "Unterentfelden Post" }, "geometry": { "type": "Point", "coordinates": [ 8.04444875497, 47.368672727979998 ] } },
+{ "type": "Feature", "properties": { "number": "8502199", "designationOfficial": "Schöftland" }, "geometry": { "type": "Point", "coordinates": [ 8.050016724120001, 47.305878639020001 ] } },
+{ "type": "Feature", "properties": { "number": "8502191", "designationOfficial": "Binzenhof" }, "geometry": { "type": "Point", "coordinates": [ 8.05058639165, 47.383211665899999 ] } },
+{ "type": "Feature", "properties": { "number": "8502113", "designationOfficial": "Aarau" }, "geometry": { "type": "Point", "coordinates": [ 8.051273718699999, 47.391359514169999 ] } }
+]
+}

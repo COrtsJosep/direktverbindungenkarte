@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "8518885",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501636", "designationOfficial": "Eyholz" }, "geometry": { "type": "Point", "coordinates": [ 7.91630428018, 46.296780566860001 ] } },
+{ "type": "Feature", "properties": { "number": "8501685", "designationOfficial": "St. Niklaus VS" }, "geometry": { "type": "Point", "coordinates": [ 7.80208383825, 46.177341456320001 ] } },
+{ "type": "Feature", "properties": { "number": "8501684", "designationOfficial": "Kalpetran" }, "geometry": { "type": "Point", "coordinates": [ 7.83696109226, 46.21406890043 ] } },
+{ "type": "Feature", "properties": { "number": "8501687", "designationOfficial": "Randa" }, "geometry": { "type": "Point", "coordinates": [ 7.78146291592, 46.099930781680001 ] } },
+{ "type": "Feature", "properties": { "number": "8501673", "designationOfficial": "Lax" }, "geometry": { "type": "Point", "coordinates": [ 8.117147796919999, 46.387008751380002 ] } },
+{ "type": "Feature", "properties": { "number": "8501686", "designationOfficial": "Herbriggen" }, "geometry": { "type": "Point", "coordinates": [ 7.79163490263, 46.132147878209999 ] } },
+{ "type": "Feature", "properties": { "number": "8501672", "designationOfficial": "Fiesch" }, "geometry": { "type": "Point", "coordinates": [ 8.1341917528, 46.406284769129996 ] } },
+{ "type": "Feature", "properties": { "number": "8501689", "designationOfficial": "Zermatt" }, "geometry": { "type": "Point", "coordinates": [ 7.74783789838, 46.023999881249999 ] } },
+{ "type": "Feature", "properties": { "number": "8501675", "designationOfficial": "Bettmeralp Talstation" }, "geometry": { "type": "Point", "coordinates": [ 8.076519852960001, 46.371157872479998 ] } },
+{ "type": "Feature", "properties": { "number": "8501688", "designationOfficial": "Täsch" }, "geometry": { "type": "Point", "coordinates": [ 7.77450721429, 46.067455794689998 ] } },
+{ "type": "Feature", "properties": { "number": "8501674", "designationOfficial": "Grengiols" }, "geometry": { "type": "Point", "coordinates": [ 8.091682205630001, 46.375211168889997 ] } },
+{ "type": "Feature", "properties": { "number": "8501677", "designationOfficial": "Bitsch" }, "geometry": { "type": "Point", "coordinates": [ 8.01722378609, 46.3360571686 ] } },
+{ "type": "Feature", "properties": { "number": "8501676", "designationOfficial": "Mörel" }, "geometry": { "type": "Point", "coordinates": [ 8.04714048292, 46.356208683749998 ] } },
+{ "type": "Feature", "properties": { "number": "8501729", "designationOfficial": "Fiesch Feriendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.13077222768, 46.397325215179997 ] } },
+{ "type": "Feature", "properties": { "number": "8501683", "designationOfficial": "Stalden-Saas" }, "geometry": { "type": "Point", "coordinates": [ 7.87075460369, 46.231975831660002 ] } },
+{ "type": "Feature", "properties": { "number": "8501605", "designationOfficial": "Visp" }, "geometry": { "type": "Point", "coordinates": [ 7.88146547575, 46.294029135389998 ] } },
+{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
+{ "type": "Feature", "properties": { "number": "8518885", "designationOfficial": "Täsch Monte Rosa" }, "geometry": { "type": "Point", "coordinates": [ 7.77476005576, 46.074534045839997 ] } }
+]
+}

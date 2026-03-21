@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "8507475",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501609", "designationOfficial": "Brig" }, "geometry": { "type": "Point", "coordinates": [ 7.9880947394, 46.319422705779999 ] } },
+{ "type": "Feature", "properties": { "number": "8507471", "designationOfficial": "Eggerberg" }, "geometry": { "type": "Point", "coordinates": [ 7.88103271919, 46.306546298119997 ] } },
+{ "type": "Feature", "properties": { "number": "8507470", "designationOfficial": "Lalden" }, "geometry": { "type": "Point", "coordinates": [ 7.90959226355, 46.301072866630001 ] } },
+{ "type": "Feature", "properties": { "number": "8507481", "designationOfficial": "Mülenen" }, "geometry": { "type": "Point", "coordinates": [ 7.69131664681, 46.638028038450003 ] } },
+{ "type": "Feature", "properties": { "number": "8507480", "designationOfficial": "Reichenbach im Kandertal" }, "geometry": { "type": "Point", "coordinates": [ 7.69006267569, 46.625121560069999 ] } },
+{ "type": "Feature", "properties": { "number": "8507473", "designationOfficial": "Hohtenn" }, "geometry": { "type": "Point", "coordinates": [ 7.76408688742, 46.322458804919997 ] } },
+{ "type": "Feature", "properties": { "number": "8507472", "designationOfficial": "Ausserberg" }, "geometry": { "type": "Point", "coordinates": [ 7.8441670281, 46.312348244939997 ] } },
+{ "type": "Feature", "properties": { "number": "8507483", "designationOfficial": "Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.6801030578, 46.686395668350002 ] } },
+{ "type": "Feature", "properties": { "number": "8507475", "designationOfficial": "Kandersteg" }, "geometry": { "type": "Point", "coordinates": [ 7.6714125588, 46.495396650540002 ] } },
+{ "type": "Feature", "properties": { "number": "8507474", "designationOfficial": "Goppenstein" }, "geometry": { "type": "Point", "coordinates": [ 7.75492126836, 46.36770714811 ] } },
+{ "type": "Feature", "properties": { "number": "8507478", "designationOfficial": "Frutigen" }, "geometry": { "type": "Point", "coordinates": [ 7.65141831454, 46.588907542809999 ] } }
+]
+}

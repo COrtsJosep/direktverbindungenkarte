@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "8501475",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501400", "designationOfficial": "Aigle" }, "geometry": { "type": "Point", "coordinates": [ 6.96368321186, 46.316855418599999 ] } },
+{ "type": "Feature", "properties": { "number": "8501479", "designationOfficial": "Les Diablerets" }, "geometry": { "type": "Point", "coordinates": [ 7.15502000539, 46.351159998530001 ] } },
+{ "type": "Feature", "properties": { "number": "8501468", "designationOfficial": "Aigle-Château" }, "geometry": { "type": "Point", "coordinates": [ 6.97892136109, 46.316871706070003 ] } },
+{ "type": "Feature", "properties": { "number": "8501471", "designationOfficial": "Plambuit" }, "geometry": { "type": "Point", "coordinates": [ 7.02396999353, 46.327349993699997 ] } },
+{ "type": "Feature", "properties": { "number": "8501470", "designationOfficial": "Verschiez" }, "geometry": { "type": "Point", "coordinates": [ 6.98366823237, 46.308174027470002 ] } },
+{ "type": "Feature", "properties": { "number": "8501473", "designationOfficial": "Les Planches (Aigle)" }, "geometry": { "type": "Point", "coordinates": [ 7.05526999728, 46.355340000440002 ] } },
+{ "type": "Feature", "properties": { "number": "8501472", "designationOfficial": "Exergillod" }, "geometry": { "type": "Point", "coordinates": [ 7.0384800042, 46.337109997989998 ] } },
+{ "type": "Feature", "properties": { "number": "8501475", "designationOfficial": "Les Echenards" }, "geometry": { "type": "Point", "coordinates": [ 7.08506000544, 46.355349996500003 ] } },
+{ "type": "Feature", "properties": { "number": "8501474", "designationOfficial": "Le Sépey" }, "geometry": { "type": "Point", "coordinates": [ 7.05279000022, 46.361240000149998 ] } },
+{ "type": "Feature", "properties": { "number": "8501477", "designationOfficial": "Vers-l'Eglise" }, "geometry": { "type": "Point", "coordinates": [ 7.13414000115, 46.353629993539997 ] } },
+{ "type": "Feature", "properties": { "number": "8501476", "designationOfficial": "Les Aviolats" }, "geometry": { "type": "Point", "coordinates": [ 7.11316000512, 46.352970000829998 ] } },
+{ "type": "Feature", "properties": { "number": "8501554", "designationOfficial": "Aigle-Place-du-Marché" }, "geometry": { "type": "Point", "coordinates": [ 6.97033999545, 46.317239994 ] } },
+{ "type": "Feature", "properties": { "number": "8517485", "designationOfficial": "Sur-le-Buis" }, "geometry": { "type": "Point", "coordinates": [ 7.1006299995, 46.353300002060003 ] } },
+{ "type": "Feature", "properties": { "number": "8517484", "designationOfficial": "Aigle-Parc Aventure" }, "geometry": { "type": "Point", "coordinates": [ 6.98621999412, 46.315300001129998 ] } },
+{ "type": "Feature", "properties": { "number": "8593775", "designationOfficial": "Les Nicolets" }, "geometry": { "type": "Point", "coordinates": [ 7.11953999971, 46.354460000929997 ] } },
+{ "type": "Feature", "properties": { "number": "8593774", "designationOfficial": "La Faverge" }, "geometry": { "type": "Point", "coordinates": [ 7.14712000292, 46.35492999401 ] } },
+{ "type": "Feature", "properties": { "number": "8593773", "designationOfficial": "Les Bovets" }, "geometry": { "type": "Point", "coordinates": [ 7.14163999875, 46.355460000249998 ] } },
+{ "type": "Feature", "properties": { "number": "8593776", "designationOfficial": "Plan Morier" }, "geometry": { "type": "Point", "coordinates": [ 7.12919999674, 46.353569997770002 ] } }
+]
+}

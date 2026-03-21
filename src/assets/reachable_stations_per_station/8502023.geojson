@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "8502023",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8502017", "designationOfficial": "Waldibrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.319710091819999, 47.107899342860001 ] } },
+{ "type": "Feature", "properties": { "number": "8502019", "designationOfficial": "Ermensee" }, "geometry": { "type": "Point", "coordinates": [ 8.24231442358, 47.229690615750002 ] } },
+{ "type": "Feature", "properties": { "number": "8502029", "designationOfficial": "Mosen" }, "geometry": { "type": "Point", "coordinates": [ 8.22415965131, 47.244292314950002 ] } },
+{ "type": "Feature", "properties": { "number": "8502021", "designationOfficial": "Emmenbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.282565368009999, 47.070601499669998 ] } },
+{ "type": "Feature", "properties": { "number": "8502028", "designationOfficial": "Emmenbrücke Gersag" }, "geometry": { "type": "Point", "coordinates": [ 8.27682007954, 47.078314178249997 ] } },
+{ "type": "Feature", "properties": { "number": "8502043", "designationOfficial": "Seon Nord" }, "geometry": { "type": "Point", "coordinates": [ 8.16025310171, 47.353156565669998 ] } },
+{ "type": "Feature", "properties": { "number": "8502042", "designationOfficial": "Hochdorf Schönau" }, "geometry": { "type": "Point", "coordinates": [ 8.298733635090001, 47.164569323419997 ] } },
+{ "type": "Feature", "properties": { "number": "8502031", "designationOfficial": "Hallwil" }, "geometry": { "type": "Point", "coordinates": [ 8.175949455330001, 47.328638756620002 ] } },
+{ "type": "Feature", "properties": { "number": "8502023", "designationOfficial": "Ballwil" }, "geometry": { "type": "Point", "coordinates": [ 8.31689880205, 47.153767655309998 ] } },
+{ "type": "Feature", "properties": { "number": "8502030", "designationOfficial": "Seon" }, "geometry": { "type": "Point", "coordinates": [ 8.15880738978, 47.346148956519997 ] } },
+{ "type": "Feature", "properties": { "number": "8502022", "designationOfficial": "Eschenbach LU" }, "geometry": { "type": "Point", "coordinates": [ 8.3227907318, 47.132395999830003 ] } },
+{ "type": "Feature", "properties": { "number": "8502033", "designationOfficial": "Birrwil" }, "geometry": { "type": "Point", "coordinates": [ 8.199017331889999, 47.287856600449999 ] } },
+{ "type": "Feature", "properties": { "number": "8502025", "designationOfficial": "Baldegg" }, "geometry": { "type": "Point", "coordinates": [ 8.28023150834, 47.185688959170001 ] } },
+{ "type": "Feature", "properties": { "number": "8502024", "designationOfficial": "Hochdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.28869962431, 47.166975188720002 ] } },
+{ "type": "Feature", "properties": { "number": "8502032", "designationOfficial": "Boniswil" }, "geometry": { "type": "Point", "coordinates": [ 8.18456054926, 47.315038736600002 ] } },
+{ "type": "Feature", "properties": { "number": "8502027", "designationOfficial": "Hitzkirch" }, "geometry": { "type": "Point", "coordinates": [ 8.252001025629999, 47.2226727348 ] } },
+{ "type": "Feature", "properties": { "number": "8502026", "designationOfficial": "Gelfingen" }, "geometry": { "type": "Point", "coordinates": [ 8.26482492435, 47.213559038770001 ] } },
+{ "type": "Feature", "properties": { "number": "8502034", "designationOfficial": "Beinwil am See" }, "geometry": { "type": "Point", "coordinates": [ 8.202235544540001, 47.26721985887 ] } },
+{ "type": "Feature", "properties": { "number": "8502119", "designationOfficial": "Lenzburg" }, "geometry": { "type": "Point", "coordinates": [ 8.17039288935, 47.391199755439999 ] } },
+{ "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
+{ "type": "Feature", "properties": { "number": "8516353", "designationOfficial": "Baldegg Kloster" }, "geometry": { "type": "Point", "coordinates": [ 8.28059754295, 47.18061602969 ] } }
+]
+}

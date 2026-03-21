@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "8501670",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501636", "designationOfficial": "Eyholz" }, "geometry": { "type": "Point", "coordinates": [ 7.91630428018, 46.296780566860001 ] } },
+{ "type": "Feature", "properties": { "number": "8501664", "designationOfficial": "Geschinen" }, "geometry": { "type": "Point", "coordinates": [ 8.28210576169, 46.491653336820001 ] } },
+{ "type": "Feature", "properties": { "number": "8501667", "designationOfficial": "Gluringen" }, "geometry": { "type": "Point", "coordinates": [ 8.233906714430001, 46.46278231134 ] } },
+{ "type": "Feature", "properties": { "number": "8501666", "designationOfficial": "Reckingen VS" }, "geometry": { "type": "Point", "coordinates": [ 8.243888022, 46.46822531574 ] } },
+{ "type": "Feature", "properties": { "number": "8501661", "designationOfficial": "Oberwald" }, "geometry": { "type": "Point", "coordinates": [ 8.342944816839999, 46.530851312940001 ] } },
+{ "type": "Feature", "properties": { "number": "8501669", "designationOfficial": "Blitzingen" }, "geometry": { "type": "Point", "coordinates": [ 8.204967015499999, 46.444664867919997 ] } },
+{ "type": "Feature", "properties": { "number": "8501668", "designationOfficial": "Biel (Goms)" }, "geometry": { "type": "Point", "coordinates": [ 8.219428619189999, 46.455056511080002 ] } },
+{ "type": "Feature", "properties": { "number": "8501663", "designationOfficial": "Ulrichen" }, "geometry": { "type": "Point", "coordinates": [ 8.308820614589999, 46.505018209889997 ] } },
+{ "type": "Feature", "properties": { "number": "8501662", "designationOfficial": "Obergesteln" }, "geometry": { "type": "Point", "coordinates": [ 8.32613402554, 46.513287971700002 ] } },
+{ "type": "Feature", "properties": { "number": "8501671", "designationOfficial": "Fürgangen-Bellwald Talstation" }, "geometry": { "type": "Point", "coordinates": [ 8.15231682297, 46.411897429840003 ] } },
+{ "type": "Feature", "properties": { "number": "8501665", "designationOfficial": "Münster VS" }, "geometry": { "type": "Point", "coordinates": [ 8.266531947360001, 46.485361145330003 ] } },
+{ "type": "Feature", "properties": { "number": "8501670", "designationOfficial": "Niederwald" }, "geometry": { "type": "Point", "coordinates": [ 8.190214149419999, 46.435331017880003 ] } },
+{ "type": "Feature", "properties": { "number": "8501673", "designationOfficial": "Lax" }, "geometry": { "type": "Point", "coordinates": [ 8.117147796919999, 46.387008751380002 ] } },
+{ "type": "Feature", "properties": { "number": "8501672", "designationOfficial": "Fiesch" }, "geometry": { "type": "Point", "coordinates": [ 8.1341917528, 46.406284769129996 ] } },
+{ "type": "Feature", "properties": { "number": "8501675", "designationOfficial": "Bettmeralp Talstation" }, "geometry": { "type": "Point", "coordinates": [ 8.076519852960001, 46.371157872479998 ] } },
+{ "type": "Feature", "properties": { "number": "8501674", "designationOfficial": "Grengiols" }, "geometry": { "type": "Point", "coordinates": [ 8.091682205630001, 46.375211168889997 ] } },
+{ "type": "Feature", "properties": { "number": "8501677", "designationOfficial": "Bitsch" }, "geometry": { "type": "Point", "coordinates": [ 8.01722378609, 46.3360571686 ] } },
+{ "type": "Feature", "properties": { "number": "8501676", "designationOfficial": "Mörel" }, "geometry": { "type": "Point", "coordinates": [ 8.04714048292, 46.356208683749998 ] } },
+{ "type": "Feature", "properties": { "number": "8501729", "designationOfficial": "Fiesch Feriendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.13077222768, 46.397325215179997 ] } },
+{ "type": "Feature", "properties": { "number": "8501605", "designationOfficial": "Visp" }, "geometry": { "type": "Point", "coordinates": [ 7.88146547575, 46.294029135389998 ] } },
+{ "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
+{ "type": "Feature", "properties": { "number": "8505163", "designationOfficial": "Realp" }, "geometry": { "type": "Point", "coordinates": [ 8.503458516469999, 46.598625759390004 ] } },
+{ "type": "Feature", "properties": { "number": "8505164", "designationOfficial": "Hospental" }, "geometry": { "type": "Point", "coordinates": [ 8.57096435385, 46.621082266050003 ] } },
+{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } }
+]
+}

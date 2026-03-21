@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "8506216",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506105", "designationOfficial": "Weinfelden" }, "geometry": { "type": "Point", "coordinates": [ 9.10636822199, 47.566224263229998 ] } },
+{ "type": "Feature", "properties": { "number": "8506106", "designationOfficial": "Bürglen TG" }, "geometry": { "type": "Point", "coordinates": [ 9.149876589210001, 47.549098428690002 ] } },
+{ "type": "Feature", "properties": { "number": "8506311", "designationOfficial": "Rorschach" }, "geometry": { "type": "Point", "coordinates": [ 9.505141287400001, 47.478001975429997 ] } },
+{ "type": "Feature", "properties": { "number": "8506301", "designationOfficial": "St. Gallen Bruggen" }, "geometry": { "type": "Point", "coordinates": [ 9.329654928149999, 47.40720285207 ] } },
+{ "type": "Feature", "properties": { "number": "8506313", "designationOfficial": "Rheineck" }, "geometry": { "type": "Point", "coordinates": [ 9.59091263503, 47.466885933900002 ] } },
+{ "type": "Feature", "properties": { "number": "8506300", "designationOfficial": "St. Gallen Winkeln" }, "geometry": { "type": "Point", "coordinates": [ 9.30086029135, 47.403929411059998 ] } },
+{ "type": "Feature", "properties": { "number": "8506303", "designationOfficial": "St. Gallen St. Fiden" }, "geometry": { "type": "Point", "coordinates": [ 9.39344380222, 47.434540382469997 ] } },
+{ "type": "Feature", "properties": { "number": "8506312", "designationOfficial": "Staad SG" }, "geometry": { "type": "Point", "coordinates": [ 9.535528813339999, 47.480688525730002 ] } },
+{ "type": "Feature", "properties": { "number": "8506302", "designationOfficial": "St. Gallen" }, "geometry": { "type": "Point", "coordinates": [ 9.36989666272, 47.423178949899999 ] } },
+{ "type": "Feature", "properties": { "number": "8506305", "designationOfficial": "Goldach" }, "geometry": { "type": "Point", "coordinates": [ 9.46699692736, 47.473798150150003 ] } },
+{ "type": "Feature", "properties": { "number": "8506314", "designationOfficial": "St. Margrethen SG" }, "geometry": { "type": "Point", "coordinates": [ 9.63826192024, 47.453215993729998 ] } },
+{ "type": "Feature", "properties": { "number": "8506322", "designationOfficial": "Rorschach Stadt" }, "geometry": { "type": "Point", "coordinates": [ 9.489363708480001, 47.475592326159997 ] } },
+{ "type": "Feature", "properties": { "number": "8506211", "designationOfficial": "Arnegg" }, "geometry": { "type": "Point", "coordinates": [ 9.25202500196, 47.442001647269997 ] } },
+{ "type": "Feature", "properties": { "number": "8506216", "designationOfficial": "Kradolf" }, "geometry": { "type": "Point", "coordinates": [ 9.201575060490001, 47.524722437409999 ] } },
+{ "type": "Feature", "properties": { "number": "8506210", "designationOfficial": "Gossau SG" }, "geometry": { "type": "Point", "coordinates": [ 9.25305069333, 47.41183157855 ] } },
+{ "type": "Feature", "properties": { "number": "8506213", "designationOfficial": "Bischofszell Stadt" }, "geometry": { "type": "Point", "coordinates": [ 9.24147856207, 47.492140908709999 ] } },
+{ "type": "Feature", "properties": { "number": "8506212", "designationOfficial": "Hauptwil" }, "geometry": { "type": "Point", "coordinates": [ 9.251591533799999, 47.476866593430003 ] } },
+{ "type": "Feature", "properties": { "number": "8506215", "designationOfficial": "Bischofszell Nord" }, "geometry": { "type": "Point", "coordinates": [ 9.234035276509999, 47.500415214930001 ] } },
+{ "type": "Feature", "properties": { "number": "8506214", "designationOfficial": "Sitterdorf" }, "geometry": { "type": "Point", "coordinates": [ 9.24899690821, 47.505218446889998 ] } },
+{ "type": "Feature", "properties": { "number": "8506217", "designationOfficial": "Sulgen" }, "geometry": { "type": "Point", "coordinates": [ 9.183694438910001, 47.538804025520001 ] } }
+]
+}

@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "8503096",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503087", "designationOfficial": "Zürich Saalsporthalle" }, "geometry": { "type": "Point", "coordinates": [ 8.52196914528, 47.357795369949997 ] } },
+{ "type": "Feature", "properties": { "number": "8503086", "designationOfficial": "Zürich Brunau" }, "geometry": { "type": "Point", "coordinates": [ 8.52623535098, 47.351641779019999 ] } },
+{ "type": "Feature", "properties": { "number": "8503089", "designationOfficial": "Wildpark-Höfli" }, "geometry": { "type": "Point", "coordinates": [ 8.535648893239999, 47.296541974500002 ] } },
+{ "type": "Feature", "properties": { "number": "8503096", "designationOfficial": "Adliswil" }, "geometry": { "type": "Point", "coordinates": [ 8.52425366798, 47.312274478669998 ] } },
+{ "type": "Feature", "properties": { "number": "8503091", "designationOfficial": "Zürich Giesshübel" }, "geometry": { "type": "Point", "coordinates": [ 8.522016334110001, 47.362611102499997 ] } },
+{ "type": "Feature", "properties": { "number": "8503099", "designationOfficial": "Sihlau" }, "geometry": { "type": "Point", "coordinates": [ 8.52516835662, 47.303288555 ] } },
+{ "type": "Feature", "properties": { "number": "8503090", "designationOfficial": "Zürich Selnau" }, "geometry": { "type": "Point", "coordinates": [ 8.53172495488, 47.372238343479999 ] } },
+{ "type": "Feature", "properties": { "number": "8503098", "designationOfficial": "Sihlwald" }, "geometry": { "type": "Point", "coordinates": [ 8.55750854775, 47.268293771590002 ] } },
+{ "type": "Feature", "properties": { "number": "8503093", "designationOfficial": "Zürich Manegg" }, "geometry": { "type": "Point", "coordinates": [ 8.51962904891, 47.337936833770001 ] } },
+{ "type": "Feature", "properties": { "number": "8503095", "designationOfficial": "Sood-Oberleimbach" }, "geometry": { "type": "Point", "coordinates": [ 8.521519715449999, 47.319622418329999 ] } },
+{ "type": "Feature", "properties": { "number": "8503094", "designationOfficial": "Zürich Leimbach" }, "geometry": { "type": "Point", "coordinates": [ 8.51856404602, 47.333044321549998 ] } },
+{ "type": "Feature", "properties": { "number": "8503097", "designationOfficial": "Langnau-Gattikon" }, "geometry": { "type": "Point", "coordinates": [ 8.54383396105, 47.287306508109999 ] } }
+]
+}

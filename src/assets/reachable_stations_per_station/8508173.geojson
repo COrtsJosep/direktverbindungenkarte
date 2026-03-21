@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8508173",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
+{ "type": "Feature", "properties": { "number": "8508151", "designationOfficial": "Langenthal Gaswerk" }, "geometry": { "type": "Point", "coordinates": [ 7.7821799997, 47.224800001369999 ] } },
+{ "type": "Feature", "properties": { "number": "8508168", "designationOfficial": "Roggwil Buchägerten" }, "geometry": { "type": "Point", "coordinates": [ 7.83194000266, 47.235659996919999 ] } },
+{ "type": "Feature", "properties": { "number": "8508161", "designationOfficial": "Kaltenherberg" }, "geometry": { "type": "Point", "coordinates": [ 7.79959000261, 47.23717999742 ] } },
+{ "type": "Feature", "properties": { "number": "8508173", "designationOfficial": "Roggwil Schmitten" }, "geometry": { "type": "Point", "coordinates": [ 7.81592000307, 47.237619996329997 ] } },
+{ "type": "Feature", "properties": { "number": "8508163", "designationOfficial": "St. Urban" }, "geometry": { "type": "Point", "coordinates": [ 7.83581696547, 47.23175054987 ] } },
+{ "type": "Feature", "properties": { "number": "8508162", "designationOfficial": "Roggwil Dorf" }, "geometry": { "type": "Point", "coordinates": [ 7.82234000247, 47.239339998890003 ] } },
+{ "type": "Feature", "properties": { "number": "8508164", "designationOfficial": "St. Urban Ziegelei" }, "geometry": { "type": "Point", "coordinates": [ 7.83614895163, 47.227198696499997 ] } },
+{ "type": "Feature", "properties": { "number": "8594258", "designationOfficial": "Langenthal Industrie Nord" }, "geometry": { "type": "Point", "coordinates": [ 7.78647123805, 47.22855696117 ] } }
+]
+}

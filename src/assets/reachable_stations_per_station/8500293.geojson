@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "8500293",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500212", "designationOfficial": "Oensingen" }, "geometry": { "type": "Point", "coordinates": [ 7.709870322, 47.28503510558 ] } },
+{ "type": "Feature", "properties": { "number": "8500293", "designationOfficial": "Thalbrücke" }, "geometry": { "type": "Point", "coordinates": [ 7.68827181596, 47.308422052689998 ] } },
+{ "type": "Feature", "properties": { "number": "8500292", "designationOfficial": "Klus" }, "geometry": { "type": "Point", "coordinates": [ 7.69379293637, 47.304263550599998 ] } },
+{ "type": "Feature", "properties": { "number": "8500294", "designationOfficial": "Balsthal" }, "geometry": { "type": "Point", "coordinates": [ 7.69466870824, 47.313193135939997 ] } }
+]
+}

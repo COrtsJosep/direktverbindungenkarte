@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "8500164",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500100", "designationOfficial": "Tavannes" }, "geometry": { "type": "Point", "coordinates": [ 7.20164538962, 47.219844660310002 ] } },
+{ "type": "Feature", "properties": { "number": "8500162", "designationOfficial": "Tramelan-Dessous" }, "geometry": { "type": "Point", "coordinates": [ 7.11274363867, 47.222483781229997 ] } },
+{ "type": "Feature", "properties": { "number": "8500165", "designationOfficial": "Le Pied-d'Or" }, "geometry": { "type": "Point", "coordinates": [ 7.05622164099, 47.222105521720003 ] } },
+{ "type": "Feature", "properties": { "number": "8500164", "designationOfficial": "Tramelan-Chalet" }, "geometry": { "type": "Point", "coordinates": [ 7.09230696596, 47.223533132199996 ] } },
+{ "type": "Feature", "properties": { "number": "8500167", "designationOfficial": "Les Breuleux-Eglise" }, "geometry": { "type": "Point", "coordinates": [ 7.00242153863, 47.213008177669998 ] } },
+{ "type": "Feature", "properties": { "number": "8500174", "designationOfficial": "Le Noirmont" }, "geometry": { "type": "Point", "coordinates": [ 6.95647271185, 47.223258594710003 ] } },
+{ "type": "Feature", "properties": { "number": "8500171", "designationOfficial": "Les Reussilles" }, "geometry": { "type": "Point", "coordinates": [ 7.08313516691, 47.224338433980002 ] } },
+{ "type": "Feature", "properties": { "number": "8500170", "designationOfficial": "Tramelan" }, "geometry": { "type": "Point", "coordinates": [ 7.104299475, 47.22282543267 ] } },
+{ "type": "Feature", "properties": { "number": "8500173", "designationOfficial": "Les Breuleux" }, "geometry": { "type": "Point", "coordinates": [ 7.00554767582, 47.210701560739999 ] } },
+{ "type": "Feature", "properties": { "number": "8500172", "designationOfficial": "La Chaux-des-Breuleux" }, "geometry": { "type": "Point", "coordinates": [ 7.0254184099, 47.220494838100002 ] } }
+]
+}

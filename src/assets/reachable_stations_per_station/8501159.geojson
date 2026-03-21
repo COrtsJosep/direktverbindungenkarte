@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "8501159",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501151", "designationOfficial": "Les Charbonnières" }, "geometry": { "type": "Point", "coordinates": [ 6.31704477281, 46.66429453984 ] } },
+{ "type": "Feature", "properties": { "number": "8501153", "designationOfficial": "Le Lieu" }, "geometry": { "type": "Point", "coordinates": [ 6.2834072012, 46.646899958219997 ] } },
+{ "type": "Feature", "properties": { "number": "8501152", "designationOfficial": "Le Séchey" }, "geometry": { "type": "Point", "coordinates": [ 6.30601199608, 46.658476128979999 ] } },
+{ "type": "Feature", "properties": { "number": "8501155", "designationOfficial": "Le Rocheray" }, "geometry": { "type": "Point", "coordinates": [ 6.25026365958, 46.624457244209999 ] } },
+{ "type": "Feature", "properties": { "number": "8501154", "designationOfficial": "Les Esserts-de-Rive" }, "geometry": { "type": "Point", "coordinates": [ 6.26036835372, 46.631984256359999 ] } },
+{ "type": "Feature", "properties": { "number": "8501157", "designationOfficial": "Le Sentier-L'Orient" }, "geometry": { "type": "Point", "coordinates": [ 6.23142655342, 46.605791169040003 ] } },
+{ "type": "Feature", "properties": { "number": "8501156", "designationOfficial": "Le Solliat-La Golisse" }, "geometry": { "type": "Point", "coordinates": [ 6.23902295172, 46.61440647573 ] } },
+{ "type": "Feature", "properties": { "number": "8501159", "designationOfficial": "Le Brassus" }, "geometry": { "type": "Point", "coordinates": [ 6.21394488318, 46.585543941429997 ] } },
+{ "type": "Feature", "properties": { "number": "8501100", "designationOfficial": "Le Pont" }, "geometry": { "type": "Point", "coordinates": [ 6.32471989242, 46.668667491599997 ] } },
+{ "type": "Feature", "properties": { "number": "8501103", "designationOfficial": "Vallorbe" }, "geometry": { "type": "Point", "coordinates": [ 6.37056563541, 46.712406324299998 ] } },
+{ "type": "Feature", "properties": { "number": "8501104", "designationOfficial": "Le Day" }, "geometry": { "type": "Point", "coordinates": [ 6.39902378652, 46.720031528230002 ] } },
+{ "type": "Feature", "properties": { "number": "8530783", "designationOfficial": "Chez-le-Maître-Ecoles" }, "geometry": { "type": "Point", "coordinates": [ 6.22215117049, 46.599460647880001 ] } }
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "8507083",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504108", "designationOfficial": "Bern Europaplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.40611755507, 46.944209832920002 ] } },
+{ "type": "Feature", "properties": { "number": "8507095", "designationOfficial": "Schwarzwasserbrücke" }, "geometry": { "type": "Point", "coordinates": [ 7.36237505488, 46.862794144570003 ] } },
+{ "type": "Feature", "properties": { "number": "8507083", "designationOfficial": "Köniz" }, "geometry": { "type": "Point", "coordinates": [ 7.4149120576, 46.924606555570001 ] } },
+{ "type": "Feature", "properties": { "number": "8507085", "designationOfficial": "Gasel" }, "geometry": { "type": "Point", "coordinates": [ 7.40069191182, 46.900928013280001 ] } },
+{ "type": "Feature", "properties": { "number": "8507084", "designationOfficial": "Moos" }, "geometry": { "type": "Point", "coordinates": [ 7.40102637084, 46.909985939019997 ] } },
+{ "type": "Feature", "properties": { "number": "8507087", "designationOfficial": "Mittelhäusern" }, "geometry": { "type": "Point", "coordinates": [ 7.36772084355, 46.876402113749997 ] } },
+{ "type": "Feature", "properties": { "number": "8507086", "designationOfficial": "Niederscherli" }, "geometry": { "type": "Point", "coordinates": [ 7.38807012176, 46.886436979069998 ] } },
+{ "type": "Feature", "properties": { "number": "8507089", "designationOfficial": "Schwarzenburg" }, "geometry": { "type": "Point", "coordinates": [ 7.34256155547, 46.819109778310001 ] } },
+{ "type": "Feature", "properties": { "number": "8507088", "designationOfficial": "Lanzenhäusern" }, "geometry": { "type": "Point", "coordinates": [ 7.34706898115, 46.841931135270002 ] } },
+{ "type": "Feature", "properties": { "number": "8507091", "designationOfficial": "Liebefeld" }, "geometry": { "type": "Point", "coordinates": [ 7.41898786959, 46.930011161220001 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } }
+]
+}

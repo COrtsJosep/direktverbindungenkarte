@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "8508271",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8508081", "designationOfficial": "Burgdorf Steinhof" }, "geometry": { "type": "Point", "coordinates": [ 7.61953942949, 47.051199893769997 ] } },
+{ "type": "Feature", "properties": { "number": "8508080", "designationOfficial": "Oberburg" }, "geometry": { "type": "Point", "coordinates": [ 7.6293428672, 47.039609543239997 ] } },
+{ "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
+{ "type": "Feature", "properties": { "number": "8508272", "designationOfficial": "Sumiswald-Grünen" }, "geometry": { "type": "Point", "coordinates": [ 7.73715325665, 47.025443346240003 ] } },
+{ "type": "Feature", "properties": { "number": "8508265", "designationOfficial": "Hasle-Rüegsau" }, "geometry": { "type": "Point", "coordinates": [ 7.65532241986, 47.016262786630001 ] } },
+{ "type": "Feature", "properties": { "number": "8508267", "designationOfficial": "Ramsei" }, "geometry": { "type": "Point", "coordinates": [ 7.70993011037, 46.996876997500003 ] } },
+{ "type": "Feature", "properties": { "number": "8508266", "designationOfficial": "Lützelflüh-Goldbach" }, "geometry": { "type": "Point", "coordinates": [ 7.68227424956, 47.00502149055 ] } },
+{ "type": "Feature", "properties": { "number": "8508271", "designationOfficial": "Grünenmatt" }, "geometry": { "type": "Point", "coordinates": [ 7.72390423295, 47.008400340009999 ] } }
+]
+}

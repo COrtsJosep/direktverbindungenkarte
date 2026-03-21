@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8501565",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501500", "designationOfficial": "Martigny" }, "geometry": { "type": "Point", "coordinates": [ 7.07912412849, 46.105831207169999 ] } },
+{ "type": "Feature", "properties": { "number": "8501561", "designationOfficial": "Vernayaz MC" }, "geometry": { "type": "Point", "coordinates": [ 7.04460764789, 46.130414182609996 ] } },
+{ "type": "Feature", "properties": { "number": "8501568", "designationOfficial": "Le Châtelard-Frontière" }, "geometry": { "type": "Point", "coordinates": [ 6.94987904428, 46.053255325190001 ] } },
+{ "type": "Feature", "properties": { "number": "8501563", "designationOfficial": "Les Marécottes" }, "geometry": { "type": "Point", "coordinates": [ 7.01169182583, 46.112311726279998 ] } },
+{ "type": "Feature", "properties": { "number": "8501562", "designationOfficial": "Salvan" }, "geometry": { "type": "Point", "coordinates": [ 7.02104949376, 46.121612395249997 ] } },
+{ "type": "Feature", "properties": { "number": "8501565", "designationOfficial": "Finhaut" }, "geometry": { "type": "Point", "coordinates": [ 6.97613107, 46.082404420289997 ] } },
+{ "type": "Feature", "properties": { "number": "8501564", "designationOfficial": "Le Trétien" }, "geometry": { "type": "Point", "coordinates": [ 6.99772622088, 46.10231762806 ] } },
+{ "type": "Feature", "properties": { "number": "8530334", "designationOfficial": "La Médettaz" }, "geometry": { "type": "Point", "coordinates": [ 7.00783909249, 46.108833702680002 ] } },
+{ "type": "Feature", "properties": { "number": "8501566", "designationOfficial": "Le Châtelard VS" }, "geometry": { "type": "Point", "coordinates": [ 6.95841126688, 46.061882869340003 ] } }
+]
+}

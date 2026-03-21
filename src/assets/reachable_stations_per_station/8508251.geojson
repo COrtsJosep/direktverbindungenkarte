@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "8508251",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500207", "designationOfficial": "Solothurn" }, "geometry": { "type": "Point", "coordinates": [ 7.54268921098, 47.204192502879998 ] } },
+{ "type": "Feature", "properties": { "number": "8508081", "designationOfficial": "Burgdorf Steinhof" }, "geometry": { "type": "Point", "coordinates": [ 7.61953942949, 47.051199893769997 ] } },
+{ "type": "Feature", "properties": { "number": "8508080", "designationOfficial": "Oberburg" }, "geometry": { "type": "Point", "coordinates": [ 7.6293428672, 47.039609543239997 ] } },
+{ "type": "Feature", "properties": { "number": "8508083", "designationOfficial": "Burgdorf Buchmatt" }, "geometry": { "type": "Point", "coordinates": [ 7.60827597482, 47.065457970840001 ] } },
+{ "type": "Feature", "properties": { "number": "8508085", "designationOfficial": "Aefligen" }, "geometry": { "type": "Point", "coordinates": [ 7.55925321768, 47.095593510729998 ] } },
+{ "type": "Feature", "properties": { "number": "8508084", "designationOfficial": "Kirchberg-Alchenflüh" }, "geometry": { "type": "Point", "coordinates": [ 7.58106589855, 47.082900980769999 ] } },
+{ "type": "Feature", "properties": { "number": "8508087", "designationOfficial": "Wiler" }, "geometry": { "type": "Point", "coordinates": [ 7.5559333442, 47.152297019510002 ] } },
+{ "type": "Feature", "properties": { "number": "8508086", "designationOfficial": "Utzenstorf" }, "geometry": { "type": "Point", "coordinates": [ 7.55362761912, 47.129537149980003 ] } },
+{ "type": "Feature", "properties": { "number": "8508089", "designationOfficial": "Biberist Ost" }, "geometry": { "type": "Point", "coordinates": [ 7.56619090812, 47.180601918980003 ] } },
+{ "type": "Feature", "properties": { "number": "8508088", "designationOfficial": "Gerlafingen" }, "geometry": { "type": "Point", "coordinates": [ 7.56528939033, 47.170562946840001 ] } },
+{ "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
+{ "type": "Feature", "properties": { "number": "8508202", "designationOfficial": "Konolfingen" }, "geometry": { "type": "Point", "coordinates": [ 7.6213670273, 46.880702418909998 ] } },
+{ "type": "Feature", "properties": { "number": "8508261", "designationOfficial": "Biglen" }, "geometry": { "type": "Point", "coordinates": [ 7.62670288412, 46.924617392439998 ] } },
+{ "type": "Feature", "properties": { "number": "8508260", "designationOfficial": "Grosshöchstetten" }, "geometry": { "type": "Point", "coordinates": [ 7.63491888331, 46.904631363139998 ] } },
+{ "type": "Feature", "properties": { "number": "8508251", "designationOfficial": "Steffisburg" }, "geometry": { "type": "Point", "coordinates": [ 7.61516056376, 46.77300002 ] } },
+{ "type": "Feature", "properties": { "number": "8508250", "designationOfficial": "Schwäbis" }, "geometry": { "type": "Point", "coordinates": [ 7.61928460179, 46.762670363150001 ] } },
+{ "type": "Feature", "properties": { "number": "8508263", "designationOfficial": "Bigenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.62337471465, 46.965398134989996 ] } },
+{ "type": "Feature", "properties": { "number": "8508262", "designationOfficial": "Walkringen" }, "geometry": { "type": "Point", "coordinates": [ 7.61889017344, 46.947537007089998 ] } },
+{ "type": "Feature", "properties": { "number": "8508253", "designationOfficial": "Heimberg" }, "geometry": { "type": "Point", "coordinates": [ 7.60613070754, 46.790873682890002 ] } },
+{ "type": "Feature", "properties": { "number": "8508252", "designationOfficial": "Lädeli" }, "geometry": { "type": "Point", "coordinates": [ 7.60903167052, 46.781613643779998 ] } },
+{ "type": "Feature", "properties": { "number": "8508265", "designationOfficial": "Hasle-Rüegsau" }, "geometry": { "type": "Point", "coordinates": [ 7.65532241986, 47.016262786630001 ] } },
+{ "type": "Feature", "properties": { "number": "8508255", "designationOfficial": "Oberdiessbach" }, "geometry": { "type": "Point", "coordinates": [ 7.61780934473, 46.839262536100001 ] } },
+{ "type": "Feature", "properties": { "number": "8508264", "designationOfficial": "Schafhausen i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.65675663838, 46.994467393290002 ] } },
+{ "type": "Feature", "properties": { "number": "8508254", "designationOfficial": "Brenzikofen" }, "geometry": { "type": "Point", "coordinates": [ 7.61074516003, 46.818344756069997 ] } },
+{ "type": "Feature", "properties": { "number": "8508256", "designationOfficial": "Stalden i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.62286900031, 46.870893301279999 ] } },
+{ "type": "Feature", "properties": { "number": "8507100", "designationOfficial": "Thun" }, "geometry": { "type": "Point", "coordinates": [ 7.62960582867, 46.754852730590002 ] } }
+]
+}

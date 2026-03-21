@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "8500280",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500211", "designationOfficial": "Niederbipp" }, "geometry": { "type": "Point", "coordinates": [ 7.69481806732, 47.270401734330001 ] } },
+{ "type": "Feature", "properties": { "number": "8500212", "designationOfficial": "Oensingen" }, "geometry": { "type": "Point", "coordinates": [ 7.709870322, 47.28503510558 ] } },
+{ "type": "Feature", "properties": { "number": "8500207", "designationOfficial": "Solothurn" }, "geometry": { "type": "Point", "coordinates": [ 7.54268921098, 47.204192502879998 ] } },
+{ "type": "Feature", "properties": { "number": "8500274", "designationOfficial": "Feldbrunnen" }, "geometry": { "type": "Point", "coordinates": [ 7.5558600001, 47.220660001120002 ] } },
+{ "type": "Feature", "properties": { "number": "8500280", "designationOfficial": "Solothurn Baseltor" }, "geometry": { "type": "Point", "coordinates": [ 7.54190000355, 47.209989995240001 ] } },
+{ "type": "Feature", "properties": { "number": "8500283", "designationOfficial": "Riedholz" }, "geometry": { "type": "Point", "coordinates": [ 7.57268000517, 47.231029994399996 ] } },
+{ "type": "Feature", "properties": { "number": "8500285", "designationOfficial": "Flumenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.5966800031, 47.239159995370002 ] } },
+{ "type": "Feature", "properties": { "number": "8500287", "designationOfficial": "Wiedlisbach" }, "geometry": { "type": "Point", "coordinates": [ 7.6461000005, 47.252880001359998 ] } },
+{ "type": "Feature", "properties": { "number": "8500286", "designationOfficial": "Attiswil" }, "geometry": { "type": "Point", "coordinates": [ 7.61387999724, 47.246399994740003 ] } },
+{ "type": "Feature", "properties": { "number": "8500289", "designationOfficial": "Buchli" }, "geometry": { "type": "Point", "coordinates": [ 7.67838999781, 47.263630000900001 ] } },
+{ "type": "Feature", "properties": { "number": "8500288", "designationOfficial": "Oberbipp" }, "geometry": { "type": "Point", "coordinates": [ 7.6610129384, 47.259736271329999 ] } },
+{ "type": "Feature", "properties": { "number": "8500273", "designationOfficial": "St. Katharinen" }, "geometry": { "type": "Point", "coordinates": [ 7.5497899983, 47.216109997719997 ] } },
+{ "type": "Feature", "properties": { "number": "8500272", "designationOfficial": "Solothurn Sternen" }, "geometry": { "type": "Point", "coordinates": [ 7.54536000468, 47.212300000809996 ] } },
+{ "type": "Feature", "properties": { "number": "8500275", "designationOfficial": "Bei den Weihern" }, "geometry": { "type": "Point", "coordinates": [ 7.56659000007, 47.228389995839997 ] } },
+{ "type": "Feature", "properties": { "number": "8518690", "designationOfficial": "Niederbipp Industrie" }, "geometry": { "type": "Point", "coordinates": [ 7.70317000505, 47.278639995090003 ] } }
+]
+}

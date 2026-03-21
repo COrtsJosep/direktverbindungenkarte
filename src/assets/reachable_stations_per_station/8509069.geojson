@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "8509069",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8509070", "designationOfficial": "Davos Laret" }, "geometry": { "type": "Point", "coordinates": [ 9.873394250440001, 46.84819595551 ] } },
+{ "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
+{ "type": "Feature", "properties": { "number": "8509073", "designationOfficial": "Davos Platz" }, "geometry": { "type": "Point", "coordinates": [ 9.821008807169999, 46.791774931280003 ] } },
+{ "type": "Feature", "properties": { "number": "8509068", "designationOfficial": "Klosters Platz" }, "geometry": { "type": "Point", "coordinates": [ 9.88084727765, 46.869553734189999 ] } },
+{ "type": "Feature", "properties": { "number": "8509072", "designationOfficial": "Davos Dorf" }, "geometry": { "type": "Point", "coordinates": [ 9.84182788359, 46.80955535815 ] } },
+{ "type": "Feature", "properties": { "number": "8509069", "designationOfficial": "Cavadürli" }, "geometry": { "type": "Point", "coordinates": [ 9.86783438756, 46.870602194180002 ] } },
+{ "type": "Feature", "properties": { "number": "8509071", "designationOfficial": "Davos Wolfgang" }, "geometry": { "type": "Point", "coordinates": [ 9.85484083169, 46.831831748109998 ] } },
+{ "type": "Feature", "properties": { "number": "8509061", "designationOfficial": "Furna" }, "geometry": { "type": "Point", "coordinates": [ 9.708982065320001, 46.939549404559997 ] } },
+{ "type": "Feature", "properties": { "number": "8509062", "designationOfficial": "Jenaz" }, "geometry": { "type": "Point", "coordinates": [ 9.718564152860001, 46.929595333679998 ] } },
+{ "type": "Feature", "properties": { "number": "8509065", "designationOfficial": "Saas im Prättigau" }, "geometry": { "type": "Point", "coordinates": [ 9.81016395506, 46.907542130700001 ] } },
+{ "type": "Feature", "properties": { "number": "8509067", "designationOfficial": "Klosters Dorf" }, "geometry": { "type": "Point", "coordinates": [ 9.875227145649999, 46.88361442926 ] } },
+{ "type": "Feature", "properties": { "number": "8509058", "designationOfficial": "Seewis-Pardisla" }, "geometry": { "type": "Point", "coordinates": [ 9.632366112310001, 46.97698033044 ] } },
+{ "type": "Feature", "properties": { "number": "8509063", "designationOfficial": "Fideris" }, "geometry": { "type": "Point", "coordinates": [ 9.73382511342, 46.922235699250002 ] } },
+{ "type": "Feature", "properties": { "number": "8509059", "designationOfficial": "Grüsch" }, "geometry": { "type": "Point", "coordinates": [ 9.645913242080001, 46.98056360647 ] } },
+{ "type": "Feature", "properties": { "number": "8509057", "designationOfficial": "Malans GR" }, "geometry": { "type": "Point", "coordinates": [ 9.57368677325, 46.977724619409997 ] } },
+{ "type": "Feature", "properties": { "number": "8509060", "designationOfficial": "Schiers" }, "geometry": { "type": "Point", "coordinates": [ 9.688043165390001, 46.968012222650003 ] } },
+{ "type": "Feature", "properties": { "number": "8509064", "designationOfficial": "Küblis" }, "geometry": { "type": "Point", "coordinates": [ 9.771862786350001, 46.914238307950001 ] } }
+]
+}

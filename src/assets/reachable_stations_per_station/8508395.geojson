@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "8508395",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8508308", "designationOfficial": "Meiringen" }, "geometry": { "type": "Point", "coordinates": [ 8.184251214950001, 46.727332153730003 ] } },
+{ "type": "Feature", "properties": { "number": "8508359", "designationOfficial": "Innertkirchen Kraftwerk (Bahn)" }, "geometry": { "type": "Point", "coordinates": [ 8.232509167470001, 46.70226129105 ] } },
+{ "type": "Feature", "properties": { "number": "8508395", "designationOfficial": "Innertkirchen Grimseltor" }, "geometry": { "type": "Point", "coordinates": [ 8.22959307024, 46.705575954849998 ] } },
+{ "type": "Feature", "properties": { "number": "8530760", "designationOfficial": "Aareschlucht West" }, "geometry": { "type": "Point", "coordinates": [ 8.19857711981, 46.721247453140002 ] } },
+{ "type": "Feature", "properties": { "number": "8530800", "designationOfficial": "Innertkirchen Unterwasser" }, "geometry": { "type": "Point", "coordinates": [ 8.22607936514, 46.708096942909997 ] } },
+{ "type": "Feature", "properties": { "number": "8530799", "designationOfficial": "Meiringen Alpbach" }, "geometry": { "type": "Point", "coordinates": [ 8.19001455159, 46.72311132982 ] } }
+]
+}

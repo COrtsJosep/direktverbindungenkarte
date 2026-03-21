@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "8503462",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503424", "designationOfficial": "Schaffhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.632755780129999, 47.698281514820003 ] } },
+{ "type": "Feature", "properties": { "number": "8503462", "designationOfficial": "Herblingen" }, "geometry": { "type": "Point", "coordinates": [ 8.66431086709, 47.717210363649997 ] } },
+{ "type": "Feature", "properties": { "number": "8503461", "designationOfficial": "Thayngen" }, "geometry": { "type": "Point", "coordinates": [ 8.70216652013, 47.74562537245 ] } }
+]
+}

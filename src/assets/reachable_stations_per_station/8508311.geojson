@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "8508311",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
+{ "type": "Feature", "properties": { "number": "8507492", "designationOfficial": "Interlaken Ost" }, "geometry": { "type": "Point", "coordinates": [ 7.86900000435, 46.690499996189999 ] } },
+{ "type": "Feature", "properties": { "number": "8508301", "designationOfficial": "Ringgenberg" }, "geometry": { "type": "Point", "coordinates": [ 7.89982544778, 46.703861259340002 ] } },
+{ "type": "Feature", "properties": { "number": "8508303", "designationOfficial": "Oberried am Brienzersee" }, "geometry": { "type": "Point", "coordinates": [ 7.95892631977, 46.736557760879997 ] } },
+{ "type": "Feature", "properties": { "number": "8508313", "designationOfficial": "Sachseln" }, "geometry": { "type": "Point", "coordinates": [ 8.23830577823, 46.870962364930001 ] } },
+{ "type": "Feature", "properties": { "number": "8508312", "designationOfficial": "Giswil" }, "geometry": { "type": "Point", "coordinates": [ 8.18631769163, 46.836534400090002 ] } },
+{ "type": "Feature", "properties": { "number": "8508302", "designationOfficial": "Niederried" }, "geometry": { "type": "Point", "coordinates": [ 7.92868412087, 46.716430969299999 ] } },
+{ "type": "Feature", "properties": { "number": "8508305", "designationOfficial": "Brienz" }, "geometry": { "type": "Point", "coordinates": [ 8.038946329850001, 46.754843736959998 ] } },
+{ "type": "Feature", "properties": { "number": "8508314", "designationOfficial": "Sarnen" }, "geometry": { "type": "Point", "coordinates": [ 8.247499358520001, 46.894606273919997 ] } },
+{ "type": "Feature", "properties": { "number": "8508304", "designationOfficial": "Ebligen" }, "geometry": { "type": "Point", "coordinates": [ 7.99003698893, 46.752624162750003 ] } },
+{ "type": "Feature", "properties": { "number": "8508329", "designationOfficial": "Brienz West" }, "geometry": { "type": "Point", "coordinates": [ 8.02037664339, 46.757312277680001 ] } },
+{ "type": "Feature", "properties": { "number": "8508309", "designationOfficial": "Brünig-Hasliberg" }, "geometry": { "type": "Point", "coordinates": [ 8.13865406129, 46.757762571560001 ] } },
+{ "type": "Feature", "properties": { "number": "8508308", "designationOfficial": "Meiringen" }, "geometry": { "type": "Point", "coordinates": [ 8.184251214950001, 46.727332153730003 ] } },
+{ "type": "Feature", "properties": { "number": "8508311", "designationOfficial": "Kaiserstuhl OW" }, "geometry": { "type": "Point", "coordinates": [ 8.175524692170001, 46.814366545920002 ] } },
+{ "type": "Feature", "properties": { "number": "8508310", "designationOfficial": "Lungern" }, "geometry": { "type": "Point", "coordinates": [ 8.163564728780001, 46.786352832219997 ] } },
+{ "type": "Feature", "properties": { "number": "8508306", "designationOfficial": "Brienzwiler" }, "geometry": { "type": "Point", "coordinates": [ 8.090630227069999, 46.745684696090002 ] } }
+]
+}

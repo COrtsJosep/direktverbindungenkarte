@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8506196",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506105", "designationOfficial": "Weinfelden" }, "geometry": { "type": "Point", "coordinates": [ 9.10636822199, 47.566224263229998 ] } },
+{ "type": "Feature", "properties": { "number": "8506128", "designationOfficial": "Kreuzlingen Hafen" }, "geometry": { "type": "Point", "coordinates": [ 9.18198226764, 47.64916395657 ] } },
+{ "type": "Feature", "properties": { "number": "8506131", "designationOfficial": "Kreuzlingen" }, "geometry": { "type": "Point", "coordinates": [ 9.16908041834, 47.652552766539998 ] } },
+{ "type": "Feature", "properties": { "number": "8506193", "designationOfficial": "Kehlhof" }, "geometry": { "type": "Point", "coordinates": [ 9.16974849674, 47.5722560325 ] } },
+{ "type": "Feature", "properties": { "number": "8506195", "designationOfficial": "Siegershausen" }, "geometry": { "type": "Point", "coordinates": [ 9.168260018070001, 47.610916997229999 ] } },
+{ "type": "Feature", "properties": { "number": "8506194", "designationOfficial": "Berg" }, "geometry": { "type": "Point", "coordinates": [ 9.17392192891, 47.582489130479999 ] } },
+{ "type": "Feature", "properties": { "number": "8506197", "designationOfficial": "Kreuzlingen Bernrain" }, "geometry": { "type": "Point", "coordinates": [ 9.163204126949999, 47.642114497850002 ] } },
+{ "type": "Feature", "properties": { "number": "8506196", "designationOfficial": "Lengwil" }, "geometry": { "type": "Point", "coordinates": [ 9.19028316548, 47.625597764289999 ] } },
+{ "type": "Feature", "properties": { "number": "8506198", "designationOfficial": "Tägerwilen Dorf" }, "geometry": { "type": "Point", "coordinates": [ 9.139559599569999, 47.653721175389997 ] } }
+]
+}

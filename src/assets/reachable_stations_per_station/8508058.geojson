@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "8508058",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500207", "designationOfficial": "Solothurn" }, "geometry": { "type": "Point", "coordinates": [ 7.54268921098, 47.204192502879998 ] } },
+{ "type": "Feature", "properties": { "number": "8504410", "designationOfficial": "Zollikofen" }, "geometry": { "type": "Point", "coordinates": [ 7.46291119582, 47.001825935440003 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
+{ "type": "Feature", "properties": { "number": "8508054", "designationOfficial": "Worblaufen" }, "geometry": { "type": "Point", "coordinates": [ 7.45763000019, 46.978839998520002 ] } },
+{ "type": "Feature", "properties": { "number": "8508057", "designationOfficial": "Schönbühl RBS" }, "geometry": { "type": "Point", "coordinates": [ 7.49780999929, 47.020479998239999 ] } },
+{ "type": "Feature", "properties": { "number": "8508056", "designationOfficial": "Moosseedorf" }, "geometry": { "type": "Point", "coordinates": [ 7.48484999391, 47.01614000096 ] } },
+{ "type": "Feature", "properties": { "number": "8508062", "designationOfficial": "Büren zum Hof" }, "geometry": { "type": "Point", "coordinates": [ 7.51880999629, 47.095949993940003 ] } },
+{ "type": "Feature", "properties": { "number": "8508059", "designationOfficial": "Jegenstorf" }, "geometry": { "type": "Point", "coordinates": [ 7.50777999617, 47.047609993990001 ] } },
+{ "type": "Feature", "properties": { "number": "8508058", "designationOfficial": "Urtenen" }, "geometry": { "type": "Point", "coordinates": [ 7.50064999877, 47.02888999983 ] } },
+{ "type": "Feature", "properties": { "number": "8508064", "designationOfficial": "Bätterkinden" }, "geometry": { "type": "Point", "coordinates": [ 7.53440000642, 47.130019994720001 ] } },
+{ "type": "Feature", "properties": { "number": "8508061", "designationOfficial": "Fraubrunnen" }, "geometry": { "type": "Point", "coordinates": [ 7.52221594389, 47.086581551259997 ] } },
+{ "type": "Feature", "properties": { "number": "8508060", "designationOfficial": "Grafenried" }, "geometry": { "type": "Point", "coordinates": [ 7.51160999717, 47.080120000530002 ] } },
+{ "type": "Feature", "properties": { "number": "8508066", "designationOfficial": "Lohn-Lüterkofen" }, "geometry": { "type": "Point", "coordinates": [ 7.52695999344, 47.162990001529998 ] } },
+{ "type": "Feature", "properties": { "number": "8508063", "designationOfficial": "Schalunen" }, "geometry": { "type": "Point", "coordinates": [ 7.52417000108, 47.110160001600001 ] } },
+{ "type": "Feature", "properties": { "number": "8508068", "designationOfficial": "Biberist RBS" }, "geometry": { "type": "Point", "coordinates": [ 7.55583057208, 47.183860006590002 ] } },
+{ "type": "Feature", "properties": { "number": "8508071", "designationOfficial": "Schönbühl Shoppyland" }, "geometry": { "type": "Point", "coordinates": [ 7.49362999456, 47.018619995670001 ] } },
+{ "type": "Feature", "properties": { "number": "8508070", "designationOfficial": "Oberzollikofen" }, "geometry": { "type": "Point", "coordinates": [ 7.46162999571, 46.996949994280001 ] } }
+]
+}

@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "8504182",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504221", "designationOfficial": "Neuchâtel" }, "geometry": { "type": "Point", "coordinates": [ 6.93570169412, 46.996726792559997 ] } },
+{ "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
+{ "type": "Feature", "properties": { "number": "8504128", "designationOfficial": "Murten/Morat" }, "geometry": { "type": "Point", "coordinates": [ 7.11528264747, 46.925346691199998 ] } },
+{ "type": "Feature", "properties": { "number": "8504181", "designationOfficial": "Givisiez" }, "geometry": { "type": "Point", "coordinates": [ 7.12996152131, 46.816755948020003 ] } },
+{ "type": "Feature", "properties": { "number": "8504183", "designationOfficial": "Pensier" }, "geometry": { "type": "Point", "coordinates": [ 7.13529000092, 46.841609998679999 ] } },
+{ "type": "Feature", "properties": { "number": "8504140", "designationOfficial": "Muntelier-Löwenberg" }, "geometry": { "type": "Point", "coordinates": [ 7.13326152062, 46.937974151429998 ] } },
+{ "type": "Feature", "properties": { "number": "8504182", "designationOfficial": "Belfaux-Village" }, "geometry": { "type": "Point", "coordinates": [ 7.11023000315, 46.822699994419999 ] } },
+{ "type": "Feature", "properties": { "number": "8504185", "designationOfficial": "Cressier FR" }, "geometry": { "type": "Point", "coordinates": [ 7.14971999811, 46.900179997430001 ] } },
+{ "type": "Feature", "properties": { "number": "8504184", "designationOfficial": "Courtepin" }, "geometry": { "type": "Point", "coordinates": [ 7.12270999353, 46.867119996489997 ] } },
+{ "type": "Feature", "properties": { "number": "8504186", "designationOfficial": "Münchenwiler-Courgevaux" }, "geometry": { "type": "Point", "coordinates": [ 7.1162299945, 46.910899999610002 ] } },
+{ "type": "Feature", "properties": { "number": "8504188", "designationOfficial": "Sugiez" }, "geometry": { "type": "Point", "coordinates": [ 7.11934999568, 46.964130001069996 ] } },
+{ "type": "Feature", "properties": { "number": "8504483", "designationOfficial": "Ins" }, "geometry": { "type": "Point", "coordinates": [ 7.09956100561, 46.999831409 ] } },
+{ "type": "Feature", "properties": { "number": "8504482", "designationOfficial": "Gampelen" }, "geometry": { "type": "Point", "coordinates": [ 7.05644227051, 47.009363626830002 ] } },
+{ "type": "Feature", "properties": { "number": "8504480", "designationOfficial": "St-Blaise-Lac" }, "geometry": { "type": "Point", "coordinates": [ 6.98468647064, 47.012104300570002 ] } },
+{ "type": "Feature", "properties": { "number": "8504481", "designationOfficial": "Marin-Epagnier" }, "geometry": { "type": "Point", "coordinates": [ 7.01059479053, 47.009106888540003 ] } }
+]
+}

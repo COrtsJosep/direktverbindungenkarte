@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "8506275",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506271", "designationOfficial": "Gontenbad" }, "geometry": { "type": "Point", "coordinates": [ 9.372436908159999, 47.331663609320003 ] } },
+{ "type": "Feature", "properties": { "number": "8506275", "designationOfficial": "Steinegg" }, "geometry": { "type": "Point", "coordinates": [ 9.430785672560001, 47.320111359130003 ] } },
+{ "type": "Feature", "properties": { "number": "8506277", "designationOfficial": "Schwende" }, "geometry": { "type": "Point", "coordinates": [ 9.435588065519999, 47.300052624519999 ] } },
+{ "type": "Feature", "properties": { "number": "8506281", "designationOfficial": "Waldstatt" }, "geometry": { "type": "Point", "coordinates": [ 9.286109922750001, 47.357514651270002 ] } },
+{ "type": "Feature", "properties": { "number": "8506280", "designationOfficial": "Herisau Wilen" }, "geometry": { "type": "Point", "coordinates": [ 9.27925620557, 47.375678218090002 ] } },
+{ "type": "Feature", "properties": { "number": "8506283", "designationOfficial": "Urnäsch" }, "geometry": { "type": "Point", "coordinates": [ 9.28546301968, 47.317830952469997 ] } },
+{ "type": "Feature", "properties": { "number": "8506282", "designationOfficial": "Zürchersmühle" }, "geometry": { "type": "Point", "coordinates": [ 9.292823858269999, 47.330179805690001 ] } },
+{ "type": "Feature", "properties": { "number": "8506285", "designationOfficial": "Gonten" }, "geometry": { "type": "Point", "coordinates": [ 9.347328500870001, 47.32817888788 ] } },
+{ "type": "Feature", "properties": { "number": "8506284", "designationOfficial": "Jakobsbad" }, "geometry": { "type": "Point", "coordinates": [ 9.32817511877, 47.320078662249998 ] } },
+{ "type": "Feature", "properties": { "number": "8506286", "designationOfficial": "Appenzell" }, "geometry": { "type": "Point", "coordinates": [ 9.40952979938, 47.328534780029997 ] } },
+{ "type": "Feature", "properties": { "number": "8506289", "designationOfficial": "Wasserauen" }, "geometry": { "type": "Point", "coordinates": [ 9.428614971609999, 47.285560749689999 ] } },
+{ "type": "Feature", "properties": { "number": "8506288", "designationOfficial": "Weissbad" }, "geometry": { "type": "Point", "coordinates": [ 9.43570140352, 47.310444914809999 ] } },
+{ "type": "Feature", "properties": { "number": "8506290", "designationOfficial": "Herisau" }, "geometry": { "type": "Point", "coordinates": [ 9.27681223562, 47.390165208660001 ] } },
+{ "type": "Feature", "properties": { "number": "8506210", "designationOfficial": "Gossau SG" }, "geometry": { "type": "Point", "coordinates": [ 9.25305069333, 47.41183157855 ] } }
+]
+}

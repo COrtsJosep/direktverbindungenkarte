@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "8501108",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501121", "designationOfficial": "Pully" }, "geometry": { "type": "Point", "coordinates": [ 6.65946814021, 46.510923623179998 ] } },
+{ "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
+{ "type": "Feature", "properties": { "number": "8501123", "designationOfficial": "Villette VD" }, "geometry": { "type": "Point", "coordinates": [ 6.70737729881, 46.495424818810001 ] } },
+{ "type": "Feature", "properties": { "number": "8501122", "designationOfficial": "Lutry" }, "geometry": { "type": "Point", "coordinates": [ 6.69060943656, 46.503786768360001 ] } },
+{ "type": "Feature", "properties": { "number": "8501125", "designationOfficial": "Epesses" }, "geometry": { "type": "Point", "coordinates": [ 6.74516603412, 46.489328795189998 ] } },
+{ "type": "Feature", "properties": { "number": "8501124", "designationOfficial": "Cully" }, "geometry": { "type": "Point", "coordinates": [ 6.72715146685, 46.488561791690003 ] } },
+{ "type": "Feature", "properties": { "number": "8501127", "designationOfficial": "St-Saphorin" }, "geometry": { "type": "Point", "coordinates": [ 6.79703368938, 46.472593707750001 ] } },
+{ "type": "Feature", "properties": { "number": "8501126", "designationOfficial": "Rivaz" }, "geometry": { "type": "Point", "coordinates": [ 6.78459498291, 46.474207736079997 ] } },
+{ "type": "Feature", "properties": { "number": "8501200", "designationOfficial": "Vevey" }, "geometry": { "type": "Point", "coordinates": [ 6.84344559824, 46.463001810660003 ] } },
+{ "type": "Feature", "properties": { "number": "8501103", "designationOfficial": "Vallorbe" }, "geometry": { "type": "Point", "coordinates": [ 6.37056563541, 46.712406324299998 ] } },
+{ "type": "Feature", "properties": { "number": "8501105", "designationOfficial": "Bretonnières" }, "geometry": { "type": "Point", "coordinates": [ 6.47473250427, 46.715055329930003 ] } },
+{ "type": "Feature", "properties": { "number": "8501104", "designationOfficial": "Le Day" }, "geometry": { "type": "Point", "coordinates": [ 6.39902378652, 46.720031528230002 ] } },
+{ "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },
+{ "type": "Feature", "properties": { "number": "8501107", "designationOfficial": "Arnex" }, "geometry": { "type": "Point", "coordinates": [ 6.51890716329, 46.698077652839999 ] } },
+{ "type": "Feature", "properties": { "number": "8501106", "designationOfficial": "Croy-Romainmôtier" }, "geometry": { "type": "Point", "coordinates": [ 6.47811626855, 46.696712318599999 ] } },
+{ "type": "Feature", "properties": { "number": "8501108", "designationOfficial": "La Sarraz" }, "geometry": { "type": "Point", "coordinates": [ 6.51736100453, 46.658784971579998 ] } },
+{ "type": "Feature", "properties": { "number": "8501115", "designationOfficial": "Cossonay-Penthalaz" }, "geometry": { "type": "Point", "coordinates": [ 6.52368916814, 46.606010085290002 ] } },
+{ "type": "Feature", "properties": { "number": "8501117", "designationOfficial": "Bussigny" }, "geometry": { "type": "Point", "coordinates": [ 6.55182614923, 46.547590367460003 ] } },
+{ "type": "Feature", "properties": { "number": "8518452", "designationOfficial": "Prilly-Malley" }, "geometry": { "type": "Point", "coordinates": [ 6.60262893925, 46.526691976519999 ] } }
+]
+}

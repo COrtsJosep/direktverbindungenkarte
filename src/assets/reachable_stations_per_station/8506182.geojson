@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "8506182",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506105", "designationOfficial": "Weinfelden" }, "geometry": { "type": "Point", "coordinates": [ 9.10636822199, 47.566224263229998 ] } },
+{ "type": "Feature", "properties": { "number": "8506107", "designationOfficial": "Erlen" }, "geometry": { "type": "Point", "coordinates": [ 9.22620198059, 47.551460276489998 ] } },
+{ "type": "Feature", "properties": { "number": "8506106", "designationOfficial": "Bürglen TG" }, "geometry": { "type": "Point", "coordinates": [ 9.149876589210001, 47.549098428690002 ] } },
+{ "type": "Feature", "properties": { "number": "8506109", "designationOfficial": "Amriswil" }, "geometry": { "type": "Point", "coordinates": [ 9.30222720093, 47.550449721219998 ] } },
+{ "type": "Feature", "properties": { "number": "8506108", "designationOfficial": "Oberaach" }, "geometry": { "type": "Point", "coordinates": [ 9.27106226685, 47.55331937375 ] } },
+{ "type": "Feature", "properties": { "number": "8506121", "designationOfficial": "Romanshorn" }, "geometry": { "type": "Point", "coordinates": [ 9.37937129226, 47.565522864869997 ] } },
+{ "type": "Feature", "properties": { "number": "8506168", "designationOfficial": "Tägerschen" }, "geometry": { "type": "Point", "coordinates": [ 9.02479327434, 47.509363876 ] } },
+{ "type": "Feature", "properties": { "number": "8506181", "designationOfficial": "Bronschhofen" }, "geometry": { "type": "Point", "coordinates": [ 9.03467787496, 47.475444379179997 ] } },
+{ "type": "Feature", "properties": { "number": "8506188", "designationOfficial": "Bronschhofen AMP" }, "geometry": { "type": "Point", "coordinates": [ 9.03092805218, 47.481267132870002 ] } },
+{ "type": "Feature", "properties": { "number": "8506183", "designationOfficial": "Tobel-Affeltrangen" }, "geometry": { "type": "Point", "coordinates": [ 9.03370938358, 47.52130135182 ] } },
+{ "type": "Feature", "properties": { "number": "8506190", "designationOfficial": "Bussnang" }, "geometry": { "type": "Point", "coordinates": [ 9.084163066149999, 47.556084052739998 ] } },
+{ "type": "Feature", "properties": { "number": "8506182", "designationOfficial": "Bettwiesen" }, "geometry": { "type": "Point", "coordinates": [ 9.020779633309999, 47.498621331149998 ] } },
+{ "type": "Feature", "properties": { "number": "8506185", "designationOfficial": "Oppikon" }, "geometry": { "type": "Point", "coordinates": [ 9.062103411280001, 47.55206426158 ] } },
+{ "type": "Feature", "properties": { "number": "8506184", "designationOfficial": "Märwil" }, "geometry": { "type": "Point", "coordinates": [ 9.069239039899999, 47.533130690790003 ] } },
+{ "type": "Feature", "properties": { "number": "8506206", "designationOfficial": "Wil SG" }, "geometry": { "type": "Point", "coordinates": [ 9.04099305047, 47.462413242739999 ] } },
+{ "type": "Feature", "properties": { "number": "8506217", "designationOfficial": "Sulgen" }, "geometry": { "type": "Point", "coordinates": [ 9.183694438910001, 47.538804025520001 ] } }
+]
+}

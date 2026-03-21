@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "8500016",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500010", "designationOfficial": "Basel SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.58956279016, 47.547412055050003 ] } },
+{ "type": "Feature", "properties": { "number": "8500016", "designationOfficial": "Basel St. Johann" }, "geometry": { "type": "Point", "coordinates": [ 7.57252938371, 47.570306321250001 ] } }
+]
+}

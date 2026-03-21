@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "8503526",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503020", "designationOfficial": "Zürich Hardbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.517126201470001, 47.385197891499999 ] } },
+{ "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
+{ "type": "Feature", "properties": { "number": "8503004", "designationOfficial": "Zürich Tiefenbrunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.56138984971, 47.350124682619999 ] } },
+{ "type": "Feature", "properties": { "number": "8503007", "designationOfficial": "Zürich Seebach" }, "geometry": { "type": "Point", "coordinates": [ 8.54466021551, 47.418750047099998 ] } },
+{ "type": "Feature", "properties": { "number": "8503006", "designationOfficial": "Zürich Oerlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.544139909989999, 47.411530041200002 ] } },
+{ "type": "Feature", "properties": { "number": "8503008", "designationOfficial": "Zürich Affoltern" }, "geometry": { "type": "Point", "coordinates": [ 8.50858255772, 47.420908945599997 ] } },
+{ "type": "Feature", "properties": { "number": "8503101", "designationOfficial": "Küsnacht ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.58063781685, 47.319156627460004 ] } },
+{ "type": "Feature", "properties": { "number": "8503100", "designationOfficial": "Zollikon" }, "geometry": { "type": "Point", "coordinates": [ 8.569740625830001, 47.337334596520002 ] } },
+{ "type": "Feature", "properties": { "number": "8503103", "designationOfficial": "Herrliberg-Feldmeilen" }, "geometry": { "type": "Point", "coordinates": [ 8.612733422250001, 47.281826601079999 ] } },
+{ "type": "Feature", "properties": { "number": "8503141", "designationOfficial": "Küsnacht Goldbach" }, "geometry": { "type": "Point", "coordinates": [ 8.57596418686, 47.326856705920001 ] } },
+{ "type": "Feature", "properties": { "number": "8503102", "designationOfficial": "Erlenbach ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.59152235725, 47.305791959220002 ] } },
+{ "type": "Feature", "properties": { "number": "8503105", "designationOfficial": "Uetikon" }, "geometry": { "type": "Point", "coordinates": [ 8.67878709851, 47.259030130409997 ] } },
+{ "type": "Feature", "properties": { "number": "8503104", "designationOfficial": "Meilen" }, "geometry": { "type": "Point", "coordinates": [ 8.64431191101, 47.269811151150002 ] } },
+{ "type": "Feature", "properties": { "number": "8503111", "designationOfficial": "Winkel am Zürichsee" }, "geometry": { "type": "Point", "coordinates": [ 8.59898830941, 47.29720784525 ] } },
+{ "type": "Feature", "properties": { "number": "8503505", "designationOfficial": "Wettingen" }, "geometry": { "type": "Point", "coordinates": [ 8.316006171450001, 47.459638175930003 ] } },
+{ "type": "Feature", "properties": { "number": "8503504", "designationOfficial": "Baden" }, "geometry": { "type": "Point", "coordinates": [ 8.307709474039999, 47.476424284620002 ] } },
+{ "type": "Feature", "properties": { "number": "8503525", "designationOfficial": "Otelfingen Golfpark" }, "geometry": { "type": "Point", "coordinates": [ 8.402113454909999, 47.455821643599997 ] } },
+{ "type": "Feature", "properties": { "number": "8503527", "designationOfficial": "Buchs-Dällikon" }, "geometry": { "type": "Point", "coordinates": [ 8.43560174397, 47.45340531179 ] } },
+{ "type": "Feature", "properties": { "number": "8503526", "designationOfficial": "Regensdorf-Watt" }, "geometry": { "type": "Point", "coordinates": [ 8.472084926959999, 47.43656352579 ] } },
+{ "type": "Feature", "properties": { "number": "8503529", "designationOfficial": "Würenlos" }, "geometry": { "type": "Point", "coordinates": [ 8.35766780632, 47.445759471629998 ] } },
+{ "type": "Feature", "properties": { "number": "8503528", "designationOfficial": "Otelfingen" }, "geometry": { "type": "Point", "coordinates": [ 8.38753243209, 47.45493620253 ] } }
+]
+}

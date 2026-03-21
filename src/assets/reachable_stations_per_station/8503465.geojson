@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "8503465",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503424", "designationOfficial": "Schaffhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.632755780129999, 47.698281514820003 ] } },
+{ "type": "Feature", "properties": { "number": "8503467", "designationOfficial": "Trasadingen" }, "geometry": { "type": "Point", "coordinates": [ 8.43739999714, 47.665600000189997 ] } },
+{ "type": "Feature", "properties": { "number": "8518243", "designationOfficial": "Beringerfeld" }, "geometry": { "type": "Point", "coordinates": [ 8.592181973980001, 47.695371571869998 ] } },
+{ "type": "Feature", "properties": { "number": "8503464", "designationOfficial": "Beringen Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 8.57439999981, 47.694899999370001 ] } },
+{ "type": "Feature", "properties": { "number": "8503463", "designationOfficial": "Neuhausen Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 8.612896048590001, 47.682121636730002 ] } },
+{ "type": "Feature", "properties": { "number": "8503465", "designationOfficial": "Neunkirch" }, "geometry": { "type": "Point", "coordinates": [ 8.49479999697, 47.689199998260001 ] } },
+{ "type": "Feature", "properties": { "number": "8503466", "designationOfficial": "Wilchingen-Hallau" }, "geometry": { "type": "Point", "coordinates": [ 8.464000001520001, 47.679499996170001 ] } }
+]
+}

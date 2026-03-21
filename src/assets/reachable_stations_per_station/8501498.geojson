@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "8501498",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501447", "designationOfficial": "Roches Grises" }, "geometry": { "type": "Point", "coordinates": [ 7.06110000336, 46.293759997930003 ] } },
+{ "type": "Feature", "properties": { "number": "8501446", "designationOfficial": "Villars-sur-Ollon Golf" }, "geometry": { "type": "Point", "coordinates": [ 7.07549000434, 46.30911999816 ] } },
+{ "type": "Feature", "properties": { "number": "8501495", "designationOfficial": "Villars-sur-Ollon" }, "geometry": { "type": "Point", "coordinates": [ 7.05623000525, 46.296259997290001 ] } },
+{ "type": "Feature", "properties": { "number": "8501497", "designationOfficial": "Col-de-Soud" }, "geometry": { "type": "Point", "coordinates": [ 7.06954000076, 46.3049400011 ] } },
+{ "type": "Feature", "properties": { "number": "8501499", "designationOfficial": "Col-de-Bretaye" }, "geometry": { "type": "Point", "coordinates": [ 7.07360999384, 46.321929999440002 ] } },
+{ "type": "Feature", "properties": { "number": "8501498", "designationOfficial": "Bouquetins" }, "geometry": { "type": "Point", "coordinates": [ 7.07233999959, 46.316400002329999 ] } }
+]
+}

@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "8508185",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
+{ "type": "Feature", "properties": { "number": "8508293", "designationOfficial": "Zell LU" }, "geometry": { "type": "Point", "coordinates": [ 7.92638197003, 47.13675415753 ] } },
+{ "type": "Feature", "properties": { "number": "8508292", "designationOfficial": "Hüswil" }, "geometry": { "type": "Point", "coordinates": [ 7.90586295259, 47.128574304339999 ] } },
+{ "type": "Feature", "properties": { "number": "8508295", "designationOfficial": "Willisau" }, "geometry": { "type": "Point", "coordinates": [ 7.99671805022, 47.12272068099 ] } },
+{ "type": "Feature", "properties": { "number": "8508294", "designationOfficial": "Gettnau" }, "geometry": { "type": "Point", "coordinates": [ 7.97014012587, 47.140094433599998 ] } },
+{ "type": "Feature", "properties": { "number": "8508297", "designationOfficial": "Menznau" }, "geometry": { "type": "Point", "coordinates": [ 8.04088738522, 47.08342723666 ] } },
+{ "type": "Feature", "properties": { "number": "8508181", "designationOfficial": "Langenthal Süd" }, "geometry": { "type": "Point", "coordinates": [ 7.78019223143, 47.205338078600001 ] } },
+{ "type": "Feature", "properties": { "number": "8508174", "designationOfficial": "Gutenburg" }, "geometry": { "type": "Point", "coordinates": [ 7.79329129549, 47.181790926730002 ] } },
+{ "type": "Feature", "properties": { "number": "8508183", "designationOfficial": "Madiswil" }, "geometry": { "type": "Point", "coordinates": [ 7.79579323113, 47.167049153539999 ] } },
+{ "type": "Feature", "properties": { "number": "8508182", "designationOfficial": "Lotzwil" }, "geometry": { "type": "Point", "coordinates": [ 7.78858905233, 47.18949367618 ] } },
+{ "type": "Feature", "properties": { "number": "8508185", "designationOfficial": "Kleindietwil" }, "geometry": { "type": "Point", "coordinates": [ 7.79097469134, 47.146307917990001 ] } },
+{ "type": "Feature", "properties": { "number": "8508184", "designationOfficial": "Lindenholz" }, "geometry": { "type": "Point", "coordinates": [ 7.79046925437, 47.154563176780002 ] } },
+{ "type": "Feature", "properties": { "number": "8508187", "designationOfficial": "Huttwil" }, "geometry": { "type": "Point", "coordinates": [ 7.84260766282, 47.114490041899998 ] } },
+{ "type": "Feature", "properties": { "number": "8508186", "designationOfficial": "Rohrbach" }, "geometry": { "type": "Point", "coordinates": [ 7.81347419328, 47.137263455199999 ] } },
+{ "type": "Feature", "properties": { "number": "8508215", "designationOfficial": "Wolhusen" }, "geometry": { "type": "Point", "coordinates": [ 8.079754105299999, 47.055487929900004 ] } },
+{ "type": "Feature", "properties": { "number": "8516354", "designationOfficial": "Wolhusen Weid" }, "geometry": { "type": "Point", "coordinates": [ 8.069166749480001, 47.065544875900002 ] } }
+]
+}

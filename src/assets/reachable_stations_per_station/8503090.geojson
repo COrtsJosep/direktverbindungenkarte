@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "8503090",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503056", "designationOfficial": "Ringlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.47742770576, 47.360298394010002 ] } },
+{ "type": "Feature", "properties": { "number": "8503051", "designationOfficial": "Zürich Binz" }, "geometry": { "type": "Point", "coordinates": [ 8.518297363049999, 47.362763074070003 ] } },
+{ "type": "Feature", "properties": { "number": "8503053", "designationOfficial": "Zürich Schweighof" }, "geometry": { "type": "Point", "coordinates": [ 8.503531763890001, 47.364941529340001 ] } },
+{ "type": "Feature", "properties": { "number": "8503052", "designationOfficial": "Zürich Friesenberg" }, "geometry": { "type": "Point", "coordinates": [ 8.50750739155, 47.364799417089998 ] } },
+{ "type": "Feature", "properties": { "number": "8503055", "designationOfficial": "Uitikon Waldegg" }, "geometry": { "type": "Point", "coordinates": [ 8.46592172744, 47.365922158849997 ] } },
+{ "type": "Feature", "properties": { "number": "8503054", "designationOfficial": "Zürich Triemli" }, "geometry": { "type": "Point", "coordinates": [ 8.495379933980001, 47.364990246890002 ] } },
+{ "type": "Feature", "properties": { "number": "8503087", "designationOfficial": "Zürich Saalsporthalle" }, "geometry": { "type": "Point", "coordinates": [ 8.52196914528, 47.357795369949997 ] } },
+{ "type": "Feature", "properties": { "number": "8503086", "designationOfficial": "Zürich Brunau" }, "geometry": { "type": "Point", "coordinates": [ 8.52623535098, 47.351641779019999 ] } },
+{ "type": "Feature", "properties": { "number": "8503089", "designationOfficial": "Wildpark-Höfli" }, "geometry": { "type": "Point", "coordinates": [ 8.535648893239999, 47.296541974500002 ] } },
+{ "type": "Feature", "properties": { "number": "8503096", "designationOfficial": "Adliswil" }, "geometry": { "type": "Point", "coordinates": [ 8.52425366798, 47.312274478669998 ] } },
+{ "type": "Feature", "properties": { "number": "8503091", "designationOfficial": "Zürich Giesshübel" }, "geometry": { "type": "Point", "coordinates": [ 8.522016334110001, 47.362611102499997 ] } },
+{ "type": "Feature", "properties": { "number": "8503099", "designationOfficial": "Sihlau" }, "geometry": { "type": "Point", "coordinates": [ 8.52516835662, 47.303288555 ] } },
+{ "type": "Feature", "properties": { "number": "8503090", "designationOfficial": "Zürich Selnau" }, "geometry": { "type": "Point", "coordinates": [ 8.53172495488, 47.372238343479999 ] } },
+{ "type": "Feature", "properties": { "number": "8503098", "designationOfficial": "Sihlwald" }, "geometry": { "type": "Point", "coordinates": [ 8.55750854775, 47.268293771590002 ] } },
+{ "type": "Feature", "properties": { "number": "8503093", "designationOfficial": "Zürich Manegg" }, "geometry": { "type": "Point", "coordinates": [ 8.51962904891, 47.337936833770001 ] } },
+{ "type": "Feature", "properties": { "number": "8503095", "designationOfficial": "Sood-Oberleimbach" }, "geometry": { "type": "Point", "coordinates": [ 8.521519715449999, 47.319622418329999 ] } },
+{ "type": "Feature", "properties": { "number": "8503094", "designationOfficial": "Zürich Leimbach" }, "geometry": { "type": "Point", "coordinates": [ 8.51856404602, 47.333044321549998 ] } },
+{ "type": "Feature", "properties": { "number": "8503097", "designationOfficial": "Langnau-Gattikon" }, "geometry": { "type": "Point", "coordinates": [ 8.54383396105, 47.287306508109999 ] } },
+{ "type": "Feature", "properties": { "number": "8503057", "designationOfficial": "Uetliberg" }, "geometry": { "type": "Point", "coordinates": [ 8.48755576067, 47.352074369299999 ] } }
+]
+}

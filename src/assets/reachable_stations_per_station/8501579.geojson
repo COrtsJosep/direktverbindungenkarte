@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "8501579",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501500", "designationOfficial": "Martigny" }, "geometry": { "type": "Point", "coordinates": [ 7.07912412849, 46.105831207169999 ] } },
+{ "type": "Feature", "properties": { "number": "8501573", "designationOfficial": "Martigny-Croix" }, "geometry": { "type": "Point", "coordinates": [ 7.05850036228, 46.086703963840002 ] } },
+{ "type": "Feature", "properties": { "number": "8501572", "designationOfficial": "Martigny-Bourg" }, "geometry": { "type": "Point", "coordinates": [ 7.06973576311, 46.093039927200003 ] } },
+{ "type": "Feature", "properties": { "number": "8501575", "designationOfficial": "Bovernier" }, "geometry": { "type": "Point", "coordinates": [ 7.08215513338, 46.078691582369999 ] } },
+{ "type": "Feature", "properties": { "number": "8501576", "designationOfficial": "Sembrancher" }, "geometry": { "type": "Point", "coordinates": [ 7.14583205021, 46.076931280399997 ] } },
+{ "type": "Feature", "properties": { "number": "8501579", "designationOfficial": "Le Châble VS" }, "geometry": { "type": "Point", "coordinates": [ 7.21486016547, 46.079342363089999 ] } },
+{ "type": "Feature", "properties": { "number": "8501580", "designationOfficial": "Etiez" }, "geometry": { "type": "Point", "coordinates": [ 7.160582137, 46.082948163760001 ] } }
+]
+}

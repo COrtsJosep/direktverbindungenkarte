@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "8500025",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500109", "designationOfficial": "Delémont" }, "geometry": { "type": "Point", "coordinates": [ 7.3500633234, 47.362012700089998 ] } },
+{ "type": "Feature", "properties": { "number": "8500113", "designationOfficial": "Laufen" }, "geometry": { "type": "Point", "coordinates": [ 7.50263613094, 47.419346483520002 ] } },
+{ "type": "Feature", "properties": { "number": "8500136", "designationOfficial": "Basel Dreispitz" }, "geometry": { "type": "Point", "coordinates": [ 7.60959592012, 47.537436063329999 ] } },
+{ "type": "Feature", "properties": { "number": "8500115", "designationOfficial": "Grellingen" }, "geometry": { "type": "Point", "coordinates": [ 7.59198835479, 47.441294895239999 ] } },
+{ "type": "Feature", "properties": { "number": "8500114", "designationOfficial": "Zwingen" }, "geometry": { "type": "Point", "coordinates": [ 7.53046303135, 47.433799187300004 ] } },
+{ "type": "Feature", "properties": { "number": "8500117", "designationOfficial": "Aesch BL" }, "geometry": { "type": "Point", "coordinates": [ 7.60306821023, 47.467744662290002 ] } },
+{ "type": "Feature", "properties": { "number": "8500116", "designationOfficial": "Duggingen" }, "geometry": { "type": "Point", "coordinates": [ 7.60346073631, 47.453444859450002 ] } },
+{ "type": "Feature", "properties": { "number": "8500119", "designationOfficial": "Münchenstein" }, "geometry": { "type": "Point", "coordinates": [ 7.61759669026, 47.51339736245 ] } },
+{ "type": "Feature", "properties": { "number": "8500118", "designationOfficial": "Dornach-Arlesheim" }, "geometry": { "type": "Point", "coordinates": [ 7.61111894185, 47.488619836029997 ] } },
+{ "type": "Feature", "properties": { "number": "8500010", "designationOfficial": "Basel SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.58956279016, 47.547412055050003 ] } },
+{ "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
+{ "type": "Feature", "properties": { "number": "8500028", "designationOfficial": "Tecknau" }, "geometry": { "type": "Point", "coordinates": [ 7.88761819102, 47.445760206899998 ] } },
+{ "type": "Feature", "properties": { "number": "8500021", "designationOfficial": "Pratteln" }, "geometry": { "type": "Point", "coordinates": [ 7.69081730427, 47.522668631709998 ] } },
+{ "type": "Feature", "properties": { "number": "8500020", "designationOfficial": "Muttenz" }, "geometry": { "type": "Point", "coordinates": [ 7.64789442691, 47.533591211900003 ] } },
+{ "type": "Feature", "properties": { "number": "8500023", "designationOfficial": "Liestal" }, "geometry": { "type": "Point", "coordinates": [ 7.7313674807, 47.484461172129997 ] } },
+{ "type": "Feature", "properties": { "number": "8500022", "designationOfficial": "Frenkendorf-Füllinsdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.71911053155, 47.50146999108 ] } },
+{ "type": "Feature", "properties": { "number": "8500025", "designationOfficial": "Itingen" }, "geometry": { "type": "Point", "coordinates": [ 7.78722597967, 47.467278717779998 ] } },
+{ "type": "Feature", "properties": { "number": "8500024", "designationOfficial": "Lausen" }, "geometry": { "type": "Point", "coordinates": [ 7.75976281399, 47.47034467249 ] } },
+{ "type": "Feature", "properties": { "number": "8500027", "designationOfficial": "Gelterkinden" }, "geometry": { "type": "Point", "coordinates": [ 7.84766722157, 47.465893719829999 ] } },
+{ "type": "Feature", "properties": { "number": "8500026", "designationOfficial": "Sissach" }, "geometry": { "type": "Point", "coordinates": [ 7.81202757047, 47.462754116859998 ] } }
+]
+}

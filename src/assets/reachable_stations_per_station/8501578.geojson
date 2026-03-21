@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "8501578",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501577", "designationOfficial": "La Douay" }, "geometry": { "type": "Point", "coordinates": [ 7.1487384093, 46.052497956480003 ] } },
+{ "type": "Feature", "properties": { "number": "8501576", "designationOfficial": "Sembrancher" }, "geometry": { "type": "Point", "coordinates": [ 7.14583205021, 46.076931280399997 ] } },
+{ "type": "Feature", "properties": { "number": "8501578", "designationOfficial": "Orsières" }, "geometry": { "type": "Point", "coordinates": [ 7.14361780689, 46.028036843119999 ] } }
+]
+}

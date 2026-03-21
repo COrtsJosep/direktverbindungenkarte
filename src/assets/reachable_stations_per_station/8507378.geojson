@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "8507378",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8507379", "designationOfficial": "Mürren BLM" }, "geometry": { "type": "Point", "coordinates": [ 7.89724173424, 46.564105516929999 ] } },
+{ "type": "Feature", "properties": { "number": "8507378", "designationOfficial": "Grütschalp" }, "geometry": { "type": "Point", "coordinates": [ 7.89087366856, 46.596515564439997 ] } },
+{ "type": "Feature", "properties": { "number": "8507560", "designationOfficial": "Winteregg" }, "geometry": { "type": "Point", "coordinates": [ 7.89604778029, 46.58180491089 ] } }
+]
+}

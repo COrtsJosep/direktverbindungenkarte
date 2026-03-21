@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "8505472",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501179", "designationOfficial": "Pont-de-Drapel" }, "geometry": { "type": "Point", "coordinates": [ 6.98652000427, 46.3198599997 ] } },
+{ "type": "Feature", "properties": { "number": "8501199", "designationOfficial": "La Roulaz" }, "geometry": { "type": "Point", "coordinates": [ 7.00148000014, 46.331319997309997 ] } },
+{ "type": "Feature", "properties": { "number": "8501400", "designationOfficial": "Aigle" }, "geometry": { "type": "Point", "coordinates": [ 6.96368321186, 46.316855418599999 ] } },
+{ "type": "Feature", "properties": { "number": "8501481", "designationOfficial": "Leysin-Village" }, "geometry": { "type": "Point", "coordinates": [ 7.00604999941, 46.339260001109999 ] } },
+{ "type": "Feature", "properties": { "number": "8501480", "designationOfficial": "Rennaz (Leysin)" }, "geometry": { "type": "Point", "coordinates": [ 7.00086999367, 46.327360001499997 ] } },
+{ "type": "Feature", "properties": { "number": "8501483", "designationOfficial": "Leysin-Grand-Hôtel" }, "geometry": { "type": "Point", "coordinates": [ 7.0064299966, 46.345549997840003 ] } },
+{ "type": "Feature", "properties": { "number": "8501482", "designationOfficial": "Leysin-Feydey" }, "geometry": { "type": "Point", "coordinates": [ 7.00836000611, 46.344440002330003 ] } },
+{ "type": "Feature", "properties": { "number": "8501485", "designationOfficial": "Fontanney" }, "geometry": { "type": "Point", "coordinates": [ 6.98229999955, 46.318319994500001 ] } },
+{ "type": "Feature", "properties": { "number": "8501484", "designationOfficial": "Aigle-Dépôt" }, "geometry": { "type": "Point", "coordinates": [ 6.97537000141, 46.31828999455 ] } },
+{ "type": "Feature", "properties": { "number": "8501725", "designationOfficial": "Versmont" }, "geometry": { "type": "Point", "coordinates": [ 7.00694999814, 46.341419998589998 ] } },
+{ "type": "Feature", "properties": { "number": "8501554", "designationOfficial": "Aigle-Place-du-Marché" }, "geometry": { "type": "Point", "coordinates": [ 6.97033999545, 46.317239994 ] } },
+{ "type": "Feature", "properties": { "number": "8505491", "designationOfficial": "Tegna" }, "geometry": { "type": "Point", "coordinates": [ 8.742763671160001, 46.18602415806 ] } },
+{ "type": "Feature", "properties": { "number": "8505493", "designationOfficial": "Cavigliano" }, "geometry": { "type": "Point", "coordinates": [ 8.721204104350001, 46.183760319279997 ] } },
+{ "type": "Feature", "properties": { "number": "8505492", "designationOfficial": "Verscio" }, "geometry": { "type": "Point", "coordinates": [ 8.729477588110001, 46.18456262446 ] } },
+{ "type": "Feature", "properties": { "number": "8505472", "designationOfficial": "Solduno" }, "geometry": { "type": "Point", "coordinates": [ 8.77760932104, 46.16947235109 ] } },
+{ "type": "Feature", "properties": { "number": "8505494", "designationOfficial": "Intragna" }, "geometry": { "type": "Point", "coordinates": [ 8.70227000635, 46.177659996140001 ] } },
+{ "type": "Feature", "properties": { "number": "8505496", "designationOfficial": "Verdasio" }, "geometry": { "type": "Point", "coordinates": [ 8.649199996829999, 46.165209995150001 ] } },
+{ "type": "Feature", "properties": { "number": "8505499", "designationOfficial": "Camedo" }, "geometry": { "type": "Point", "coordinates": [ 8.61094488637, 46.154751302580003 ] } },
+{ "type": "Feature", "properties": { "number": "8505467", "designationOfficial": "Solduno S. Martino" }, "geometry": { "type": "Point", "coordinates": [ 8.77036999387, 46.171999996 ] } },
+{ "type": "Feature", "properties": { "number": "8505471", "designationOfficial": "Locarno S. Antonio" }, "geometry": { "type": "Point", "coordinates": [ 8.78632297929, 46.16881913364 ] } },
+{ "type": "Feature", "properties": { "number": "8505470", "designationOfficial": "Locarno FART" }, "geometry": { "type": "Point", "coordinates": [ 8.80263638485, 46.172645011189999 ] } }
+]
+}

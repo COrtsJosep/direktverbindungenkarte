@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "8507096",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8507063", "designationOfficial": "Worb Dorf" }, "geometry": { "type": "Point", "coordinates": [ 7.56247000137, 46.92997999992 ] } },
+{ "type": "Feature", "properties": { "number": "8507065", "designationOfficial": "Boll-Utzigen" }, "geometry": { "type": "Point", "coordinates": [ 7.54677286673, 46.953020535489998 ] } },
+{ "type": "Feature", "properties": { "number": "8507064", "designationOfficial": "Vechigen" }, "geometry": { "type": "Point", "coordinates": [ 7.55640080867, 46.946435638079997 ] } },
+{ "type": "Feature", "properties": { "number": "8507067", "designationOfficial": "Deisswil" }, "geometry": { "type": "Point", "coordinates": [ 7.51326853887, 46.958228215769999 ] } },
+{ "type": "Feature", "properties": { "number": "8507066", "designationOfficial": "Stettlen" }, "geometry": { "type": "Point", "coordinates": [ 7.524099998, 46.956819997369998 ] } },
+{ "type": "Feature", "properties": { "number": "8507069", "designationOfficial": "Ittigen bei Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.48413000646, 46.973309999080001 ] } },
+{ "type": "Feature", "properties": { "number": "8507068", "designationOfficial": "Bolligen" }, "geometry": { "type": "Point", "coordinates": [ 7.49742000217, 46.969539997639998 ] } },
+{ "type": "Feature", "properties": { "number": "8507096", "designationOfficial": "Papiermühle" }, "geometry": { "type": "Point", "coordinates": [ 7.47658551009, 46.974257308909998 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
+{ "type": "Feature", "properties": { "number": "8508054", "designationOfficial": "Worblaufen" }, "geometry": { "type": "Point", "coordinates": [ 7.45763000019, 46.978839998520002 ] } },
+{ "type": "Feature", "properties": { "number": "8589198", "designationOfficial": "Worbboden" }, "geometry": { "type": "Point", "coordinates": [ 7.55952527022, 46.933929080410003 ] } }
+]
+}

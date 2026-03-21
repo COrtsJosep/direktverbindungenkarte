@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "8504191",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504104", "designationOfficial": "Thörishaus Station" }, "geometry": { "type": "Point", "coordinates": [ 7.35702880474, 46.904625737849997 ] } },
+{ "type": "Feature", "properties": { "number": "8504106", "designationOfficial": "Bern Bümpliz Süd" }, "geometry": { "type": "Point", "coordinates": [ 7.3952379525, 46.937487476039998 ] } },
+{ "type": "Feature", "properties": { "number": "8504103", "designationOfficial": "Flamatt" }, "geometry": { "type": "Point", "coordinates": [ 7.31957081153, 46.888491357280003 ] } },
+{ "type": "Feature", "properties": { "number": "8504108", "designationOfficial": "Bern Europaplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.40611755507, 46.944209832920002 ] } },
+{ "type": "Feature", "properties": { "number": "8504105", "designationOfficial": "Niederwangen" }, "geometry": { "type": "Point", "coordinates": [ 7.3764635312, 46.92550708 ] } },
+{ "type": "Feature", "properties": { "number": "8504115", "designationOfficial": "Thörishaus Dorf" }, "geometry": { "type": "Point", "coordinates": [ 7.35186662436, 46.893569237039998 ] } },
+{ "type": "Feature", "properties": { "number": "8504117", "designationOfficial": "Oberwangen" }, "geometry": { "type": "Point", "coordinates": [ 7.36219565525, 46.914571085680002 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
+{ "type": "Feature", "properties": { "number": "8507003", "designationOfficial": "Gümligen" }, "geometry": { "type": "Point", "coordinates": [ 7.50550479629, 46.934321918789998 ] } },
+{ "type": "Feature", "properties": { "number": "8507002", "designationOfficial": "Ostermundigen" }, "geometry": { "type": "Point", "coordinates": [ 7.48149788168, 46.956802426449997 ] } },
+{ "type": "Feature", "properties": { "number": "8508201", "designationOfficial": "Tägertschi" }, "geometry": { "type": "Point", "coordinates": [ 7.5808365696, 46.882286333549999 ] } },
+{ "type": "Feature", "properties": { "number": "8508204", "designationOfficial": "Bowil" }, "geometry": { "type": "Point", "coordinates": [ 7.69805352593, 46.900048193579998 ] } },
+{ "type": "Feature", "properties": { "number": "8508200", "designationOfficial": "Worb SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.56485160662, 46.915229986290001 ] } },
+{ "type": "Feature", "properties": { "number": "8508203", "designationOfficial": "Zäziwil" }, "geometry": { "type": "Point", "coordinates": [ 7.66288211121, 46.899752311969998 ] } },
+{ "type": "Feature", "properties": { "number": "8508207", "designationOfficial": "Langnau i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.78419743448, 46.939242278720002 ] } },
+{ "type": "Feature", "properties": { "number": "8508202", "designationOfficial": "Konolfingen" }, "geometry": { "type": "Point", "coordinates": [ 7.6213670273, 46.880702418909998 ] } },
+{ "type": "Feature", "properties": { "number": "8508206", "designationOfficial": "Emmenmatt" }, "geometry": { "type": "Point", "coordinates": [ 7.74729483357, 46.948154084659997 ] } },
+{ "type": "Feature", "properties": { "number": "8508205", "designationOfficial": "Signau" }, "geometry": { "type": "Point", "coordinates": [ 7.72546316968, 46.919635083129997 ] } },
+{ "type": "Feature", "properties": { "number": "8516161", "designationOfficial": "Bern Wankdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.46547780088, 46.967825765960001 ] } },
+{ "type": "Feature", "properties": { "number": "8504192", "designationOfficial": "Neuenegg" }, "geometry": { "type": "Point", "coordinates": [ 7.29986000009, 46.89414000008 ] } },
+{ "type": "Feature", "properties": { "number": "8504191", "designationOfficial": "Flamatt Dorf" }, "geometry": { "type": "Point", "coordinates": [ 7.31052000648, 46.889900002170002 ] } },
+{ "type": "Feature", "properties": { "number": "8504194", "designationOfficial": "Laupen BE" }, "geometry": { "type": "Point", "coordinates": [ 7.24201523966, 46.901292463369998 ] } }
+]
+}

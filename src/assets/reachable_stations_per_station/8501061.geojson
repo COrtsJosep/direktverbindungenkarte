@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "8501061",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501030", "designationOfficial": "Nyon" }, "geometry": { "type": "Point", "coordinates": [ 6.23596613063, 46.384418967530003 ] } },
+{ "type": "Feature", "properties": { "number": "8501053", "designationOfficial": "La Vuarpillière" }, "geometry": { "type": "Point", "coordinates": [ 6.21704248122, 46.399099815249997 ] } },
+{ "type": "Feature", "properties": { "number": "8501064", "designationOfficial": "Bassins" }, "geometry": { "type": "Point", "coordinates": [ 6.22230999899, 46.460569994940002 ] } },
+{ "type": "Feature", "properties": { "number": "8501055", "designationOfficial": "Les Pralies" }, "geometry": { "type": "Point", "coordinates": [ 6.12687000389, 46.451180000699999 ] } },
+{ "type": "Feature", "properties": { "number": "8501067", "designationOfficial": "Givrins" }, "geometry": { "type": "Point", "coordinates": [ 6.20522000491, 46.428849995359997 ] } },
+{ "type": "Feature", "properties": { "number": "8501057", "designationOfficial": "La Chèvrerie-Monterêt" }, "geometry": { "type": "Point", "coordinates": [ 6.18350999736, 46.448479997630002 ] } },
+{ "type": "Feature", "properties": { "number": "8501069", "designationOfficial": "L'Asse" }, "geometry": { "type": "Point", "coordinates": [ 6.21184431876, 46.401773580170001 ] } },
+{ "type": "Feature", "properties": { "number": "8501059", "designationOfficial": "Les Plantaz" }, "geometry": { "type": "Point", "coordinates": [ 6.22934185431, 46.390866912379998 ] } },
+{ "type": "Feature", "properties": { "number": "8501068", "designationOfficial": "Trélex" }, "geometry": { "type": "Point", "coordinates": [ 6.20642000428, 46.413719994890002 ] } },
+{ "type": "Feature", "properties": { "number": "8501061", "designationOfficial": "La Givrine" }, "geometry": { "type": "Point", "coordinates": [ 6.11143999975, 46.454599993659997 ] } },
+{ "type": "Feature", "properties": { "number": "8501060", "designationOfficial": "La Cure" }, "geometry": { "type": "Point", "coordinates": [ 6.07357000523, 46.465149997049998 ] } },
+{ "type": "Feature", "properties": { "number": "8501063", "designationOfficial": "Arzier" }, "geometry": { "type": "Point", "coordinates": [ 6.21164999707, 46.458639994659997 ] } },
+{ "type": "Feature", "properties": { "number": "8501062", "designationOfficial": "St-Cergue" }, "geometry": { "type": "Point", "coordinates": [ 6.16036000101, 46.448610000610003 ] } },
+{ "type": "Feature", "properties": { "number": "8501065", "designationOfficial": "Le Muids" }, "geometry": { "type": "Point", "coordinates": [ 6.21542999395, 46.454299993740001 ] } },
+{ "type": "Feature", "properties": { "number": "8519077", "designationOfficial": "St-Cergue Les Cheseaux" }, "geometry": { "type": "Point", "coordinates": [ 6.1472799941, 46.446880002260002 ] } },
+{ "type": "Feature", "properties": { "number": "8501058", "designationOfficial": "Genolier clinique/campus" }, "geometry": { "type": "Point", "coordinates": [ 6.21676001771, 46.446349102569997 ] } },
+{ "type": "Feature", "properties": { "number": "8501066", "designationOfficial": "Genolier" }, "geometry": { "type": "Point", "coordinates": [ 6.21457000531, 46.436249999810002 ] } },
+{ "type": "Feature", "properties": { "number": "8501056", "designationOfficial": "Genolier Sus-Châtel" }, "geometry": { "type": "Point", "coordinates": [ 6.20585999782, 46.438489998969999 ] } },
+{ "type": "Feature", "properties": { "number": "8510670", "designationOfficial": "Trélex dépôt" }, "geometry": { "type": "Point", "coordinates": [ 6.208841, 46.406611 ] } }
+]
+}

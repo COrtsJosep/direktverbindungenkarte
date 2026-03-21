@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8504296",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504200", "designationOfficial": "Yverdon-les-Bains" }, "geometry": { "type": "Point", "coordinates": [ 6.64094400151, 46.781545186979997 ] } },
+{ "type": "Feature", "properties": { "number": "8504291", "designationOfficial": "La Brinaz" }, "geometry": { "type": "Point", "coordinates": [ 6.62021608837, 46.794449025939997 ] } },
+{ "type": "Feature", "properties": { "number": "8504293", "designationOfficial": "Essert-sous-Champvent" }, "geometry": { "type": "Point", "coordinates": [ 6.58015642214, 46.795355654529999 ] } },
+{ "type": "Feature", "properties": { "number": "8504292", "designationOfficial": "Valeyres-sous-Montagny" }, "geometry": { "type": "Point", "coordinates": [ 6.61133901842, 46.796823086190003 ] } },
+{ "type": "Feature", "properties": { "number": "8504295", "designationOfficial": "Baulmes" }, "geometry": { "type": "Point", "coordinates": [ 6.52428177918, 46.788748694959999 ] } },
+{ "type": "Feature", "properties": { "number": "8504294", "designationOfficial": "Vuiteboeuf" }, "geometry": { "type": "Point", "coordinates": [ 6.55374087334, 46.803762417290002 ] } },
+{ "type": "Feature", "properties": { "number": "8504296", "designationOfficial": "Six-Fontaines" }, "geometry": { "type": "Point", "coordinates": [ 6.49876860178, 46.774224331760003 ] } },
+{ "type": "Feature", "properties": { "number": "8504298", "designationOfficial": "Ste-Croix" }, "geometry": { "type": "Point", "coordinates": [ 6.50070486274, 46.8194350554 ] } },
+{ "type": "Feature", "properties": { "number": "8530263", "designationOfficial": "Yverdon William Barbey" }, "geometry": { "type": "Point", "coordinates": [ 6.63167626487, 46.788991991209997 ] } }
+]
+}

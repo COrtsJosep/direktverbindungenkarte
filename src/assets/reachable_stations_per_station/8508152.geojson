@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "8508152",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500211", "designationOfficial": "Niederbipp" }, "geometry": { "type": "Point", "coordinates": [ 7.69481806732, 47.270401734330001 ] } },
+{ "type": "Feature", "properties": { "number": "8500212", "designationOfficial": "Oensingen" }, "geometry": { "type": "Point", "coordinates": [ 7.709870322, 47.28503510558 ] } },
+{ "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
+{ "type": "Feature", "properties": { "number": "8508152", "designationOfficial": "Hard-Mumenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.77487999964, 47.233809995199998 ] } },
+{ "type": "Feature", "properties": { "number": "8508155", "designationOfficial": "Bannwil" }, "geometry": { "type": "Point", "coordinates": [ 7.74036000191, 47.244379998230002 ] } },
+{ "type": "Feature", "properties": { "number": "8508154", "designationOfficial": "Aarwangen Schloss" }, "geometry": { "type": "Point", "coordinates": [ 7.76362000227, 47.245180002410002 ] } },
+{ "type": "Feature", "properties": { "number": "8508157", "designationOfficial": "Holzhäusern" }, "geometry": { "type": "Point", "coordinates": [ 7.71040000047, 47.258159998620002 ] } },
+{ "type": "Feature", "properties": { "number": "8508151", "designationOfficial": "Langenthal Gaswerk" }, "geometry": { "type": "Point", "coordinates": [ 7.7821799997, 47.224800001369999 ] } },
+{ "type": "Feature", "properties": { "number": "8508159", "designationOfficial": "Niederbipp Dorf" }, "geometry": { "type": "Point", "coordinates": [ 7.69514000126, 47.265819998440001 ] } },
+{ "type": "Feature", "properties": { "number": "8508153", "designationOfficial": "Aarwangen" }, "geometry": { "type": "Point", "coordinates": [ 7.76961920518, 47.240875289949997 ] } },
+{ "type": "Feature", "properties": { "number": "8508158", "designationOfficial": "Scharnageln" }, "geometry": { "type": "Point", "coordinates": [ 7.7007899965, 47.263099995959998 ] } },
+{ "type": "Feature", "properties": { "number": "8508193", "designationOfficial": "Aarwangen Vorstadt" }, "geometry": { "type": "Point", "coordinates": [ 7.77131000119, 47.237489993830003 ] } },
+{ "type": "Feature", "properties": { "number": "8518690", "designationOfficial": "Niederbipp Industrie" }, "geometry": { "type": "Point", "coordinates": [ 7.70317000505, 47.278639995090003 ] } }
+]
+}

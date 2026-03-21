@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "8501464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501400", "designationOfficial": "Aigle" }, "geometry": { "type": "Point", "coordinates": [ 6.96368321186, 46.316855418599999 ] } },
+{ "type": "Feature", "properties": { "number": "8501448", "designationOfficial": "Champéry" }, "geometry": { "type": "Point", "coordinates": [ 6.87148999808, 46.17494999414 ] } },
+{ "type": "Feature", "properties": { "number": "8501453", "designationOfficial": "La Cour" }, "geometry": { "type": "Point", "coordinates": [ 6.88667999557, 46.194239997510003 ] } },
+{ "type": "Feature", "properties": { "number": "8501460", "designationOfficial": "Croix-du-Nant" }, "geometry": { "type": "Point", "coordinates": [ 6.92745000391, 46.23966999844 ] } },
+{ "type": "Feature", "properties": { "number": "8501465", "designationOfficial": "Val-d'Illiez" }, "geometry": { "type": "Point", "coordinates": [ 6.89321999734, 46.203609997139999 ] } },
+{ "type": "Feature", "properties": { "number": "8501454", "designationOfficial": "Fayot" }, "geometry": { "type": "Point", "coordinates": [ 6.89950999534, 46.212059998310004 ] } },
+{ "type": "Feature", "properties": { "number": "8501464", "designationOfficial": "Troistorrents" }, "geometry": { "type": "Point", "coordinates": [ 6.91581000304, 46.22828999683 ] } },
+{ "type": "Feature", "properties": { "number": "8501457", "designationOfficial": "Monthey-Hôpital" }, "geometry": { "type": "Point", "coordinates": [ 6.94074999848, 46.251879993689997 ] } },
+{ "type": "Feature", "properties": { "number": "8501466", "designationOfficial": "Champéry-Village" }, "geometry": { "type": "Point", "coordinates": [ 6.87483999802, 46.181479999479997 ] } },
+{ "type": "Feature", "properties": { "number": "8530378", "designationOfficial": "Les Neys" }, "geometry": { "type": "Point", "coordinates": [ 6.9247799983, 46.236020000410001 ] } },
+{ "type": "Feature", "properties": { "number": "8530430", "designationOfficial": "Route de Morgins" }, "geometry": { "type": "Point", "coordinates": [ 6.92142044946, 46.23215132208 ] } },
+{ "type": "Feature", "properties": { "number": "8530463", "designationOfficial": "En Charnet" }, "geometry": { "type": "Point", "coordinates": [ 6.88701000512, 46.197019995680002 ] } },
+{ "type": "Feature", "properties": { "number": "8593467", "designationOfficial": "Pont de Fayot" }, "geometry": { "type": "Point", "coordinates": [ 6.90373000534, 46.21901999536 ] } },
+{ "type": "Feature", "properties": { "number": "8512191", "designationOfficial": "Chemex" }, "geometry": { "type": "Point", "coordinates": [ 6.93180869015, 46.245903633129998 ] } },
+{ "type": "Feature", "properties": { "number": "8501461", "designationOfficial": "Ollon VD" }, "geometry": { "type": "Point", "coordinates": [ 6.99320152352, 46.296704625369998 ] } },
+{ "type": "Feature", "properties": { "number": "8530355", "designationOfficial": "Les Arnoux" }, "geometry": { "type": "Point", "coordinates": [ 6.9967445967, 46.291645051149999 ] } },
+{ "type": "Feature", "properties": { "number": "8501458", "designationOfficial": "Villy" }, "geometry": { "type": "Point", "coordinates": [ 6.99430854477, 46.286854778269998 ] } },
+{ "type": "Feature", "properties": { "number": "8501452", "designationOfficial": "St-Triphon-Gare" }, "geometry": { "type": "Point", "coordinates": [ 6.97364976147, 46.278314726970002 ] } },
+{ "type": "Feature", "properties": { "number": "8530366", "designationOfficial": "Pont du Rhône" }, "geometry": { "type": "Point", "coordinates": [ 6.96166068201, 46.276114827290002 ] } },
+{ "type": "Feature", "properties": { "number": "8501726", "designationOfficial": "Corbier" }, "geometry": { "type": "Point", "coordinates": [ 6.95220443302, 46.272399295290001 ] } },
+{ "type": "Feature", "properties": { "number": "8501462", "designationOfficial": "Collombey-Village" }, "geometry": { "type": "Point", "coordinates": [ 6.94597756515, 46.269386552310003 ] } },
+{ "type": "Feature", "properties": { "number": "8501229", "designationOfficial": "Monthey-En Place" }, "geometry": { "type": "Point", "coordinates": [ 6.94597832221, 46.259251969479998 ] } },
+{ "type": "Feature", "properties": { "number": "8501463", "designationOfficial": "Monthey-Ville" }, "geometry": { "type": "Point", "coordinates": [ 6.94758553321, 46.254017224320002 ] } }
+]
+}

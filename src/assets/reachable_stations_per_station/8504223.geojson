@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "8504223",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504205", "designationOfficial": "Gorgier-St-Aubin" }, "geometry": { "type": "Point", "coordinates": [ 6.78102596556, 46.899076145990001 ] } },
+{ "type": "Feature", "properties": { "number": "8504225", "designationOfficial": "Le Landeron" }, "geometry": { "type": "Point", "coordinates": [ 7.06633533378, 47.05663638587 ] } },
+{ "type": "Feature", "properties": { "number": "8504224", "designationOfficial": "Cressier NE" }, "geometry": { "type": "Point", "coordinates": [ 7.03953207221, 47.051952805159999 ] } },
+{ "type": "Feature", "properties": { "number": "8504206", "designationOfficial": "Bevaix" }, "geometry": { "type": "Point", "coordinates": [ 6.81168026788, 46.92969622607 ] } },
+{ "type": "Feature", "properties": { "number": "8504209", "designationOfficial": "Colombier NE" }, "geometry": { "type": "Point", "coordinates": [ 6.84886974332, 46.967652389500003 ] } },
+{ "type": "Feature", "properties": { "number": "8504226", "designationOfficial": "La Neuveville" }, "geometry": { "type": "Point", "coordinates": [ 7.09523241202, 47.06283278734 ] } },
+{ "type": "Feature", "properties": { "number": "8504229", "designationOfficial": "Tüscherz" }, "geometry": { "type": "Point", "coordinates": [ 7.19731836547, 47.115007752609998 ] } },
+{ "type": "Feature", "properties": { "number": "8504208", "designationOfficial": "Boudry" }, "geometry": { "type": "Point", "coordinates": [ 6.83504762399, 46.95945708723 ] } },
+{ "type": "Feature", "properties": { "number": "8504228", "designationOfficial": "Twann" }, "geometry": { "type": "Point", "coordinates": [ 7.15649750354, 47.093664065589998 ] } },
+{ "type": "Feature", "properties": { "number": "8504219", "designationOfficial": "Auvernier" }, "geometry": { "type": "Point", "coordinates": [ 6.87770804418, 46.979641668840003 ] } },
+{ "type": "Feature", "properties": { "number": "8504221", "designationOfficial": "Neuchâtel" }, "geometry": { "type": "Point", "coordinates": [ 6.93570169412, 46.996726792559997 ] } },
+{ "type": "Feature", "properties": { "number": "8504200", "designationOfficial": "Yverdon-les-Bains" }, "geometry": { "type": "Point", "coordinates": [ 6.64094400151, 46.781545186979997 ] } },
+{ "type": "Feature", "properties": { "number": "8504220", "designationOfficial": "Neuchâtel-Serrières" }, "geometry": { "type": "Point", "coordinates": [ 6.90336268357, 46.983962325379999 ] } },
+{ "type": "Feature", "properties": { "number": "8504203", "designationOfficial": "Concise" }, "geometry": { "type": "Point", "coordinates": [ 6.72315740917, 46.850881543770001 ] } },
+{ "type": "Feature", "properties": { "number": "8504223", "designationOfficial": "Cornaux NE" }, "geometry": { "type": "Point", "coordinates": [ 7.02336566239, 47.038572031260003 ] } },
+{ "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },
+{ "type": "Feature", "properties": { "number": "8504222", "designationOfficial": "St-Blaise CFF" }, "geometry": { "type": "Point", "coordinates": [ 6.98211019495, 47.014575945940003 ] } }
+]
+}

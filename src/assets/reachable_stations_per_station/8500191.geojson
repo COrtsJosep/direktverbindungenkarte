@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "8500191",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500123", "designationOfficial": "Glovelier" }, "geometry": { "type": "Point", "coordinates": [ 7.20931276817, 47.335209519940001 ] } },
+{ "type": "Feature", "properties": { "number": "8500169", "designationOfficial": "Muriaux" }, "geometry": { "type": "Point", "coordinates": [ 6.98523676724, 47.244216967290001 ] } },
+{ "type": "Feature", "properties": { "number": "8500175", "designationOfficial": "Le Creux-des-Biches" }, "geometry": { "type": "Point", "coordinates": [ 6.94066200359, 47.203464000330001 ] } },
+{ "type": "Feature", "properties": { "number": "8500174", "designationOfficial": "Le Noirmont" }, "geometry": { "type": "Point", "coordinates": [ 6.95647271185, 47.223258594710003 ] } },
+{ "type": "Feature", "properties": { "number": "8500191", "designationOfficial": "Saignelégier" }, "geometry": { "type": "Point", "coordinates": [ 6.99419297063, 47.254656461949999 ] } },
+{ "type": "Feature", "properties": { "number": "8500190", "designationOfficial": "Les Emibois" }, "geometry": { "type": "Point", "coordinates": [ 6.98485049167, 47.231896692959999 ] } },
+{ "type": "Feature", "properties": { "number": "8500177", "designationOfficial": "Les Bois" }, "geometry": { "type": "Point", "coordinates": [ 6.90618499515, 47.176901993519998 ] } },
+{ "type": "Feature", "properties": { "number": "8500176", "designationOfficial": "Le Boéchet" }, "geometry": { "type": "Point", "coordinates": [ 6.92211199482, 47.194246994750003 ] } },
+{ "type": "Feature", "properties": { "number": "8500192", "designationOfficial": "Le Bémont JU" }, "geometry": { "type": "Point", "coordinates": [ 7.01408167102, 47.263228480069998 ] } },
+{ "type": "Feature", "properties": { "number": "8500179", "designationOfficial": "La Cibourg" }, "geometry": { "type": "Point", "coordinates": [ 6.88366399811, 47.122125995810002 ] } },
+{ "type": "Feature", "properties": { "number": "8500195", "designationOfficial": "La Combe" }, "geometry": { "type": "Point", "coordinates": [ 7.09951145454, 47.2843294826 ] } },
+{ "type": "Feature", "properties": { "number": "8500178", "designationOfficial": "La Ferrière" }, "geometry": { "type": "Point", "coordinates": [ 6.89405776591, 47.142696768210001 ] } },
+{ "type": "Feature", "properties": { "number": "8500194", "designationOfficial": "Pré-Petitjean" }, "geometry": { "type": "Point", "coordinates": [ 7.05843149659, 47.27705296429 ] } },
+{ "type": "Feature", "properties": { "number": "8500181", "designationOfficial": "La Chaux-d'Abel" }, "geometry": { "type": "Point", "coordinates": [ 6.89877392115, 47.152808045310003 ] } },
+{ "type": "Feature", "properties": { "number": "8500196", "designationOfficial": "Bollement" }, "geometry": { "type": "Point", "coordinates": [ 7.12386478189, 47.296923903500002 ] } },
+{ "type": "Feature", "properties": { "number": "8500180", "designationOfficial": "La Large-Journée" }, "geometry": { "type": "Point", "coordinates": [ 6.8965550824, 47.161280486130003 ] } },
+{ "type": "Feature", "properties": { "number": "8500199", "designationOfficial": "Combe-Tabeillon" }, "geometry": { "type": "Point", "coordinates": [ 7.15786601539, 47.313559538459998 ] } },
+{ "type": "Feature", "properties": { "number": "8500184", "designationOfficial": "La Chaux-de-Fonds-Est" }, "geometry": { "type": "Point", "coordinates": [ 6.83695186329, 47.103400331579998 ] } },
+{ "type": "Feature", "properties": { "number": "8504314", "designationOfficial": "La Chaux-de-Fonds" }, "geometry": { "type": "Point", "coordinates": [ 6.82598272105, 47.098374355479997 ] } }
+]
+}

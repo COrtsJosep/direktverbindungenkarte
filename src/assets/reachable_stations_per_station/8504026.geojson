@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "8504026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
+{ "type": "Feature", "properties": { "number": "8504000", "designationOfficial": "Pully-Nord" }, "geometry": { "type": "Point", "coordinates": [ 6.6579876066, 46.514681464490003 ] } },
+{ "type": "Feature", "properties": { "number": "8504003", "designationOfficial": "Bossière" }, "geometry": { "type": "Point", "coordinates": [ 6.69932176237, 46.50974851438 ] } },
+{ "type": "Feature", "properties": { "number": "8504007", "designationOfficial": "Moreillon" }, "geometry": { "type": "Point", "coordinates": [ 6.78564542808, 46.50839811665 ] } },
+{ "type": "Feature", "properties": { "number": "8504021", "designationOfficial": "Vauderens" }, "geometry": { "type": "Point", "coordinates": [ 6.85003757732, 46.621455380420002 ] } },
+{ "type": "Feature", "properties": { "number": "8504020", "designationOfficial": "Oron" }, "geometry": { "type": "Point", "coordinates": [ 6.837104144, 46.57254560973 ] } },
+{ "type": "Feature", "properties": { "number": "8504023", "designationOfficial": "Romont FR" }, "geometry": { "type": "Point", "coordinates": [ 6.91181142012, 46.693508261230001 ] } },
+{ "type": "Feature", "properties": { "number": "8504011", "designationOfficial": "Grandvaux" }, "geometry": { "type": "Point", "coordinates": [ 6.72265018612, 46.496948240469997 ] } },
+{ "type": "Feature", "properties": { "number": "8504010", "designationOfficial": "La Conversion" }, "geometry": { "type": "Point", "coordinates": [ 6.67832359677, 46.513084497489999 ] } },
+{ "type": "Feature", "properties": { "number": "8504025", "designationOfficial": "Chénens" }, "geometry": { "type": "Point", "coordinates": [ 7.00042964473, 46.749210788969997 ] } },
+{ "type": "Feature", "properties": { "number": "8504024", "designationOfficial": "Villaz-St-Pierre" }, "geometry": { "type": "Point", "coordinates": [ 6.96064288147, 46.720580405040003 ] } },
+{ "type": "Feature", "properties": { "number": "8504012", "designationOfficial": "Puidoux" }, "geometry": { "type": "Point", "coordinates": [ 6.76568648465, 46.493841228789996 ] } },
+{ "type": "Feature", "properties": { "number": "8504027", "designationOfficial": "Neyruz FR" }, "geometry": { "type": "Point", "coordinates": [ 7.06502743208, 46.766049061890001 ] } },
+{ "type": "Feature", "properties": { "number": "8504026", "designationOfficial": "Cottens FR" }, "geometry": { "type": "Point", "coordinates": [ 7.03479432111, 46.75121262863 ] } },
+{ "type": "Feature", "properties": { "number": "8504014", "designationOfficial": "Palézieux" }, "geometry": { "type": "Point", "coordinates": [ 6.83787527681, 46.542763593579998 ] } },
+{ "type": "Feature", "properties": { "number": "8504030", "designationOfficial": "Villars-sur-Glâne" }, "geometry": { "type": "Point", "coordinates": [ 7.11638562388, 46.789829818759998 ] } },
+{ "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
+{ "type": "Feature", "properties": { "number": "8501632", "designationOfficial": "Avry-Matran" }, "geometry": { "type": "Point", "coordinates": [ 7.08043455807, 46.786030170239997 ] } }
+]
+}

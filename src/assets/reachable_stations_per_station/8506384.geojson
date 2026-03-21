@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8506384",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506388", "designationOfficial": "Warmesberg" }, "geometry": { "type": "Point", "coordinates": [ 9.513220567159999, 47.36534372293 ] } },
+{ "type": "Feature", "properties": { "number": "8506379", "designationOfficial": "Altstätten Stadt" }, "geometry": { "type": "Point", "coordinates": [ 9.537491740709999, 47.376836154300001 ] } },
+{ "type": "Feature", "properties": { "number": "8506378", "designationOfficial": "Gais" }, "geometry": { "type": "Point", "coordinates": [ 9.451154441210001, 47.360923572769998 ] } },
+{ "type": "Feature", "properties": { "number": "8506383", "designationOfficial": "Hebrig" }, "geometry": { "type": "Point", "coordinates": [ 9.464828715259999, 47.362149530179998 ] } },
+{ "type": "Feature", "properties": { "number": "8506385", "designationOfficial": "Rietli" }, "geometry": { "type": "Point", "coordinates": [ 9.48713004052, 47.360699295590003 ] } },
+{ "type": "Feature", "properties": { "number": "8506384", "designationOfficial": "Schachen (Gais)" }, "geometry": { "type": "Point", "coordinates": [ 9.477364110850001, 47.361550539109999 ] } },
+{ "type": "Feature", "properties": { "number": "8506387", "designationOfficial": "Kreuzstrasse" }, "geometry": { "type": "Point", "coordinates": [ 9.5052375488, 47.365623437060002 ] } },
+{ "type": "Feature", "properties": { "number": "8506386", "designationOfficial": "Stoss AR" }, "geometry": { "type": "Point", "coordinates": [ 9.49511843028, 47.360790095399999 ] } },
+{ "type": "Feature", "properties": { "number": "8506389", "designationOfficial": "Alter Zoll" }, "geometry": { "type": "Point", "coordinates": [ 9.522038651060001, 47.368580860329999 ] } }
+]
+}

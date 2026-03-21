@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "8504475",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },
+{ "type": "Feature", "properties": { "number": "8504463", "designationOfficial": "Täuffelen" }, "geometry": { "type": "Point", "coordinates": [ 7.19855000115, 47.066509995529998 ] } },
+{ "type": "Feature", "properties": { "number": "8504465", "designationOfficial": "Lüscherz" }, "geometry": { "type": "Point", "coordinates": [ 7.17735000486, 47.048029997690001 ] } },
+{ "type": "Feature", "properties": { "number": "8504464", "designationOfficial": "Hagneck" }, "geometry": { "type": "Point", "coordinates": [ 7.18807000415, 47.0582800006 ] } },
+{ "type": "Feature", "properties": { "number": "8504467", "designationOfficial": "Brüttelen" }, "geometry": { "type": "Point", "coordinates": [ 7.1483000045, 47.020600000050003 ] } },
+{ "type": "Feature", "properties": { "number": "8504483", "designationOfficial": "Ins" }, "geometry": { "type": "Point", "coordinates": [ 7.09956100561, 46.999831409 ] } },
+{ "type": "Feature", "properties": { "number": "8504466", "designationOfficial": "Siselen-Finsterhennen" }, "geometry": { "type": "Point", "coordinates": [ 7.18039000589, 47.03114999428 ] } },
+{ "type": "Feature", "properties": { "number": "8504469", "designationOfficial": "Nidau Beunden" }, "geometry": { "type": "Point", "coordinates": [ 7.24031999956, 47.119820001969998 ] } },
+{ "type": "Feature", "properties": { "number": "8504468", "designationOfficial": "Ins Dorf" }, "geometry": { "type": "Point", "coordinates": [ 7.10680999772, 47.005580000610003 ] } },
+{ "type": "Feature", "properties": { "number": "8504461", "designationOfficial": "Nidau" }, "geometry": { "type": "Point", "coordinates": [ 7.24218997142, 47.123851457930002 ] } },
+{ "type": "Feature", "properties": { "number": "8504471", "designationOfficial": "Ipsach" }, "geometry": { "type": "Point", "coordinates": [ 7.23547999392, 47.117369999669997 ] } },
+{ "type": "Feature", "properties": { "number": "8504470", "designationOfficial": "Ipsach Herdi" }, "geometry": { "type": "Point", "coordinates": [ 7.22893000113, 47.112370001190001 ] } },
+{ "type": "Feature", "properties": { "number": "8504472", "designationOfficial": "Sutz" }, "geometry": { "type": "Point", "coordinates": [ 7.21941999365, 47.10186999634 ] } },
+{ "type": "Feature", "properties": { "number": "8504475", "designationOfficial": "Gerolfingen" }, "geometry": { "type": "Point", "coordinates": [ 7.20125000457, 47.074979997909999 ] } },
+{ "type": "Feature", "properties": { "number": "8504474", "designationOfficial": "Mörigen" }, "geometry": { "type": "Point", "coordinates": [ 7.21222999865, 47.085649996299999 ] } },
+{ "type": "Feature", "properties": { "number": "8504462", "designationOfficial": "Lattrigen" }, "geometry": { "type": "Point", "coordinates": [ 7.21443046539, 47.096950556030002 ] } }
+]
+}

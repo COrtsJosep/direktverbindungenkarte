@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "8505175",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
+{ "type": "Feature", "properties": { "number": "8505179", "designationOfficial": "Segnas" }, "geometry": { "type": "Point", "coordinates": [ 8.82981823972, 46.690997474850001 ] } },
+{ "type": "Feature", "properties": { "number": "8505178", "designationOfficial": "Mumpé Tujetsch" }, "geometry": { "type": "Point", "coordinates": [ 8.82655852087, 46.682117278210001 ] } },
+{ "type": "Feature", "properties": { "number": "8505180", "designationOfficial": "Acla da Fontauna" }, "geometry": { "type": "Point", "coordinates": [ 8.845790850429999, 46.697173822560003 ] } },
+{ "type": "Feature", "properties": { "number": "8505170", "designationOfficial": "Nätschen" }, "geometry": { "type": "Point", "coordinates": [ 8.60960018321, 46.642196413199997 ] } },
+{ "type": "Feature", "properties": { "number": "8505173", "designationOfficial": "Tschamut-Selva" }, "geometry": { "type": "Point", "coordinates": [ 8.70908419369, 46.656744420389998 ] } },
+{ "type": "Feature", "properties": { "number": "8505172", "designationOfficial": "Oberalppass" }, "geometry": { "type": "Point", "coordinates": [ 8.670502362260001, 46.660230060570001 ] } },
+{ "type": "Feature", "properties": { "number": "8505175", "designationOfficial": "Rueras" }, "geometry": { "type": "Point", "coordinates": [ 8.75490784354, 46.678227679179997 ] } },
+{ "type": "Feature", "properties": { "number": "8505174", "designationOfficial": "Dieni" }, "geometry": { "type": "Point", "coordinates": [ 8.74286499978, 46.669931633490002 ] } },
+{ "type": "Feature", "properties": { "number": "8505177", "designationOfficial": "Bugnei" }, "geometry": { "type": "Point", "coordinates": [ 8.786466785429999, 46.68234743304 ] } },
+{ "type": "Feature", "properties": { "number": "8505176", "designationOfficial": "Sedrun" }, "geometry": { "type": "Point", "coordinates": [ 8.769780988779999, 46.681067151230003 ] } },
+{ "type": "Feature", "properties": { "number": "8509179", "designationOfficial": "Disentis/Mustér" }, "geometry": { "type": "Point", "coordinates": [ 8.855174644610001, 46.705093222830001 ] } }
+]
+}

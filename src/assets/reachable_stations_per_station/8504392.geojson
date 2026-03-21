@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "8504392",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504316", "designationOfficial": "Le Locle" }, "geometry": { "type": "Point", "coordinates": [ 6.74615327632, 47.057861041930003 ] } },
+{ "type": "Feature", "properties": { "number": "8504391", "designationOfficial": "Les Frêtes" }, "geometry": { "type": "Point", "coordinates": [ 6.72578795785, 47.058579589380003 ] } },
+{ "type": "Feature", "properties": { "number": "8504392", "designationOfficial": "Les Brenets" }, "geometry": { "type": "Point", "coordinates": [ 6.70738999802, 47.067209996750002 ] } },
+{ "type": "Feature", "properties": { "number": "8530260", "designationOfficial": "Le Locle Le Chalet" }, "geometry": { "type": "Point", "coordinates": [ 6.73883786796, 47.055837862010002 ] } }
+]
+}

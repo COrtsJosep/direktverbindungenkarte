@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "8509254",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8509269", "designationOfficial": "Sagliains" }, "geometry": { "type": "Point", "coordinates": [ 10.10305301589, 46.764828582020002 ] } },
+{ "type": "Feature", "properties": { "number": "8509264", "designationOfficial": "Lavin" }, "geometry": { "type": "Point", "coordinates": [ 10.11101408453, 46.76961814461 ] } },
+{ "type": "Feature", "properties": { "number": "8509263", "designationOfficial": "Susch" }, "geometry": { "type": "Point", "coordinates": [ 10.079460170060001, 46.752058394229998 ] } },
+{ "type": "Feature", "properties": { "number": "8509256", "designationOfficial": "La Punt Chamues-ch" }, "geometry": { "type": "Point", "coordinates": [ 9.92390266083, 46.578848263220003 ] } },
+{ "type": "Feature", "properties": { "number": "8509250", "designationOfficial": "Bever" }, "geometry": { "type": "Point", "coordinates": [ 9.88818417605, 46.54954482662 ] } },
+{ "type": "Feature", "properties": { "number": "8509268", "designationOfficial": "Scuol-Tarasp" }, "geometry": { "type": "Point", "coordinates": [ 10.28680754659, 46.793803299099999 ] } },
+{ "type": "Feature", "properties": { "number": "8509251", "designationOfficial": "Samedan" }, "geometry": { "type": "Point", "coordinates": [ 9.87318700981, 46.533757964780001 ] } },
+{ "type": "Feature", "properties": { "number": "8509255", "designationOfficial": "Pontresina" }, "geometry": { "type": "Point", "coordinates": [ 9.89631725145, 46.490753251930002 ] } },
+{ "type": "Feature", "properties": { "number": "8509262", "designationOfficial": "Zernez" }, "geometry": { "type": "Point", "coordinates": [ 10.090077894949999, 46.697838075219998 ] } },
+{ "type": "Feature", "properties": { "number": "8509259", "designationOfficial": "S-chanf" }, "geometry": { "type": "Point", "coordinates": [ 9.982038262530001, 46.611980184970001 ] } },
+{ "type": "Feature", "properties": { "number": "8509258", "designationOfficial": "Zuoz" }, "geometry": { "type": "Point", "coordinates": [ 9.96129000168, 46.600018645219997 ] } },
+{ "type": "Feature", "properties": { "number": "8509254", "designationOfficial": "Punt Muragl" }, "geometry": { "type": "Point", "coordinates": [ 9.8811549432, 46.509791536350001 ] } },
+{ "type": "Feature", "properties": { "number": "8509257", "designationOfficial": "Madulain" }, "geometry": { "type": "Point", "coordinates": [ 9.938335160679999, 46.586983356659999 ] } },
+{ "type": "Feature", "properties": { "number": "8509267", "designationOfficial": "Ftan Baraigla" }, "geometry": { "type": "Point", "coordinates": [ 10.257983107439999, 46.78772272162 ] } },
+{ "type": "Feature", "properties": { "number": "8509266", "designationOfficial": "Ardez" }, "geometry": { "type": "Point", "coordinates": [ 10.20096734466, 46.773556799170002 ] } },
+{ "type": "Feature", "properties": { "number": "8509265", "designationOfficial": "Guarda" }, "geometry": { "type": "Point", "coordinates": [ 10.150485896899999, 46.77152425341 ] } },
+{ "type": "Feature", "properties": { "number": "8509260", "designationOfficial": "Cinuos-chel-Brail" }, "geometry": { "type": "Point", "coordinates": [ 10.02164213314, 46.637744282299998 ] } }
+]
+}

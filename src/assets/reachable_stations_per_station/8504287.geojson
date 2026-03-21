@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "8504287",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504215", "designationOfficial": "Travers" }, "geometry": { "type": "Point", "coordinates": [ 6.67656165588, 46.942411535010002 ] } },
+{ "type": "Feature", "properties": { "number": "8504217", "designationOfficial": "Champ-du-Moulin" }, "geometry": { "type": "Point", "coordinates": [ 6.77498896578, 46.959911756309999 ] } },
+{ "type": "Feature", "properties": { "number": "8504216", "designationOfficial": "Noiraigue" }, "geometry": { "type": "Point", "coordinates": [ 6.72179914436, 46.954919612109997 ] } },
+{ "type": "Feature", "properties": { "number": "8504219", "designationOfficial": "Auvernier" }, "geometry": { "type": "Point", "coordinates": [ 6.87770804418, 46.979641668840003 ] } },
+{ "type": "Feature", "properties": { "number": "8504218", "designationOfficial": "Bôle" }, "geometry": { "type": "Point", "coordinates": [ 6.83837449666, 46.969422918319999 ] } },
+{ "type": "Feature", "properties": { "number": "8504221", "designationOfficial": "Neuchâtel" }, "geometry": { "type": "Point", "coordinates": [ 6.93570169412, 46.996726792559997 ] } },
+{ "type": "Feature", "properties": { "number": "8504220", "designationOfficial": "Neuchâtel-Serrières" }, "geometry": { "type": "Point", "coordinates": [ 6.90336268357, 46.983962325379999 ] } },
+{ "type": "Feature", "properties": { "number": "8504285", "designationOfficial": "Couvet" }, "geometry": { "type": "Point", "coordinates": [ 6.63529804831, 46.922958545809998 ] } },
+{ "type": "Feature", "properties": { "number": "8504284", "designationOfficial": "La Presta Mines d'asphalte" }, "geometry": { "type": "Point", "coordinates": [ 6.6543614223, 46.931097061270002 ] } },
+{ "type": "Feature", "properties": { "number": "8504287", "designationOfficial": "Fleurier" }, "geometry": { "type": "Point", "coordinates": [ 6.58131693222, 46.904761574609999 ] } },
+{ "type": "Feature", "properties": { "number": "8504286", "designationOfficial": "Môtiers NE" }, "geometry": { "type": "Point", "coordinates": [ 6.61022689725, 46.911822093600001 ] } },
+{ "type": "Feature", "properties": { "number": "8504288", "designationOfficial": "Buttes" }, "geometry": { "type": "Point", "coordinates": [ 6.55319500129, 46.888346246929999 ] } }
+]
+}

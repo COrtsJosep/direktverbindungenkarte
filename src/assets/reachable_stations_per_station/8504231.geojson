@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "8504231",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504231", "designationOfficial": "Les Deurres" }, "geometry": { "type": "Point", "coordinates": [ 6.89914842881, 46.985524711750003 ] } },
+{ "type": "Feature", "properties": { "number": "8504232", "designationOfficial": "Corcelles-Peseux" }, "geometry": { "type": "Point", "coordinates": [ 6.88381355417, 46.983350972419998 ] } },
+{ "type": "Feature", "properties": { "number": "8504221", "designationOfficial": "Neuchâtel" }, "geometry": { "type": "Point", "coordinates": [ 6.93570169412, 46.996726792559997 ] } }
+]
+}

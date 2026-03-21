@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "8502306",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8502007", "designationOfficial": "Sursee" }, "geometry": { "type": "Point", "coordinates": [ 8.09789386466, 47.170795040930003 ] } },
+{ "type": "Feature", "properties": { "number": "8502009", "designationOfficial": "Sempach-Neuenkirch" }, "geometry": { "type": "Point", "coordinates": [ 8.19597905819, 47.116053211610001 ] } },
+{ "type": "Feature", "properties": { "number": "8502008", "designationOfficial": "Nottwil" }, "geometry": { "type": "Point", "coordinates": [ 8.138601024850001, 47.138811747699997 ] } },
+{ "type": "Feature", "properties": { "number": "8502011", "designationOfficial": "Oberkirch LU" }, "geometry": { "type": "Point", "coordinates": [ 8.11423445965, 47.155237622370002 ] } },
+{ "type": "Feature", "properties": { "number": "8502012", "designationOfficial": "Emmenbrücke Kapf" }, "geometry": { "type": "Point", "coordinates": [ 8.27319059247, 47.09090997877 ] } },
+{ "type": "Feature", "properties": { "number": "8502206", "designationOfficial": "Baar" }, "geometry": { "type": "Point", "coordinates": [ 8.52327153739, 47.195364037570002 ] } },
+{ "type": "Feature", "properties": { "number": "8502201", "designationOfficial": "Gisikon-Root" }, "geometry": { "type": "Point", "coordinates": [ 8.39478852665, 47.121327667759999 ] } },
+{ "type": "Feature", "properties": { "number": "8502200", "designationOfficial": "Ebikon" }, "geometry": { "type": "Point", "coordinates": [ 8.34235825617, 47.084262718079998 ] } },
+{ "type": "Feature", "properties": { "number": "8502203", "designationOfficial": "Cham" }, "geometry": { "type": "Point", "coordinates": [ 8.45750476373, 47.178243877409997 ] } },
+{ "type": "Feature", "properties": { "number": "8502202", "designationOfficial": "Rotkreuz" }, "geometry": { "type": "Point", "coordinates": [ 8.430495263899999, 47.141764167220003 ] } },
+{ "type": "Feature", "properties": { "number": "8502204", "designationOfficial": "Zug" }, "geometry": { "type": "Point", "coordinates": [ 8.515049340959999, 47.173706977679998 ] } },
+{ "type": "Feature", "properties": { "number": "8502230", "designationOfficial": "Zug Chollermüli" }, "geometry": { "type": "Point", "coordinates": [ 8.48664570623, 47.180237577760003 ] } },
+{ "type": "Feature", "properties": { "number": "8502021", "designationOfficial": "Emmenbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.282565368009999, 47.070601499669998 ] } },
+{ "type": "Feature", "properties": { "number": "8502028", "designationOfficial": "Emmenbrücke Gersag" }, "geometry": { "type": "Point", "coordinates": [ 8.27682007954, 47.078314178249997 ] } },
+{ "type": "Feature", "properties": { "number": "8502020", "designationOfficial": "Rothenburg Station" }, "geometry": { "type": "Point", "coordinates": [ 8.247561445380001, 47.089183674529998 ] } },
+{ "type": "Feature", "properties": { "number": "8502306", "designationOfficial": "Hünenberg Chämleten" }, "geometry": { "type": "Point", "coordinates": [ 8.44990853795, 47.169159420180002 ] } },
+{ "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
+{ "type": "Feature", "properties": { "number": "8515993", "designationOfficial": "Baar Lindenpark" }, "geometry": { "type": "Point", "coordinates": [ 8.517058460139999, 47.183136694470001 ] } },
+{ "type": "Feature", "properties": { "number": "8515992", "designationOfficial": "Baar Neufeld" }, "geometry": { "type": "Point", "coordinates": [ 8.51778078343, 47.188492951299999 ] } },
+{ "type": "Feature", "properties": { "number": "8515995", "designationOfficial": "Cham Alpenblick" }, "geometry": { "type": "Point", "coordinates": [ 8.471463275370001, 47.18228240397 ] } },
+{ "type": "Feature", "properties": { "number": "8515997", "designationOfficial": "Root D4" }, "geometry": { "type": "Point", "coordinates": [ 8.37376042104, 47.104825387509997 ] } },
+{ "type": "Feature", "properties": { "number": "8515996", "designationOfficial": "Hünenberg Zythus" }, "geometry": { "type": "Point", "coordinates": [ 8.45009524706, 47.173607567259999 ] } },
+{ "type": "Feature", "properties": { "number": "8516350", "designationOfficial": "Buchrain" }, "geometry": { "type": "Point", "coordinates": [ 8.35665850186, 47.093649915109999 ] } },
+{ "type": "Feature", "properties": { "number": "8516187", "designationOfficial": "Zug Schutzengel" }, "geometry": { "type": "Point", "coordinates": [ 8.507242209319999, 47.1737249217 ] } }
+]
+}

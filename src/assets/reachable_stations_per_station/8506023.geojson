@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "8506023",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506000", "designationOfficial": "Winterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.723821055409999, 47.500333810470003 ] } },
+{ "type": "Feature", "properties": { "number": "8506024", "designationOfficial": "Stammheim" }, "geometry": { "type": "Point", "coordinates": [ 8.78875014082, 47.634881295299998 ] } },
+{ "type": "Feature", "properties": { "number": "8506016", "designationOfficial": "Oberwinterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.760389196169999, 47.507922332500002 ] } },
+{ "type": "Feature", "properties": { "number": "8506021", "designationOfficial": "Dinhard" }, "geometry": { "type": "Point", "coordinates": [ 8.752980887390001, 47.553345147949997 ] } },
+{ "type": "Feature", "properties": { "number": "8506036", "designationOfficial": "Reutlingen" }, "geometry": { "type": "Point", "coordinates": [ 8.752148075179999, 47.529659378460003 ] } },
+{ "type": "Feature", "properties": { "number": "8506020", "designationOfficial": "Seuzach" }, "geometry": { "type": "Point", "coordinates": [ 8.73888343051, 47.535766975930002 ] } },
+{ "type": "Feature", "properties": { "number": "8506038", "designationOfficial": "Winterthur Wallrüti" }, "geometry": { "type": "Point", "coordinates": [ 8.76088216732, 47.516721663529999 ] } },
+{ "type": "Feature", "properties": { "number": "8506023", "designationOfficial": "Ossingen" }, "geometry": { "type": "Point", "coordinates": [ 8.724116551790001, 47.614613964939998 ] } },
+{ "type": "Feature", "properties": { "number": "8506022", "designationOfficial": "Thalheim-Altikon" }, "geometry": { "type": "Point", "coordinates": [ 8.757643235850001, 47.569621350840002 ] } },
+{ "type": "Feature", "properties": { "number": "8506025", "designationOfficial": "Etzwilen" }, "geometry": { "type": "Point", "coordinates": [ 8.81861734532, 47.661144679769997 ] } },
+{ "type": "Feature", "properties": { "number": "8506139", "designationOfficial": "Stein am Rhein" }, "geometry": { "type": "Point", "coordinates": [ 8.85502005429, 47.656110964969997 ] } }
+]
+}

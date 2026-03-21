@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "8501015",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501012", "designationOfficial": "Creux-de-Genthod" }, "geometry": { "type": "Point", "coordinates": [ 6.16131231072, 46.263767758420002 ] } },
+{ "type": "Feature", "properties": { "number": "8501015", "designationOfficial": "Tannay" }, "geometry": { "type": "Point", "coordinates": [ 6.18112036456, 46.307645144879999 ] } },
+{ "type": "Feature", "properties": { "number": "8501014", "designationOfficial": "Mies" }, "geometry": { "type": "Point", "coordinates": [ 6.16765465077, 46.298488833279997 ] } },
+{ "type": "Feature", "properties": { "number": "8501020", "designationOfficial": "Chambésy" }, "geometry": { "type": "Point", "coordinates": [ 6.1473043207, 46.240944855080002 ] } },
+{ "type": "Feature", "properties": { "number": "8501023", "designationOfficial": "Coppet" }, "geometry": { "type": "Point", "coordinates": [ 6.18782738095, 46.317393570749999 ] } },
+{ "type": "Feature", "properties": { "number": "8501022", "designationOfficial": "Versoix" }, "geometry": { "type": "Point", "coordinates": [ 6.16574129202, 46.279727184930003 ] } },
+{ "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
+{ "type": "Feature", "properties": { "number": "8501011", "designationOfficial": "Les Tuileries" }, "geometry": { "type": "Point", "coordinates": [ 6.14733745893, 46.249946345940003 ] } },
+{ "type": "Feature", "properties": { "number": "8501013", "designationOfficial": "Pont-Céard" }, "geometry": { "type": "Point", "coordinates": [ 6.16277928503, 46.286817385939997 ] } },
+{ "type": "Feature", "properties": { "number": "8516273", "designationOfficial": "Genève-Eaux-Vives" }, "geometry": { "type": "Point", "coordinates": [ 6.16656958816, 46.201445406520001 ] } },
+{ "type": "Feature", "properties": { "number": "8516283", "designationOfficial": "Genève-Sécheron" }, "geometry": { "type": "Point", "coordinates": [ 6.1445611504, 46.222440308499998 ] } },
+{ "type": "Feature", "properties": { "number": "8516272", "designationOfficial": "Genève-Champel" }, "geometry": { "type": "Point", "coordinates": [ 6.15349872414, 46.192193344300001 ] } },
+{ "type": "Feature", "properties": { "number": "8516274", "designationOfficial": "Chêne-Bourg" }, "geometry": { "type": "Point", "coordinates": [ 6.19733346412, 46.196600169 ] } },
+{ "type": "Feature", "properties": { "number": "8516155", "designationOfficial": "Lancy-Pont-Rouge" }, "geometry": { "type": "Point", "coordinates": [ 6.12494699563, 46.185945299780002 ] } },
+{ "type": "Feature", "properties": { "number": "8517142", "designationOfficial": "Lancy-Bachet" }, "geometry": { "type": "Point", "coordinates": [ 6.12936213667, 46.174332867910003 ] } },
+{ "type": "Feature", "properties": { "number": "8501021", "designationOfficial": "Genthod-Bellevue" }, "geometry": { "type": "Point", "coordinates": [ 6.15396079257, 46.256737675570001 ] } }
+]
+}

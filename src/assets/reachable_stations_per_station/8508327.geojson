@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "8508327",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
+{ "type": "Feature", "properties": { "number": "8508313", "designationOfficial": "Sachseln" }, "geometry": { "type": "Point", "coordinates": [ 8.23830577823, 46.870962364930001 ] } },
+{ "type": "Feature", "properties": { "number": "8508312", "designationOfficial": "Giswil" }, "geometry": { "type": "Point", "coordinates": [ 8.18631769163, 46.836534400090002 ] } },
+{ "type": "Feature", "properties": { "number": "8508314", "designationOfficial": "Sarnen" }, "geometry": { "type": "Point", "coordinates": [ 8.247499358520001, 46.894606273919997 ] } },
+{ "type": "Feature", "properties": { "number": "8508327", "designationOfficial": "Ewil Maxon" }, "geometry": { "type": "Point", "coordinates": [ 8.21859636876, 46.860687749859999 ] } },
+{ "type": "Feature", "properties": { "number": "8508317", "designationOfficial": "Alpnachstad" }, "geometry": { "type": "Point", "coordinates": [ 8.27784827202, 46.955041527429998 ] } },
+{ "type": "Feature", "properties": { "number": "8508316", "designationOfficial": "Alpnach Dorf" }, "geometry": { "type": "Point", "coordinates": [ 8.27534492811, 46.940590648289998 ] } },
+{ "type": "Feature", "properties": { "number": "8508319", "designationOfficial": "Horw" }, "geometry": { "type": "Point", "coordinates": [ 8.306992215, 47.01748015687 ] } },
+{ "type": "Feature", "properties": { "number": "8508318", "designationOfficial": "Hergiswil NW" }, "geometry": { "type": "Point", "coordinates": [ 8.310182802270001, 46.982617928350003 ] } },
+{ "type": "Feature", "properties": { "number": "8508321", "designationOfficial": "Luzern Allmend/Messe" }, "geometry": { "type": "Point", "coordinates": [ 8.30323743966, 47.035068179900001 ] } },
+{ "type": "Feature", "properties": { "number": "8508320", "designationOfficial": "Hergiswil Matt" }, "geometry": { "type": "Point", "coordinates": [ 8.31259294563, 46.994076136380002 ] } },
+{ "type": "Feature", "properties": { "number": "8508323", "designationOfficial": "Sarnen Nord" }, "geometry": { "type": "Point", "coordinates": [ 8.24912588173, 46.900183983639998 ] } },
+{ "type": "Feature", "properties": { "number": "8516351", "designationOfficial": "Kriens Mattenhof" }, "geometry": { "type": "Point", "coordinates": [ 8.30233732059, 47.026575542499998 ] } }
+]
+}

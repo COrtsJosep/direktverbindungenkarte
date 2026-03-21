@@ -54,7 +54,7 @@ var railRoadsStyle = {
 };
 
 function addNetwork(number) {
-    var railRoadsLayer = new L.GeoJSON.AJAX(`src/python-demo/reachable_net_readyfiles/${number}.geojson`, {
+    var railRoadsLayer = new L.GeoJSON.AJAX(`src/assets/reachable_net_per_station/${number}.geojson`, {
         style: railRoadsStyle,
         onEachFeature: function(feature, layer) {
             if (feature.properties && feature.properties.line_description) {
@@ -74,7 +74,7 @@ function addNetwork(number) {
     });
     railRoadsLayer.addTo(map);
     
-    var reachableDienstStelleLayer = new L.GeoJSON.AJAX(`src/python-demo/reachable_stations_readyfiles/${number}.geojson`, {
+    var reachableDienstStelleLayer = new L.GeoJSON.AJAX(`src/assets/reachable_stations_per_station/${number}.geojson`, {
     pointToLayer: function (feature, latlng) {
         if (feature.properties && feature.properties.number && feature.properties.number == number) {
             return L.circleMarker(latlng, selectedDienstStelleStyle);
@@ -110,7 +110,7 @@ function addNetwork(number) {
     notifications.info('Info', 'Click on another train station to discover where you can travel to with a direct connection, or click on the same one again to deselect it.');
 }
 
-var allDienstStelleLayer = new L.GeoJSON.AJAX("src/python-demo/dienststellen.geojson", {
+var allDienstStelleLayer = new L.GeoJSON.AJAX("src/assets/dienststellen.geojson", {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, dienstStelleStyle);
     },

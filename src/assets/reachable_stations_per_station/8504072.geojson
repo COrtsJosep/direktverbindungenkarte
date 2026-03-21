@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "8504072",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504014", "designationOfficial": "Palézieux" }, "geometry": { "type": "Point", "coordinates": [ 6.83787527681, 46.542763593579998 ] } },
+{ "type": "Feature", "properties": { "number": "8504061", "designationOfficial": "Remaufens" }, "geometry": { "type": "Point", "coordinates": [ 6.87651365613, 46.52373911814 ] } },
+{ "type": "Feature", "properties": { "number": "8504060", "designationOfficial": "Bossonnens" }, "geometry": { "type": "Point", "coordinates": [ 6.85324187226, 46.525703798789998 ] } },
+{ "type": "Feature", "properties": { "number": "8504063", "designationOfficial": "Semsales" }, "geometry": { "type": "Point", "coordinates": [ 6.92692999639, 46.573349993630003 ] } },
+{ "type": "Feature", "properties": { "number": "8504062", "designationOfficial": "Châtel-St-Denis" }, "geometry": { "type": "Point", "coordinates": [ 6.89579575561, 46.527805916410003 ] } },
+{ "type": "Feature", "properties": { "number": "8504064", "designationOfficial": "La Verrerie" }, "geometry": { "type": "Point", "coordinates": [ 6.92488000651, 46.587519995599997 ] } },
+{ "type": "Feature", "properties": { "number": "8504066", "designationOfficial": "Vuadens-Sud" }, "geometry": { "type": "Point", "coordinates": [ 7.02017000447, 46.617959994339998 ] } },
+{ "type": "Feature", "properties": { "number": "8504070", "designationOfficial": "Montbovon" }, "geometry": { "type": "Point", "coordinates": [ 7.04214049001, 46.485426103549997 ] } },
+{ "type": "Feature", "properties": { "number": "8504073", "designationOfficial": "Neirivue" }, "geometry": { "type": "Point", "coordinates": [ 7.0615600054, 46.528290001389998 ] } },
+{ "type": "Feature", "properties": { "number": "8504072", "designationOfficial": "Albeuve" }, "geometry": { "type": "Point", "coordinates": [ 7.05542000318, 46.517930001220002 ] } },
+{ "type": "Feature", "properties": { "number": "8504075", "designationOfficial": "Enney" }, "geometry": { "type": "Point", "coordinates": [ 7.08523999577, 46.565400000899999 ] } },
+{ "type": "Feature", "properties": { "number": "8504074", "designationOfficial": "Villars-sous-Mont" }, "geometry": { "type": "Point", "coordinates": [ 7.07293999423, 46.543799994750003 ] } },
+{ "type": "Feature", "properties": { "number": "8504077", "designationOfficial": "Gruyères" }, "geometry": { "type": "Point", "coordinates": [ 7.07325000243, 46.582609993470001 ] } },
+{ "type": "Feature", "properties": { "number": "8504079", "designationOfficial": "La Tour-de-Trême Ronclina" }, "geometry": { "type": "Point", "coordinates": [ 7.06143999969, 46.605619997209999 ] } },
+{ "type": "Feature", "properties": { "number": "8504086", "designationOfficial": "Bulle" }, "geometry": { "type": "Point", "coordinates": [ 7.05300172867, 46.61922510286 ] } },
+{ "type": "Feature", "properties": { "number": "8504078", "designationOfficial": "Le Pâquier-Montbarry" }, "geometry": { "type": "Point", "coordinates": [ 7.05968999782, 46.594680002399997 ] } },
+{ "type": "Feature", "properties": { "number": "8504065", "designationOfficial": "Vaulruz-Sud" }, "geometry": { "type": "Point", "coordinates": [ 6.98997000092, 46.619209997740001 ] } },
+{ "type": "Feature", "properties": { "number": "8504071", "designationOfficial": "Lessoc" }, "geometry": { "type": "Point", "coordinates": [ 7.052550004, 46.507380001949997 ] } }
+]
+}

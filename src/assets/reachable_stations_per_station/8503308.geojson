@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "8503308",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503020", "designationOfficial": "Zürich Hardbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.517126201470001, 47.385197891499999 ] } },
+{ "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
+{ "type": "Feature", "properties": { "number": "8503004", "designationOfficial": "Zürich Tiefenbrunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.56138984971, 47.350124682619999 ] } },
+{ "type": "Feature", "properties": { "number": "8503006", "designationOfficial": "Zürich Oerlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.544139909989999, 47.411530041200002 ] } },
+{ "type": "Feature", "properties": { "number": "8503105", "designationOfficial": "Uetikon" }, "geometry": { "type": "Point", "coordinates": [ 8.67878709851, 47.259030130409997 ] } },
+{ "type": "Feature", "properties": { "number": "8503104", "designationOfficial": "Meilen" }, "geometry": { "type": "Point", "coordinates": [ 8.64431191101, 47.269811151150002 ] } },
+{ "type": "Feature", "properties": { "number": "8503107", "designationOfficial": "Stäfa" }, "geometry": { "type": "Point", "coordinates": [ 8.72165286994, 47.240527198460001 ] } },
+{ "type": "Feature", "properties": { "number": "8503106", "designationOfficial": "Männedorf" }, "geometry": { "type": "Point", "coordinates": [ 8.69234611716, 47.253424027679998 ] } },
+{ "type": "Feature", "properties": { "number": "8503109", "designationOfficial": "Feldbach" }, "geometry": { "type": "Point", "coordinates": [ 8.783497766349999, 47.239203561369997 ] } },
+{ "type": "Feature", "properties": { "number": "8503108", "designationOfficial": "Uerikon" }, "geometry": { "type": "Point", "coordinates": [ 8.752625203059999, 47.235860774720003 ] } },
+{ "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
+{ "type": "Feature", "properties": { "number": "8503112", "designationOfficial": "Kempraten" }, "geometry": { "type": "Point", "coordinates": [ 8.81431096018, 47.238397728279999 ] } },
+{ "type": "Feature", "properties": { "number": "8503305", "designationOfficial": "Effretikon" }, "geometry": { "type": "Point", "coordinates": [ 8.686679144439999, 47.425812059910001 ] } },
+{ "type": "Feature", "properties": { "number": "8503304", "designationOfficial": "Kemptthal" }, "geometry": { "type": "Point", "coordinates": [ 8.70558624821, 47.452838854280003 ] } },
+{ "type": "Feature", "properties": { "number": "8503307", "designationOfficial": "Bassersdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.6262209443, 47.438570561600002 ] } },
+{ "type": "Feature", "properties": { "number": "8503309", "designationOfficial": "Kloten Balsberg" }, "geometry": { "type": "Point", "coordinates": [ 8.57071849285, 47.442290370229998 ] } },
+{ "type": "Feature", "properties": { "number": "8503308", "designationOfficial": "Kloten" }, "geometry": { "type": "Point", "coordinates": [ 8.58380969746, 47.448607285569999 ] } },
+{ "type": "Feature", "properties": { "number": "8503340", "designationOfficial": "Opfikon" }, "geometry": { "type": "Point", "coordinates": [ 8.56179479491, 47.429954843849998 ] } },
+{ "type": "Feature", "properties": { "number": "8506000", "designationOfficial": "Winterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.723821055409999, 47.500333810470003 ] } }
+]
+}

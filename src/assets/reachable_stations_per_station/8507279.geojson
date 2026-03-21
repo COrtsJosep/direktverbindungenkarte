@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "8507279",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501399", "designationOfficial": "Gstaad" }, "geometry": { "type": "Point", "coordinates": [ 7.28422545091, 46.474945332840001 ] } },
+{ "type": "Feature", "properties": { "number": "8507271", "designationOfficial": "Schönried" }, "geometry": { "type": "Point", "coordinates": [ 7.29109999409, 46.504539998950001 ] } },
+{ "type": "Feature", "properties": { "number": "8507277", "designationOfficial": "Matten i.S." }, "geometry": { "type": "Point", "coordinates": [ 7.42163999847, 46.493709995709999 ] } },
+{ "type": "Feature", "properties": { "number": "8507276", "designationOfficial": "St. Stephan" }, "geometry": { "type": "Point", "coordinates": [ 7.40051999556, 46.505129994779999 ] } },
+{ "type": "Feature", "properties": { "number": "8507279", "designationOfficial": "Lenk im Simmental" }, "geometry": { "type": "Point", "coordinates": [ 7.44351999363, 46.458579999279998 ] } },
+{ "type": "Feature", "properties": { "number": "8507272", "designationOfficial": "Saanenmöser" }, "geometry": { "type": "Point", "coordinates": [ 7.31172000155, 46.517609997009998 ] } },
+{ "type": "Feature", "properties": { "number": "8507275", "designationOfficial": "Stöckli" }, "geometry": { "type": "Point", "coordinates": [ 7.38839999438, 46.516809998509999 ] } },
+{ "type": "Feature", "properties": { "number": "8507274", "designationOfficial": "Blankenburg" }, "geometry": { "type": "Point", "coordinates": [ 7.38532000532, 46.541099995510002 ] } },
+{ "type": "Feature", "properties": { "number": "8507278", "designationOfficial": "Boden" }, "geometry": { "type": "Point", "coordinates": [ 7.43537999785, 46.470770001870001 ] } },
+{ "type": "Feature", "properties": { "number": "8507290", "designationOfficial": "Zweisimmen" }, "geometry": { "type": "Point", "coordinates": [ 7.37486190719, 46.553482551329999 ] } }
+]
+}

@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "8501172",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501165", "designationOfficial": "Jouxtens-Mézery" }, "geometry": { "type": "Point", "coordinates": [ 6.60168999727, 46.548339998640003 ] } },
+{ "type": "Feature", "properties": { "number": "8501164", "designationOfficial": "Cery-Fleur-de-Lys" }, "geometry": { "type": "Point", "coordinates": [ 6.60501000535, 46.544579997349999 ] } },
+{ "type": "Feature", "properties": { "number": "8501166", "designationOfficial": "Romanel-sur-Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.60316999713, 46.562469994780002 ] } },
+{ "type": "Feature", "properties": { "number": "8501169", "designationOfficial": "Cheseaux" }, "geometry": { "type": "Point", "coordinates": [ 6.60595999991, 46.584349999899999 ] } },
+{ "type": "Feature", "properties": { "number": "8501168", "designationOfficial": "Vernand-Camarès" }, "geometry": { "type": "Point", "coordinates": [ 6.60480000415, 46.570940000310003 ] } },
+{ "type": "Feature", "properties": { "number": "8501170", "designationOfficial": "Bel-Air LEB" }, "geometry": { "type": "Point", "coordinates": [ 6.60553000026, 46.578680001 ] } },
+{ "type": "Feature", "properties": { "number": "8501173", "designationOfficial": "Echallens" }, "geometry": { "type": "Point", "coordinates": [ 6.63254000187, 46.639509996229997 ] } },
+{ "type": "Feature", "properties": { "number": "8501172", "designationOfficial": "Assens" }, "geometry": { "type": "Point", "coordinates": [ 6.6205300015, 46.613149996040001 ] } },
+{ "type": "Feature", "properties": { "number": "8501175", "designationOfficial": "Sugnens" }, "geometry": { "type": "Point", "coordinates": [ 6.66576000245, 46.654849994449997 ] } },
+{ "type": "Feature", "properties": { "number": "8501174", "designationOfficial": "Sur Roche" }, "geometry": { "type": "Point", "coordinates": [ 6.63892000604, 46.640450001129999 ] } },
+{ "type": "Feature", "properties": { "number": "8501177", "designationOfficial": "Bercher" }, "geometry": { "type": "Point", "coordinates": [ 6.70365000286, 46.692879995509998 ] } },
+{ "type": "Feature", "properties": { "number": "8501176", "designationOfficial": "Fey" }, "geometry": { "type": "Point", "coordinates": [ 6.68508000127, 46.674319996160001 ] } },
+{ "type": "Feature", "properties": { "number": "8501178", "designationOfficial": "Grésaley" }, "geometry": { "type": "Point", "coordinates": [ 6.64217016024, 46.643252694589997 ] } },
+{ "type": "Feature", "properties": { "number": "8501181", "designationOfficial": "Lausanne-Flon" }, "geometry": { "type": "Point", "coordinates": [ 6.63033999676, 46.520799993929998 ] } },
+{ "type": "Feature", "properties": { "number": "8501160", "designationOfficial": "Lausanne-Chauderon" }, "geometry": { "type": "Point", "coordinates": [ 6.6260599947, 46.523229999190001 ] } },
+{ "type": "Feature", "properties": { "number": "8501163", "designationOfficial": "Prilly-Chasseur" }, "geometry": { "type": "Point", "coordinates": [ 6.6074299998, 46.539650001090003 ] } },
+{ "type": "Feature", "properties": { "number": "8501162", "designationOfficial": "Union-Prilly" }, "geometry": { "type": "Point", "coordinates": [ 6.60984999577, 46.534720000299998 ] } },
+{ "type": "Feature", "properties": { "number": "8587727", "designationOfficial": "Les Ripes" }, "geometry": { "type": "Point", "coordinates": [ 6.60806000514, 46.59218999686 ] } },
+{ "type": "Feature", "properties": { "number": "8501171", "designationOfficial": "Etagnières" }, "geometry": { "type": "Point", "coordinates": [ 6.614630035, 46.602673549 ] } }
+]
+}

@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "8503285",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503206", "designationOfficial": "Wädenswil" }, "geometry": { "type": "Point", "coordinates": [ 8.675216270989999, 47.229307277419998 ] } },
+{ "type": "Feature", "properties": { "number": "8503209", "designationOfficial": "Pfäffikon SZ" }, "geometry": { "type": "Point", "coordinates": [ 8.778129818949999, 47.202997443130002 ] } },
+{ "type": "Feature", "properties": { "number": "8503295", "designationOfficial": "Wilen bei Wollerau" }, "geometry": { "type": "Point", "coordinates": [ 8.73433286443, 47.197584323119997 ] } },
+{ "type": "Feature", "properties": { "number": "8503294", "designationOfficial": "Riedmatt SZ" }, "geometry": { "type": "Point", "coordinates": [ 8.71210210165, 47.196705345300003 ] } },
+{ "type": "Feature", "properties": { "number": "8503280", "designationOfficial": "Steinerberg" }, "geometry": { "type": "Point", "coordinates": [ 8.585277593040001, 47.05221228856 ] } },
+{ "type": "Feature", "properties": { "number": "8503283", "designationOfficial": "Einsiedeln" }, "geometry": { "type": "Point", "coordinates": [ 8.744477746559999, 47.128581718870002 ] } },
+{ "type": "Feature", "properties": { "number": "8503282", "designationOfficial": "Rothenthurm" }, "geometry": { "type": "Point", "coordinates": [ 8.67467329812, 47.105794651849997 ] } },
+{ "type": "Feature", "properties": { "number": "8503285", "designationOfficial": "Schindellegi-Feusisberg" }, "geometry": { "type": "Point", "coordinates": [ 8.709377816150001, 47.176409284290003 ] } },
+{ "type": "Feature", "properties": { "number": "8503284", "designationOfficial": "Biberbrugg" }, "geometry": { "type": "Point", "coordinates": [ 8.72271471268, 47.15637863864 ] } },
+{ "type": "Feature", "properties": { "number": "8503287", "designationOfficial": "Burghalden" }, "geometry": { "type": "Point", "coordinates": [ 8.69271907699, 47.208673899350003 ] } },
+{ "type": "Feature", "properties": { "number": "8503286", "designationOfficial": "Samstagern" }, "geometry": { "type": "Point", "coordinates": [ 8.685987116150001, 47.191552492500001 ] } },
+{ "type": "Feature", "properties": { "number": "8503289", "designationOfficial": "Freienbach SOB" }, "geometry": { "type": "Point", "coordinates": [ 8.75939896054, 47.204203686459998 ] } },
+{ "type": "Feature", "properties": { "number": "8503288", "designationOfficial": "Wollerau" }, "geometry": { "type": "Point", "coordinates": [ 8.72500984767, 47.19543759071 ] } },
+{ "type": "Feature", "properties": { "number": "8503290", "designationOfficial": "Biberegg" }, "geometry": { "type": "Point", "coordinates": [ 8.669443177670001, 47.093609910349997 ] } },
+{ "type": "Feature", "properties": { "number": "8503293", "designationOfficial": "Grüenfeld" }, "geometry": { "type": "Point", "coordinates": [ 8.68728884259, 47.198295263280002 ] } },
+{ "type": "Feature", "properties": { "number": "8503292", "designationOfficial": "Altmatt" }, "geometry": { "type": "Point", "coordinates": [ 8.69614675957, 47.131652024339999 ] } },
+{ "type": "Feature", "properties": { "number": "8503116", "designationOfficial": "Uznach" }, "geometry": { "type": "Point", "coordinates": [ 8.980690813940001, 47.224282796140002 ] } },
+{ "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
+{ "type": "Feature", "properties": { "number": "8503299", "designationOfficial": "Hurden" }, "geometry": { "type": "Point", "coordinates": [ 8.80074572761, 47.214146345629999 ] } },
+{ "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } },
+{ "type": "Feature", "properties": { "number": "8505350", "designationOfficial": "Sattel" }, "geometry": { "type": "Point", "coordinates": [ 8.63394335401, 47.081619158339997 ] } },
+{ "type": "Feature", "properties": { "number": "8506302", "designationOfficial": "St. Gallen" }, "geometry": { "type": "Point", "coordinates": [ 9.36989666272, 47.423178949899999 ] } },
+{ "type": "Feature", "properties": { "number": "8506290", "designationOfficial": "Herisau" }, "geometry": { "type": "Point", "coordinates": [ 9.27681223562, 47.390165208660001 ] } },
+{ "type": "Feature", "properties": { "number": "8506292", "designationOfficial": "Degersheim" }, "geometry": { "type": "Point", "coordinates": [ 9.200119570749999, 47.372578101750001 ] } },
+{ "type": "Feature", "properties": { "number": "8506200", "designationOfficial": "Wattwil" }, "geometry": { "type": "Point", "coordinates": [ 9.086482372380001, 47.299477264140002 ] } }
+]
+}

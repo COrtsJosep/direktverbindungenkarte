@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "8504089",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504023", "designationOfficial": "Romont FR" }, "geometry": { "type": "Point", "coordinates": [ 6.91181142012, 46.693508261230001 ] } },
+{ "type": "Feature", "properties": { "number": "8504067", "designationOfficial": "La Tour-de-Trême" }, "geometry": { "type": "Point", "coordinates": [ 7.06424000647, 46.608530000210003 ] } },
+{ "type": "Feature", "properties": { "number": "8504086", "designationOfficial": "Bulle" }, "geometry": { "type": "Point", "coordinates": [ 7.05300172867, 46.61922510286 ] } },
+{ "type": "Feature", "properties": { "number": "8504089", "designationOfficial": "Broc-Chocolaterie" }, "geometry": { "type": "Point", "coordinates": [ 7.10933902374, 46.605415524279998 ] } },
+{ "type": "Feature", "properties": { "number": "8504088", "designationOfficial": "Broc-Village" }, "geometry": { "type": "Point", "coordinates": [ 7.09873999895, 46.604050001330002 ] } },
+{ "type": "Feature", "properties": { "number": "8504101", "designationOfficial": "Düdingen" }, "geometry": { "type": "Point", "coordinates": [ 7.18975321001, 46.851052455340003 ] } },
+{ "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
+{ "type": "Feature", "properties": { "number": "8504103", "designationOfficial": "Flamatt" }, "geometry": { "type": "Point", "coordinates": [ 7.31957081153, 46.888491357280003 ] } },
+{ "type": "Feature", "properties": { "number": "8504102", "designationOfficial": "Schmitten FR" }, "geometry": { "type": "Point", "coordinates": [ 7.25392039782, 46.862941357970001 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "8530712",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504509", "designationOfficial": "Neuchâtel Port-de-Serrières" }, "geometry": { "type": "Point", "coordinates": [ 6.90483085247, 46.980889762620002 ] } },
+{ "type": "Feature", "properties": { "number": "8504510", "designationOfficial": "Auvernier Littorail" }, "geometry": { "type": "Point", "coordinates": [ 6.87889217938, 46.974240297290002 ] } },
+{ "type": "Feature", "properties": { "number": "8504325", "designationOfficial": "Colombier NE Littorail" }, "geometry": { "type": "Point", "coordinates": [ 6.86541904665, 46.965870817050003 ] } },
+{ "type": "Feature", "properties": { "number": "8504398", "designationOfficial": "Neuchâtel Place Pury Littorail" }, "geometry": { "type": "Point", "coordinates": [ 6.92818815883, 46.989412204739999 ] } },
+{ "type": "Feature", "properties": { "number": "8530711", "designationOfficial": "Colombier NE Allées Littorail" }, "geometry": { "type": "Point", "coordinates": [ 6.86950855573, 46.968068129030002 ] } },
+{ "type": "Feature", "properties": { "number": "8530708", "designationOfficial": "Neuchâtel Evole" }, "geometry": { "type": "Point", "coordinates": [ 6.92337449857, 46.989651482509998 ] } },
+{ "type": "Feature", "properties": { "number": "8530709", "designationOfficial": "Neuchâtel Champ-Bougin" }, "geometry": { "type": "Point", "coordinates": [ 6.91223739117, 46.984563388189997 ] } },
+{ "type": "Feature", "properties": { "number": "8530712", "designationOfficial": "Colombier NE Les Chézards" }, "geometry": { "type": "Point", "coordinates": [ 6.86380194542, 46.960765809329999 ] } },
+{ "type": "Feature", "properties": { "number": "8530710", "designationOfficial": "Neuchâtel Serrières Ruau" }, "geometry": { "type": "Point", "coordinates": [ 6.89503742119, 46.979737130110003 ] } },
+{ "type": "Feature", "properties": { "number": "8595245", "designationOfficial": "Areuse Littorail" }, "geometry": { "type": "Point", "coordinates": [ 6.85305687511, 46.954495179470001 ] } },
+{ "type": "Feature", "properties": { "number": "8504511", "designationOfficial": "Boudry Littorail" }, "geometry": { "type": "Point", "coordinates": [ 6.83914771164, 46.949484548229997 ] } },
+{ "type": "Feature", "properties": { "number": "8530713", "designationOfficial": "Boudry Tuilière" }, "geometry": { "type": "Point", "coordinates": [ 6.84283013683, 46.951464805329998 ] } }
+]
+}

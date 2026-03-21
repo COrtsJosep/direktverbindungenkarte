@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "8502268",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8502185", "designationOfficial": "Bremgarten Isenlauf" }, "geometry": { "type": "Point", "coordinates": [ 8.3415255869, 47.346065319319997 ] } },
+{ "type": "Feature", "properties": { "number": "8502187", "designationOfficial": "Rudolfstetten Hofacker" }, "geometry": { "type": "Point", "coordinates": [ 8.37695598729, 47.364668723809999 ] } },
+{ "type": "Feature", "properties": { "number": "8502186", "designationOfficial": "Dietikon Stoffelbach" }, "geometry": { "type": "Point", "coordinates": [ 8.398957220470001, 47.393325058430001 ] } },
+{ "type": "Feature", "properties": { "number": "8502213", "designationOfficial": "Wohlen AG" }, "geometry": { "type": "Point", "coordinates": [ 8.269792338709999, 47.348464035950002 ] } },
+{ "type": "Feature", "properties": { "number": "8502188", "designationOfficial": "Zufikon Hammergut" }, "geometry": { "type": "Point", "coordinates": [ 8.354588623750001, 47.355954990219999 ] } },
+{ "type": "Feature", "properties": { "number": "8502248", "designationOfficial": "Bremgarten Obertor" }, "geometry": { "type": "Point", "coordinates": [ 8.343749326919999, 47.350567770609999 ] } },
+{ "type": "Feature", "properties": { "number": "8502269", "designationOfficial": "Erdmannlistein" }, "geometry": { "type": "Point", "coordinates": [ 8.31262093326, 47.349367844290001 ] } },
+{ "type": "Feature", "properties": { "number": "8502268", "designationOfficial": "Zufikon Belvédère" }, "geometry": { "type": "Point", "coordinates": [ 8.35927821466, 47.357675004480001 ] } },
+{ "type": "Feature", "properties": { "number": "8502271", "designationOfficial": "Wohlen Oberdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.28688663078, 47.346851622819997 ] } },
+{ "type": "Feature", "properties": { "number": "8502270", "designationOfficial": "Bergfrieden" }, "geometry": { "type": "Point", "coordinates": [ 8.39896102438, 47.397464970820003 ] } },
+{ "type": "Feature", "properties": { "number": "8502275", "designationOfficial": "Widen Heinrüti" }, "geometry": { "type": "Point", "coordinates": [ 8.35487063387, 47.361925276199997 ] } },
+{ "type": "Feature", "properties": { "number": "8502274", "designationOfficial": "Zufikon" }, "geometry": { "type": "Point", "coordinates": [ 8.354679428040001, 47.352582702379998 ] } },
+{ "type": "Feature", "properties": { "number": "8502277", "designationOfficial": "Rudolfstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.381535508120001, 47.369762568970003 ] } },
+{ "type": "Feature", "properties": { "number": "8502276", "designationOfficial": "Berikon-Widen" }, "geometry": { "type": "Point", "coordinates": [ 8.36637059431, 47.361924058829999 ] } },
+{ "type": "Feature", "properties": { "number": "8502278", "designationOfficial": "Reppischhof" }, "geometry": { "type": "Point", "coordinates": [ 8.39617331569, 47.384001759599997 ] } },
+{ "type": "Feature", "properties": { "number": "8502273", "designationOfficial": "Bremgarten" }, "geometry": { "type": "Point", "coordinates": [ 8.34648741256, 47.351517711299998 ] } },
+{ "type": "Feature", "properties": { "number": "8502272", "designationOfficial": "Bremgarten West" }, "geometry": { "type": "Point", "coordinates": [ 8.33711091194, 47.345690565760002 ] } },
+{ "type": "Feature", "properties": { "number": "8503508", "designationOfficial": "Dietikon" }, "geometry": { "type": "Point", "coordinates": [ 8.40498818789, 47.40578380657 ] } },
+{ "type": "Feature", "properties": { "number": "8517377", "designationOfficial": "Bibenlos-Sonnenhof" }, "geometry": { "type": "Point", "coordinates": [ 8.350277981830001, 47.353791413869999 ] } },
+{ "type": "Feature", "properties": { "number": "8517376", "designationOfficial": "Dietikon Schöneggstrasse" }, "geometry": { "type": "Point", "coordinates": [ 8.400988158480001, 47.401961309139999 ] } }
+]
+}

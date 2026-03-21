@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "8502102",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8502001", "designationOfficial": "Zofingen" }, "geometry": { "type": "Point", "coordinates": [ 7.94311767398, 47.288052535390001 ] } },
+{ "type": "Feature", "properties": { "number": "8502101", "designationOfficial": "Kölliken" }, "geometry": { "type": "Point", "coordinates": [ 8.02646054449, 47.337300186409998 ] } },
+{ "type": "Feature", "properties": { "number": "8502100", "designationOfficial": "Safenwil" }, "geometry": { "type": "Point", "coordinates": [ 7.98351823534, 47.321757902420003 ] } },
+{ "type": "Feature", "properties": { "number": "8502103", "designationOfficial": "Suhr" }, "geometry": { "type": "Point", "coordinates": [ 8.082290640209999, 47.371635474180003 ] } },
+{ "type": "Feature", "properties": { "number": "8502102", "designationOfficial": "Oberentfelden" }, "geometry": { "type": "Point", "coordinates": [ 8.04838712362, 47.356486395449998 ] } },
+{ "type": "Feature", "properties": { "number": "8502119", "designationOfficial": "Lenzburg" }, "geometry": { "type": "Point", "coordinates": [ 8.17039288935, 47.391199755439999 ] } },
+{ "type": "Feature", "properties": { "number": "8502104", "designationOfficial": "Hunzenschwil" }, "geometry": { "type": "Point", "coordinates": [ 8.125693230970001, 47.388285886159998 ] } },
+{ "type": "Feature", "properties": { "number": "8502121", "designationOfficial": "Walterswil-Striegel" }, "geometry": { "type": "Point", "coordinates": [ 7.963203602, 47.319923568690001 ] } },
+{ "type": "Feature", "properties": { "number": "8502120", "designationOfficial": "Küngoldingen" }, "geometry": { "type": "Point", "coordinates": [ 7.94179667102, 47.302141506810003 ] } },
+{ "type": "Feature", "properties": { "number": "8502122", "designationOfficial": "Kölliken Oberdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.019090577569999, 47.32468319937 ] } }
+]
+}

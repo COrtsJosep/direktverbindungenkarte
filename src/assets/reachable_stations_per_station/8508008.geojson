@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "8508008",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
+{ "type": "Feature", "properties": { "number": "8502113", "designationOfficial": "Aarau" }, "geometry": { "type": "Point", "coordinates": [ 8.051273718699999, 47.391359514169999 ] } },
+{ "type": "Feature", "properties": { "number": "8502119", "designationOfficial": "Lenzburg" }, "geometry": { "type": "Point", "coordinates": [ 8.17039288935, 47.391199755439999 ] } },
+{ "type": "Feature", "properties": { "number": "8503001", "designationOfficial": "Zürich Altstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.488962649959999, 47.391483073080003 ] } },
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503221", "designationOfficial": "Siebnen-Wangen" }, "geometry": { "type": "Point", "coordinates": [ 8.90071360394, 47.182670697410003 ] } },
+{ "type": "Feature", "properties": { "number": "8503225", "designationOfficial": "Ziegelbrücke" }, "geometry": { "type": "Point", "coordinates": [ 9.06005166998, 47.136155911590002 ] } },
+{ "type": "Feature", "properties": { "number": "8503202", "designationOfficial": "Thalwil" }, "geometry": { "type": "Point", "coordinates": [ 8.564769449070001, 47.295981407180001 ] } },
+{ "type": "Feature", "properties": { "number": "8503206", "designationOfficial": "Wädenswil" }, "geometry": { "type": "Point", "coordinates": [ 8.675216270989999, 47.229307277419998 ] } },
+{ "type": "Feature", "properties": { "number": "8503209", "designationOfficial": "Pfäffikon SZ" }, "geometry": { "type": "Point", "coordinates": [ 8.778129818949999, 47.202997443130002 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
+{ "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
+{ "type": "Feature", "properties": { "number": "8508006", "designationOfficial": "Wynigen" }, "geometry": { "type": "Point", "coordinates": [ 7.6635068635, 47.105174831379998 ] } },
+{ "type": "Feature", "properties": { "number": "8508008", "designationOfficial": "Herzogenbuchsee" }, "geometry": { "type": "Point", "coordinates": [ 7.70095826853, 47.188086128259997 ] } },
+{ "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
+{ "type": "Feature", "properties": { "number": "8509000", "designationOfficial": "Chur" }, "geometry": { "type": "Point", "coordinates": [ 9.528937733039999, 46.853084162759998 ] } },
+{ "type": "Feature", "properties": { "number": "8509003", "designationOfficial": "Maienfeld" }, "geometry": { "type": "Point", "coordinates": [ 9.529216089689999, 47.003840553309999 ] } },
+{ "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
+{ "type": "Feature", "properties": { "number": "8509004", "designationOfficial": "Bad Ragaz" }, "geometry": { "type": "Point", "coordinates": [ 9.50522497811, 47.010309478099998 ] } },
+{ "type": "Feature", "properties": { "number": "8509413", "designationOfficial": "Flums" }, "geometry": { "type": "Point", "coordinates": [ 9.347929247890001, 47.09661665326 ] } },
+{ "type": "Feature", "properties": { "number": "8509414", "designationOfficial": "Walenstadt" }, "geometry": { "type": "Point", "coordinates": [ 9.31298145333, 47.119873608550002 ] } },
+{ "type": "Feature", "properties": { "number": "8509416", "designationOfficial": "Unterterzen" }, "geometry": { "type": "Point", "coordinates": [ 9.25501837741, 47.113856870699998 ] } },
+{ "type": "Feature", "properties": { "number": "8509411", "designationOfficial": "Sargans" }, "geometry": { "type": "Point", "coordinates": [ 9.446260474660001, 47.044823514409998 ] } }
+]
+}

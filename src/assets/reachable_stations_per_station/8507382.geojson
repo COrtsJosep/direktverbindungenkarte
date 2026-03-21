@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8507382",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8505226", "designationOfficial": "Grindelwald Terminal" }, "geometry": { "type": "Point", "coordinates": [ 8.017105551349999, 46.62550800404 ] } },
+{ "type": "Feature", "properties": { "number": "8507381", "designationOfficial": "Schwendi bei Grindelwald" }, "geometry": { "type": "Point", "coordinates": [ 8.003070002359999, 46.63047000025 ] } },
+{ "type": "Feature", "properties": { "number": "8507380", "designationOfficial": "Grindelwald" }, "geometry": { "type": "Point", "coordinates": [ 8.033310005040001, 46.624359995260001 ] } },
+{ "type": "Feature", "properties": { "number": "8507383", "designationOfficial": "Lütschental" }, "geometry": { "type": "Point", "coordinates": [ 7.94898999822, 46.637099994309999 ] } },
+{ "type": "Feature", "properties": { "number": "8507382", "designationOfficial": "Burglauenen" }, "geometry": { "type": "Point", "coordinates": [ 7.97533000304, 46.635909999150002 ] } },
+{ "type": "Feature", "properties": { "number": "8507389", "designationOfficial": "Zweilütschinen" }, "geometry": { "type": "Point", "coordinates": [ 7.89969999842, 46.63269999573 ] } },
+{ "type": "Feature", "properties": { "number": "8507388", "designationOfficial": "Wilderswil" }, "geometry": { "type": "Point", "coordinates": [ 7.86947000551, 46.665699998690002 ] } },
+{ "type": "Feature", "properties": { "number": "8507492", "designationOfficial": "Interlaken Ost" }, "geometry": { "type": "Point", "coordinates": [ 7.86900000435, 46.690499996189999 ] } },
+{ "type": "Feature", "properties": { "number": "8510470", "designationOfficial": "Matten b. Interlaken" }, "geometry": { "type": "Point", "coordinates": [ 7.87286037877, 46.674137290339999 ] } }
+]
+}

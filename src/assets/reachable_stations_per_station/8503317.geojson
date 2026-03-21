@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "8503317",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503020", "designationOfficial": "Zürich Hardbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.517126201470001, 47.385197891499999 ] } },
+{ "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
+{ "type": "Feature", "properties": { "number": "8503006", "designationOfficial": "Zürich Oerlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.544139909989999, 47.411530041200002 ] } },
+{ "type": "Feature", "properties": { "number": "8503121", "designationOfficial": "Rüti ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.854079463450001, 47.260483804289997 ] } },
+{ "type": "Feature", "properties": { "number": "8503120", "designationOfficial": "Jona" }, "geometry": { "type": "Point", "coordinates": [ 8.83461805252, 47.230976641509997 ] } },
+{ "type": "Feature", "properties": { "number": "8503123", "designationOfficial": "Wetzikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.792289733780001, 47.318031631510003 ] } },
+{ "type": "Feature", "properties": { "number": "8503122", "designationOfficial": "Bubikon" }, "geometry": { "type": "Point", "coordinates": [ 8.82271483906, 47.270841013149997 ] } },
+{ "type": "Feature", "properties": { "number": "8503125", "designationOfficial": "Uster" }, "geometry": { "type": "Point", "coordinates": [ 8.71870915949, 47.35036900902 ] } },
+{ "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
+{ "type": "Feature", "properties": { "number": "8503310", "designationOfficial": "Glattbrugg" }, "geometry": { "type": "Point", "coordinates": [ 8.558854148749999, 47.430826715629998 ] } },
+{ "type": "Feature", "properties": { "number": "8503312", "designationOfficial": "Oberglatt ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.51061883625, 47.470204611580002 ] } },
+{ "type": "Feature", "properties": { "number": "8503315", "designationOfficial": "Dielsdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.45944375321, 47.482420505489998 ] } },
+{ "type": "Feature", "properties": { "number": "8503314", "designationOfficial": "Niederhasli" }, "geometry": { "type": "Point", "coordinates": [ 8.488707408450001, 47.4783308835 ] } },
+{ "type": "Feature", "properties": { "number": "8503317", "designationOfficial": "Schöfflisdorf-Oberweningen" }, "geometry": { "type": "Point", "coordinates": [ 8.41181230231, 47.497971360260003 ] } },
+{ "type": "Feature", "properties": { "number": "8503316", "designationOfficial": "Steinmaur" }, "geometry": { "type": "Point", "coordinates": [ 8.446857774490001, 47.489986758740002 ] } },
+{ "type": "Feature", "properties": { "number": "8503319", "designationOfficial": "Niederweningen" }, "geometry": { "type": "Point", "coordinates": [ 8.369630611770001, 47.51120059646 ] } },
+{ "type": "Feature", "properties": { "number": "8503318", "designationOfficial": "Niederweningen Dorf" }, "geometry": { "type": "Point", "coordinates": [ 8.381073484390001, 47.505913653939999 ] } },
+{ "type": "Feature", "properties": { "number": "8503311", "designationOfficial": "Rümlang" }, "geometry": { "type": "Point", "coordinates": [ 8.5327673226, 47.454065608809998 ] } }
+]
+}

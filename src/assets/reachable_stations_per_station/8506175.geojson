@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "8506175",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8506100", "designationOfficial": "Frauenfeld" }, "geometry": { "type": "Point", "coordinates": [ 8.89655967341, 47.558163404570003 ] } },
+{ "type": "Feature", "properties": { "number": "8506169", "designationOfficial": "Wiesengrund" }, "geometry": { "type": "Point", "coordinates": [ 8.948752720010001, 47.502192860549997 ] } },
+{ "type": "Feature", "properties": { "number": "8506171", "designationOfficial": "Frauenfeld Marktplatz" }, "geometry": { "type": "Point", "coordinates": [ 8.89872734757, 47.554201594150001 ] } },
+{ "type": "Feature", "properties": { "number": "8506170", "designationOfficial": "Münchwilen Pflegeheim" }, "geometry": { "type": "Point", "coordinates": [ 8.99194804999, 47.481489047129998 ] } },
+{ "type": "Feature", "properties": { "number": "8506173", "designationOfficial": "Weberei Matzingen" }, "geometry": { "type": "Point", "coordinates": [ 8.921956122099999, 47.527289841449999 ] } },
+{ "type": "Feature", "properties": { "number": "8506176", "designationOfficial": "Wängi" }, "geometry": { "type": "Point", "coordinates": [ 8.95328812945, 47.496308385799999 ] } },
+{ "type": "Feature", "properties": { "number": "8506175", "designationOfficial": "Jakobstal" }, "geometry": { "type": "Point", "coordinates": [ 8.94408984731, 47.508287522030002 ] } },
+{ "type": "Feature", "properties": { "number": "8506179", "designationOfficial": "Lüdem" }, "geometry": { "type": "Point", "coordinates": [ 8.902446167680001, 47.5418817973 ] } },
+{ "type": "Feature", "properties": { "number": "8506174", "designationOfficial": "Matzingen" }, "geometry": { "type": "Point", "coordinates": [ 8.9327574406, 47.520474412669998 ] } },
+{ "type": "Feature", "properties": { "number": "8506178", "designationOfficial": "Münchwilen TG" }, "geometry": { "type": "Point", "coordinates": [ 8.999217213830001, 47.476908918920003 ] } },
+{ "type": "Feature", "properties": { "number": "8506177", "designationOfficial": "Rosental" }, "geometry": { "type": "Point", "coordinates": [ 8.97515234165, 47.492342297930001 ] } },
+{ "type": "Feature", "properties": { "number": "8506206", "designationOfficial": "Wil SG" }, "geometry": { "type": "Point", "coordinates": [ 9.04099305047, 47.462413242739999 ] } }
+]
+}

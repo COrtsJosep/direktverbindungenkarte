@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8505405",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8505213", "designationOfficial": "Bellinzona" }, "geometry": { "type": "Point", "coordinates": [ 9.02951851227, 46.195431792210002 ] } },
+{ "type": "Feature", "properties": { "number": "8505214", "designationOfficial": "Giubiasco" }, "geometry": { "type": "Point", "coordinates": [ 9.003600088960001, 46.173812731540004 ] } },
+{ "type": "Feature", "properties": { "number": "8505404", "designationOfficial": "Cadenazzo" }, "geometry": { "type": "Point", "coordinates": [ 8.94169889979, 46.15261998874 ] } },
+{ "type": "Feature", "properties": { "number": "8505407", "designationOfficial": "S. Nazzaro" }, "geometry": { "type": "Point", "coordinates": [ 8.80705868101, 46.135157690409997 ] } },
+{ "type": "Feature", "properties": { "number": "8505406", "designationOfficial": "Magadino-Vira" }, "geometry": { "type": "Point", "coordinates": [ 8.850189043329999, 46.145315717780001 ] } },
+{ "type": "Feature", "properties": { "number": "8505408", "designationOfficial": "Ranzo-S. Abbondio" }, "geometry": { "type": "Point", "coordinates": [ 8.77653770945, 46.116997814180003 ] } },
+{ "type": "Feature", "properties": { "number": "8505410", "designationOfficial": "Gerra (Gambarogno)" }, "geometry": { "type": "Point", "coordinates": [ 8.7849697706, 46.122040960459998 ] } },
+{ "type": "Feature", "properties": { "number": "8505405", "designationOfficial": "Quartino" }, "geometry": { "type": "Point", "coordinates": [ 8.887331214590001, 46.151298089240001 ] } },
+{ "type": "Feature", "properties": { "number": "8505415", "designationOfficial": "S. Antonino" }, "geometry": { "type": "Point", "coordinates": [ 8.969520646039999, 46.159049138550003 ] } }
+]
+}

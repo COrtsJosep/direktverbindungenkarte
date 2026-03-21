@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "8507294",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8507288", "designationOfficial": "Eifeld" }, "geometry": { "type": "Point", "coordinates": [ 7.64227313036, 46.68386875529 ] } },
+{ "type": "Feature", "properties": { "number": "8507281", "designationOfficial": "Grubenwald" }, "geometry": { "type": "Point", "coordinates": [ 7.38296877947, 46.579810574340001 ] } },
+{ "type": "Feature", "properties": { "number": "8507291", "designationOfficial": "Weissenbach" }, "geometry": { "type": "Point", "coordinates": [ 7.37429580948, 46.603565594819997 ] } },
+{ "type": "Feature", "properties": { "number": "8507290", "designationOfficial": "Zweisimmen" }, "geometry": { "type": "Point", "coordinates": [ 7.37486190719, 46.553482551329999 ] } },
+{ "type": "Feature", "properties": { "number": "8507298", "designationOfficial": "Wimmis" }, "geometry": { "type": "Point", "coordinates": [ 7.6355974518, 46.675722195939997 ] } },
+{ "type": "Feature", "properties": { "number": "8507293", "designationOfficial": "Oberwil im Simmental" }, "geometry": { "type": "Point", "coordinates": [ 7.43548334739, 46.656135628500003 ] } },
+{ "type": "Feature", "properties": { "number": "8507292", "designationOfficial": "Boltigen" }, "geometry": { "type": "Point", "coordinates": [ 7.39007365616, 46.627368255519997 ] } },
+{ "type": "Feature", "properties": { "number": "8507295", "designationOfficial": "Därstetten" }, "geometry": { "type": "Point", "coordinates": [ 7.4956915095, 46.658718756180001 ] } },
+{ "type": "Feature", "properties": { "number": "8507284", "designationOfficial": "Enge im Simmental" }, "geometry": { "type": "Point", "coordinates": [ 7.41762444441, 46.64753323787 ] } },
+{ "type": "Feature", "properties": { "number": "8507294", "designationOfficial": "Weissenburg" }, "geometry": { "type": "Point", "coordinates": [ 7.47592043324, 46.659295236209999 ] } },
+{ "type": "Feature", "properties": { "number": "8507287", "designationOfficial": "Burgholz" }, "geometry": { "type": "Point", "coordinates": [ 7.60322933488, 46.66575114055 ] } },
+{ "type": "Feature", "properties": { "number": "8507297", "designationOfficial": "Oey-Diemtigen" }, "geometry": { "type": "Point", "coordinates": [ 7.57915212949, 46.659887768639997 ] } },
+{ "type": "Feature", "properties": { "number": "8507286", "designationOfficial": "Ringoldingen" }, "geometry": { "type": "Point", "coordinates": [ 7.52457394915, 46.657558600270001 ] } },
+{ "type": "Feature", "properties": { "number": "8507296", "designationOfficial": "Erlenbach im Simmental" }, "geometry": { "type": "Point", "coordinates": [ 7.55523519614, 46.659091778319997 ] } },
+{ "type": "Feature", "properties": { "number": "8507299", "designationOfficial": "Lattigen bei Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.65026894498, 46.691141244169998 ] } },
+{ "type": "Feature", "properties": { "number": "8507483", "designationOfficial": "Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.6801030578, 46.686395668350002 ] } }
+]
+}

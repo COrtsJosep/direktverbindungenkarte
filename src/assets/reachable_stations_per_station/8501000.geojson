@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "8501000",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501001", "designationOfficial": "La Plaine" }, "geometry": { "type": "Point", "coordinates": [ 5.99999277974, 46.178665387110001 ] } },
+{ "type": "Feature", "properties": { "number": "8501000", "designationOfficial": "Zimeysa" }, "geometry": { "type": "Point", "coordinates": [ 6.06598534857, 46.221239594670003 ] } },
+{ "type": "Feature", "properties": { "number": "8501003", "designationOfficial": "Satigny" }, "geometry": { "type": "Point", "coordinates": [ 6.0376652117, 46.214227225530003 ] } },
+{ "type": "Feature", "properties": { "number": "8501002", "designationOfficial": "Russin" }, "geometry": { "type": "Point", "coordinates": [ 6.01803595662, 46.188395130730001 ] } },
+{ "type": "Feature", "properties": { "number": "8501007", "designationOfficial": "Vernier" }, "geometry": { "type": "Point", "coordinates": [ 6.09389170749, 46.220718697499997 ] } },
+{ "type": "Feature", "properties": { "number": "8501006", "designationOfficial": "Meyrin" }, "geometry": { "type": "Point", "coordinates": [ 6.07690079901, 46.222335451840003 ] } },
+{ "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } }
+]
+}

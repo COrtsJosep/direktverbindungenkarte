@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "8501048",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
+{ "type": "Feature", "properties": { "number": "8501035", "designationOfficial": "Allaman" }, "geometry": { "type": "Point", "coordinates": [ 6.39969707975, 46.475753520799998 ] } },
+{ "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
+{ "type": "Feature", "properties": { "number": "8501036", "designationOfficial": "St-Prex" }, "geometry": { "type": "Point", "coordinates": [ 6.4559060173, 46.482316906309997 ] } },
+{ "type": "Feature", "properties": { "number": "8501048", "designationOfficial": "Lonay-Préverenges" }, "geometry": { "type": "Point", "coordinates": [ 6.51954473665, 46.523135629050003 ] } },
+{ "type": "Feature", "properties": { "number": "8501042", "designationOfficial": "Etoy" }, "geometry": { "type": "Point", "coordinates": [ 6.42713535556, 46.475172741370002 ] } },
+{ "type": "Feature", "properties": { "number": "8501045", "designationOfficial": "Denges-Echandens" }, "geometry": { "type": "Point", "coordinates": [ 6.54050548188, 46.529127099150003 ] } },
+{ "type": "Feature", "properties": { "number": "8501047", "designationOfficial": "Morges-St-Jean" }, "geometry": { "type": "Point", "coordinates": [ 6.50804403291, 46.518195362850001 ] } },
+{ "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } }
+]
+}

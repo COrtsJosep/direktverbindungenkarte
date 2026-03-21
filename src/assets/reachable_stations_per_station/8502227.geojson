@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "8502227",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8502227", "designationOfficial": "Steinhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.47843655924, 47.194581480190003 ] } },
+{ "type": "Feature", "properties": { "number": "8502204", "designationOfficial": "Zug" }, "geometry": { "type": "Point", "coordinates": [ 8.515049340959999, 47.173706977679998 ] } },
+{ "type": "Feature", "properties": { "number": "8502226", "designationOfficial": "Knonau" }, "geometry": { "type": "Point", "coordinates": [ 8.466731190080001, 47.220264345510003 ] } },
+{ "type": "Feature", "properties": { "number": "8502229", "designationOfficial": "Urdorf Weihermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.43034251329, 47.380969982469999 ] } },
+{ "type": "Feature", "properties": { "number": "8502221", "designationOfficial": "Birmensdorf ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.43755514081, 47.35743137499 ] } },
+{ "type": "Feature", "properties": { "number": "8502220", "designationOfficial": "Urdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.434730698039999, 47.390883336889999 ] } },
+{ "type": "Feature", "properties": { "number": "8502223", "designationOfficial": "Hedingen" }, "geometry": { "type": "Point", "coordinates": [ 8.445965553380001, 47.298785228120003 ] } },
+{ "type": "Feature", "properties": { "number": "8502222", "designationOfficial": "Bonstetten-Wettswil" }, "geometry": { "type": "Point", "coordinates": [ 8.46819690043, 47.325901331929998 ] } },
+{ "type": "Feature", "properties": { "number": "8502225", "designationOfficial": "Mettmenstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.457382179230001, 47.244071065050001 ] } },
+{ "type": "Feature", "properties": { "number": "8502224", "designationOfficial": "Affoltern am Albis" }, "geometry": { "type": "Point", "coordinates": [ 8.44659499502, 47.276070362429998 ] } },
+{ "type": "Feature", "properties": { "number": "8503001", "designationOfficial": "Zürich Altstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.488962649959999, 47.391483073080003 ] } },
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503020", "designationOfficial": "Zürich Hardbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.517126201470001, 47.385197891499999 ] } },
+{ "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
+{ "type": "Feature", "properties": { "number": "8503209", "designationOfficial": "Pfäffikon SZ" }, "geometry": { "type": "Point", "coordinates": [ 8.778129818949999, 47.202997443130002 ] } },
+{ "type": "Feature", "properties": { "number": "8503121", "designationOfficial": "Rüti ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.854079463450001, 47.260483804289997 ] } },
+{ "type": "Feature", "properties": { "number": "8503120", "designationOfficial": "Jona" }, "geometry": { "type": "Point", "coordinates": [ 8.83461805252, 47.230976641509997 ] } },
+{ "type": "Feature", "properties": { "number": "8503123", "designationOfficial": "Wetzikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.792289733780001, 47.318031631510003 ] } },
+{ "type": "Feature", "properties": { "number": "8503122", "designationOfficial": "Bubikon" }, "geometry": { "type": "Point", "coordinates": [ 8.82271483906, 47.270841013149997 ] } },
+{ "type": "Feature", "properties": { "number": "8503125", "designationOfficial": "Uster" }, "geometry": { "type": "Point", "coordinates": [ 8.71870915949, 47.35036900902 ] } },
+{ "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
+{ "type": "Feature", "properties": { "number": "8518459", "designationOfficial": "Steinhausen Rigiblick" }, "geometry": { "type": "Point", "coordinates": [ 8.479703872989999, 47.18786377024 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "8504321",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8504315", "designationOfficial": "Le Crêt-du-Locle" }, "geometry": { "type": "Point", "coordinates": [ 6.78458129083, 47.077232722680002 ] } },
+{ "type": "Feature", "properties": { "number": "8504314", "designationOfficial": "La Chaux-de-Fonds" }, "geometry": { "type": "Point", "coordinates": [ 6.82598272105, 47.098374355479997 ] } },
+{ "type": "Feature", "properties": { "number": "8504317", "designationOfficial": "Le Locle-Col-des-Roches" }, "geometry": { "type": "Point", "coordinates": [ 6.72607086935, 47.049885556249997 ] } },
+{ "type": "Feature", "properties": { "number": "8504316", "designationOfficial": "Le Locle" }, "geometry": { "type": "Point", "coordinates": [ 6.74615327632, 47.057861041930003 ] } },
+{ "type": "Feature", "properties": { "number": "8504321", "designationOfficial": "La Chaux-de-Fonds Les Forges" }, "geometry": { "type": "Point", "coordinates": [ 6.81278026047, 47.091335323199999 ] } }
+]
+}

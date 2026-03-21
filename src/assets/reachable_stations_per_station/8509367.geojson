@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "8509367",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "number": "8509368", "designationOfficial": "Campocologno" }, "geometry": { "type": "Point", "coordinates": [ 10.141655214109999, 46.233730592009998 ] } },
+{ "type": "Feature", "properties": { "number": "8509253", "designationOfficial": "St. Moritz" }, "geometry": { "type": "Point", "coordinates": [ 9.84585384995, 46.497988725020001 ] } },
+{ "type": "Feature", "properties": { "number": "8509352", "designationOfficial": "Surovas" }, "geometry": { "type": "Point", "coordinates": [ 9.90611116424, 46.485503963600003 ] } },
+{ "type": "Feature", "properties": { "number": "8509351", "designationOfficial": "Punt Muragl Staz" }, "geometry": { "type": "Point", "coordinates": [ 9.880109699489999, 46.507557612280003 ] } },
+{ "type": "Feature", "properties": { "number": "8509354", "designationOfficial": "Bernina Suot" }, "geometry": { "type": "Point", "coordinates": [ 9.969688819390001, 46.445018592389999 ] } },
+{ "type": "Feature", "properties": { "number": "8509357", "designationOfficial": "Alp Grüm" }, "geometry": { "type": "Point", "coordinates": [ 10.031235326639999, 46.374506776239997 ] } },
+{ "type": "Feature", "properties": { "number": "8509366", "designationOfficial": "Brusio" }, "geometry": { "type": "Point", "coordinates": [ 10.124989472699999, 46.259157964300002 ] } },
+{ "type": "Feature", "properties": { "number": "8509255", "designationOfficial": "Pontresina" }, "geometry": { "type": "Point", "coordinates": [ 9.89631725145, 46.490753251930002 ] } },
+{ "type": "Feature", "properties": { "number": "8509361", "designationOfficial": "Poschiavo" }, "geometry": { "type": "Point", "coordinates": [ 10.054478112649999, 46.324671898529999 ] } },
+{ "type": "Feature", "properties": { "number": "8509365", "designationOfficial": "Miralago" }, "geometry": { "type": "Point", "coordinates": [ 10.09968084586, 46.273207561729997 ] } },
+{ "type": "Feature", "properties": { "number": "8509350", "designationOfficial": "Celerina Staz" }, "geometry": { "type": "Point", "coordinates": [ 9.86502496896, 46.509749373239998 ] } },
+{ "type": "Feature", "properties": { "number": "8509356", "designationOfficial": "Ospizio Bernina" }, "geometry": { "type": "Point", "coordinates": [ 10.019865734930001, 46.408774379759997 ] } },
+{ "type": "Feature", "properties": { "number": "8509367", "designationOfficial": "Campascio" }, "geometry": { "type": "Point", "coordinates": [ 10.13158480922, 46.244595643979999 ] } },
+{ "type": "Feature", "properties": { "number": "8519370", "designationOfficial": "Bernina Diavolezza" }, "geometry": { "type": "Point", "coordinates": [ 9.9822753097, 46.441743463880002 ] } },
+{ "type": "Feature", "properties": { "number": "8509359", "designationOfficial": "Cadera" }, "geometry": { "type": "Point", "coordinates": [ 10.0514202592, 46.345249414420003 ] } },
+{ "type": "Feature", "properties": { "number": "8509363", "designationOfficial": "Li Curt" }, "geometry": { "type": "Point", "coordinates": [ 10.06324728127, 46.311201172609998 ] } },
+{ "type": "Feature", "properties": { "number": "8509373", "designationOfficial": "Bernina Lagalb" }, "geometry": { "type": "Point", "coordinates": [ 9.99153906457, 46.436331019470003 ] } },
+{ "type": "Feature", "properties": { "number": "8509358", "designationOfficial": "Cavaglia" }, "geometry": { "type": "Point", "coordinates": [ 10.04395684633, 46.364238982389999 ] } },
+{ "type": "Feature", "properties": { "number": "8509353", "designationOfficial": "Morteratsch" }, "geometry": { "type": "Point", "coordinates": [ 9.940321762210001, 46.450696882259997 ] } },
+{ "type": "Feature", "properties": { "number": "8509364", "designationOfficial": "Le Prese" }, "geometry": { "type": "Point", "coordinates": [ 10.078192555939999, 46.291087069710002 ] } }
+]
+}

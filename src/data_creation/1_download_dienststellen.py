@@ -30,5 +30,5 @@ df_ds.loc[df_ds.loc[:, 'designationOfficial'] == 'Zürich HB', ['wgs84East', 'wg
         crs = 'EPSG:4326'
     )
     .loc[:, ['designationOfficial', 'geometry']]
-    .to_file(cd.parent / 'assets' / 'dienststellen.geojson')
+    .to_file(cd.parent / 'assets' / 'dienststellen_dirty.geojson')
 )

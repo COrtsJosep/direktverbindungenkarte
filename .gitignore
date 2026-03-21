@@ -230,3 +230,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src/assets/dienststellen_dirty.geojson

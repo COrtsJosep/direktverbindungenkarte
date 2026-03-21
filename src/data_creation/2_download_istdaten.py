@@ -4,7 +4,7 @@ from pathlib import Path
 cd = Path(__file__).parent
 
 # load dienststellen data
-gdf_ds = gpd.read_file(cd.parent / 'assets' / 'dienststellen.geojson').set_index('number')
+gdf_ds = gpd.read_file(cd.parent / 'assets' / 'dienststellen_dirty.geojson').set_index('number')
 
 # read the file of train stations served by any route
 df_is = gpd.read_file(  # is: ist

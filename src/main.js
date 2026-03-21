@@ -1,7 +1,3 @@
-import 'leaflet-notifications';
-import 'font-awesome/css/font-awesome.min.css';
-import 'leaflet-notifications/css/leaflet-notifications.css';
-
 var map = L.map('map').setView([46.798449, 8.231879], 9);
 
 L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}.{ext}', {

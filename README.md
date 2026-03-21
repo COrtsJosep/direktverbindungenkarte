@@ -8,4 +8,4 @@ A map of direct Swiss railway connections from any station!
 - For the map tile source, check the lower right corner of the map
 
 ## Credits
-Heavily inspired by [Martin Sterchi](https://martinsterchi.ch/)'s [blog publication](https://martinsterchi.ch/blog/sbb_nw/#load-and-preprocess-ist-daten) about the SBB-CFF-FFS network.
+Heavily inspired by [Martin Sterchi](https://martinsterchi.ch/)'s [blog publication](https://martinsterchi.ch/blog/sbb_nw/#load-and-preprocess-ist-daten) about the SBB-CFF-FFS network. Also vaguely inspired on [chronotrains](https://www.chronotrains.com/).

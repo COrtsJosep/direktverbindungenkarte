@@ -38,7 +38,7 @@ for ds_id in tqdm(gdf_ds.index):
             linestring.update(
                 sn.get_linestring_route(stop_ids[i], stop_ids[i + 1])
             )
-        multilinestring = shapely.MultiLineString(linestring).simplify(tolerance = 1)
+        multilinestring = shapely.MultiLineString(linestring).simplify(tolerance = 0.001)
         
         line_description = '->'.join([gdf_ds.loc[stop_id, 'designationOfficial'] for stop_id in stop_ids])
         

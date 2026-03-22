@@ -4,18 +4,10 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
-{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
-{ "type": "Feature", "properties": { "number": "8508213", "designationOfficial": "Entlebuch" }, "geometry": { "type": "Point", "coordinates": [ 8.062364328879999, 46.993693355920001 ] } },
-{ "type": "Feature", "properties": { "number": "8508207", "designationOfficial": "Langnau i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.78419743448, 46.939242278720002 ] } },
-{ "type": "Feature", "properties": { "number": "8508212", "designationOfficial": "Hasle LU" }, "geometry": { "type": "Point", "coordinates": [ 8.046981752040001, 46.97815166318 ] } },
-{ "type": "Feature", "properties": { "number": "8508202", "designationOfficial": "Konolfingen" }, "geometry": { "type": "Point", "coordinates": [ 7.6213670273, 46.880702418909998 ] } },
 { "type": "Feature", "properties": { "number": "8508215", "designationOfficial": "Wolhusen" }, "geometry": { "type": "Point", "coordinates": [ 8.079754105299999, 47.055487929900004 ] } },
 { "type": "Feature", "properties": { "number": "8508217", "designationOfficial": "Schachen LU" }, "geometry": { "type": "Point", "coordinates": [ 8.143258925430001, 47.037973397169999 ] } },
-{ "type": "Feature", "properties": { "number": "8508208", "designationOfficial": "Trubschachen" }, "geometry": { "type": "Point", "coordinates": [ 7.84614196442, 46.921699958559998 ] } },
 { "type": "Feature", "properties": { "number": "8508216", "designationOfficial": "Werthenstein" }, "geometry": { "type": "Point", "coordinates": [ 8.10186324196, 47.057025135190003 ] } },
-{ "type": "Feature", "properties": { "number": "8508211", "designationOfficial": "Schüpfheim" }, "geometry": { "type": "Point", "coordinates": [ 8.015150589239999, 46.950647359889999 ] } },
 { "type": "Feature", "properties": { "number": "8508219", "designationOfficial": "Luzern Littau" }, "geometry": { "type": "Point", "coordinates": [ 8.25711396709, 47.053064320090002 ] } },
-{ "type": "Feature", "properties": { "number": "8508210", "designationOfficial": "Escholzmatt" }, "geometry": { "type": "Point", "coordinates": [ 7.93637795766, 46.915348231389999 ] } },
 { "type": "Feature", "properties": { "number": "8508218", "designationOfficial": "Malters" }, "geometry": { "type": "Point", "coordinates": [ 8.18197195178, 47.038584221279997 ] } }
 ]
 }

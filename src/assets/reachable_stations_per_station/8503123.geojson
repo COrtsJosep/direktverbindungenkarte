@@ -32,6 +32,7 @@
 { "type": "Feature", "properties": { "number": "8503128", "designationOfficial": "Dübendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.623421744230001, 47.400080359950003 ] } },
 { "type": "Feature", "properties": { "number": "8503130", "designationOfficial": "Hinwil" }, "geometry": { "type": "Point", "coordinates": [ 8.839719894410001, 47.300056950360002 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
+{ "type": "Feature", "properties": { "number": "8503299", "designationOfficial": "Hurden" }, "geometry": { "type": "Point", "coordinates": [ 8.80074572761, 47.214146345629999 ] } },
 { "type": "Feature", "properties": { "number": "8503310", "designationOfficial": "Glattbrugg" }, "geometry": { "type": "Point", "coordinates": [ 8.558854148749999, 47.430826715629998 ] } },
 { "type": "Feature", "properties": { "number": "8503301", "designationOfficial": "Pfäffikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.784799698480001, 47.367086237860001 ] } },
 { "type": "Feature", "properties": { "number": "8503300", "designationOfficial": "Kempten" }, "geometry": { "type": "Point", "coordinates": [ 8.8047206925, 47.332043115330002 ] } },
@@ -47,7 +48,6 @@
 { "type": "Feature", "properties": { "number": "8503306", "designationOfficial": "Dietlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.619276404560001, 47.420202064009999 ] } },
 { "type": "Feature", "properties": { "number": "8503318", "designationOfficial": "Niederweningen Dorf" }, "geometry": { "type": "Point", "coordinates": [ 8.381073484390001, 47.505913653939999 ] } },
 { "type": "Feature", "properties": { "number": "8503311", "designationOfficial": "Rümlang" }, "geometry": { "type": "Point", "coordinates": [ 8.5327673226, 47.454065608809998 ] } },
-{ "type": "Feature", "properties": { "number": "8503400", "designationOfficial": "Bülach" }, "geometry": { "type": "Point", "coordinates": [ 8.536209198910001, 47.523949922920004 ] } },
 { "type": "Feature", "properties": { "number": "8518459", "designationOfficial": "Steinhausen Rigiblick" }, "geometry": { "type": "Point", "coordinates": [ 8.479703872989999, 47.18786377024 ] } }
 ]
 }

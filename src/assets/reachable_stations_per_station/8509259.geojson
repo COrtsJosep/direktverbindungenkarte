@@ -3,7 +3,6 @@
 "name": "8509259",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
 { "type": "Feature", "properties": { "number": "8509269", "designationOfficial": "Sagliains" }, "geometry": { "type": "Point", "coordinates": [ 10.10305301589, 46.764828582020002 ] } },
 { "type": "Feature", "properties": { "number": "8509264", "designationOfficial": "Lavin" }, "geometry": { "type": "Point", "coordinates": [ 10.11101408453, 46.76961814461 ] } },
 { "type": "Feature", "properties": { "number": "8509263", "designationOfficial": "Susch" }, "geometry": { "type": "Point", "coordinates": [ 10.079460170060001, 46.752058394229998 ] } },
@@ -13,24 +12,16 @@
 { "type": "Feature", "properties": { "number": "8509253", "designationOfficial": "St. Moritz" }, "geometry": { "type": "Point", "coordinates": [ 9.84585384995, 46.497988725020001 ] } },
 { "type": "Feature", "properties": { "number": "8509068", "designationOfficial": "Klosters Platz" }, "geometry": { "type": "Point", "coordinates": [ 9.88084727765, 46.869553734189999 ] } },
 { "type": "Feature", "properties": { "number": "8509251", "designationOfficial": "Samedan" }, "geometry": { "type": "Point", "coordinates": [ 9.87318700981, 46.533757964780001 ] } },
-{ "type": "Feature", "properties": { "number": "8509062", "designationOfficial": "Jenaz" }, "geometry": { "type": "Point", "coordinates": [ 9.718564152860001, 46.929595333679998 ] } },
 { "type": "Feature", "properties": { "number": "8509255", "designationOfficial": "Pontresina" }, "geometry": { "type": "Point", "coordinates": [ 9.89631725145, 46.490753251930002 ] } },
 { "type": "Feature", "properties": { "number": "8509262", "designationOfficial": "Zernez" }, "geometry": { "type": "Point", "coordinates": [ 10.090077894949999, 46.697838075219998 ] } },
-{ "type": "Feature", "properties": { "number": "8509065", "designationOfficial": "Saas im Prättigau" }, "geometry": { "type": "Point", "coordinates": [ 9.81016395506, 46.907542130700001 ] } },
-{ "type": "Feature", "properties": { "number": "8509067", "designationOfficial": "Klosters Dorf" }, "geometry": { "type": "Point", "coordinates": [ 9.875227145649999, 46.88361442926 ] } },
 { "type": "Feature", "properties": { "number": "8509259", "designationOfficial": "S-chanf" }, "geometry": { "type": "Point", "coordinates": [ 9.982038262530001, 46.611980184970001 ] } },
-{ "type": "Feature", "properties": { "number": "8509058", "designationOfficial": "Seewis-Pardisla" }, "geometry": { "type": "Point", "coordinates": [ 9.632366112310001, 46.97698033044 ] } },
 { "type": "Feature", "properties": { "number": "8509258", "designationOfficial": "Zuoz" }, "geometry": { "type": "Point", "coordinates": [ 9.96129000168, 46.600018645219997 ] } },
 { "type": "Feature", "properties": { "number": "8509252", "designationOfficial": "Celerina" }, "geometry": { "type": "Point", "coordinates": [ 9.85846367996, 46.513858964960001 ] } },
-{ "type": "Feature", "properties": { "number": "8509059", "designationOfficial": "Grüsch" }, "geometry": { "type": "Point", "coordinates": [ 9.645913242080001, 46.98056360647 ] } },
 { "type": "Feature", "properties": { "number": "8509254", "designationOfficial": "Punt Muragl" }, "geometry": { "type": "Point", "coordinates": [ 9.8811549432, 46.509791536350001 ] } },
 { "type": "Feature", "properties": { "number": "8509257", "designationOfficial": "Madulain" }, "geometry": { "type": "Point", "coordinates": [ 9.938335160679999, 46.586983356659999 ] } },
-{ "type": "Feature", "properties": { "number": "8509057", "designationOfficial": "Malans GR" }, "geometry": { "type": "Point", "coordinates": [ 9.57368677325, 46.977724619409997 ] } },
 { "type": "Feature", "properties": { "number": "8509267", "designationOfficial": "Ftan Baraigla" }, "geometry": { "type": "Point", "coordinates": [ 10.257983107439999, 46.78772272162 ] } },
 { "type": "Feature", "properties": { "number": "8509266", "designationOfficial": "Ardez" }, "geometry": { "type": "Point", "coordinates": [ 10.20096734466, 46.773556799170002 ] } },
 { "type": "Feature", "properties": { "number": "8509265", "designationOfficial": "Guarda" }, "geometry": { "type": "Point", "coordinates": [ 10.150485896899999, 46.77152425341 ] } },
-{ "type": "Feature", "properties": { "number": "8509260", "designationOfficial": "Cinuos-chel-Brail" }, "geometry": { "type": "Point", "coordinates": [ 10.02164213314, 46.637744282299998 ] } },
-{ "type": "Feature", "properties": { "number": "8509060", "designationOfficial": "Schiers" }, "geometry": { "type": "Point", "coordinates": [ 9.688043165390001, 46.968012222650003 ] } },
-{ "type": "Feature", "properties": { "number": "8509064", "designationOfficial": "Küblis" }, "geometry": { "type": "Point", "coordinates": [ 9.771862786350001, 46.914238307950001 ] } }
+{ "type": "Feature", "properties": { "number": "8509260", "designationOfficial": "Cinuos-chel-Brail" }, "geometry": { "type": "Point", "coordinates": [ 10.02164213314, 46.637744282299998 ] } }
 ]
 }

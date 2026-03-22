@@ -6,7 +6,6 @@
 { "type": "Feature", "properties": { "number": "8500329", "designationOfficial": "Koblenz" }, "geometry": { "type": "Point", "coordinates": [ 8.22704969738, 47.600338298689998 ] } },
 { "type": "Feature", "properties": { "number": "8503501", "designationOfficial": "Döttingen" }, "geometry": { "type": "Point", "coordinates": [ 8.25636467328, 47.575269820380001 ] } },
 { "type": "Feature", "properties": { "number": "8503502", "designationOfficial": "Siggenthal-Würenlingen" }, "geometry": { "type": "Point", "coordinates": [ 8.240659996210001, 47.52068999387 ] } },
-{ "type": "Feature", "properties": { "number": "8503505", "designationOfficial": "Wettingen" }, "geometry": { "type": "Point", "coordinates": [ 8.316006171450001, 47.459638175930003 ] } },
 { "type": "Feature", "properties": { "number": "8503504", "designationOfficial": "Baden" }, "geometry": { "type": "Point", "coordinates": [ 8.307709474039999, 47.476424284620002 ] } },
 { "type": "Feature", "properties": { "number": "8503409", "designationOfficial": "Bad Zurzach" }, "geometry": { "type": "Point", "coordinates": [ 8.295587794779999, 47.588313393989999 ] } },
 { "type": "Feature", "properties": { "number": "8503408", "designationOfficial": "Rekingen AG" }, "geometry": { "type": "Point", "coordinates": [ 8.327125678610001, 47.569971391380001 ] } },

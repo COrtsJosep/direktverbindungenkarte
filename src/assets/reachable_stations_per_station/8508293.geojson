@@ -3,7 +3,6 @@
 "name": "8508293",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
 { "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
 { "type": "Feature", "properties": { "number": "8508293", "designationOfficial": "Zell LU" }, "geometry": { "type": "Point", "coordinates": [ 7.92638197003, 47.13675415753 ] } },
 { "type": "Feature", "properties": { "number": "8508292", "designationOfficial": "Hüswil" }, "geometry": { "type": "Point", "coordinates": [ 7.90586295259, 47.128574304339999 ] } },
@@ -19,8 +18,6 @@
 { "type": "Feature", "properties": { "number": "8508187", "designationOfficial": "Huttwil" }, "geometry": { "type": "Point", "coordinates": [ 7.84260766282, 47.114490041899998 ] } },
 { "type": "Feature", "properties": { "number": "8508186", "designationOfficial": "Rohrbach" }, "geometry": { "type": "Point", "coordinates": [ 7.81347419328, 47.137263455199999 ] } },
 { "type": "Feature", "properties": { "number": "8508215", "designationOfficial": "Wolhusen" }, "geometry": { "type": "Point", "coordinates": [ 8.079754105299999, 47.055487929900004 ] } },
-{ "type": "Feature", "properties": { "number": "8508219", "designationOfficial": "Luzern Littau" }, "geometry": { "type": "Point", "coordinates": [ 8.25711396709, 47.053064320090002 ] } },
-{ "type": "Feature", "properties": { "number": "8508218", "designationOfficial": "Malters" }, "geometry": { "type": "Point", "coordinates": [ 8.18197195178, 47.038584221279997 ] } },
 { "type": "Feature", "properties": { "number": "8516354", "designationOfficial": "Wolhusen Weid" }, "geometry": { "type": "Point", "coordinates": [ 8.069166749480001, 47.065544875900002 ] } }
 ]
 }

@@ -10,6 +10,8 @@
 { "type": "Feature", "properties": { "number": "8501048", "designationOfficial": "Lonay-Préverenges" }, "geometry": { "type": "Point", "coordinates": [ 6.51954473665, 46.523135629050003 ] } },
 { "type": "Feature", "properties": { "number": "8501042", "designationOfficial": "Etoy" }, "geometry": { "type": "Point", "coordinates": [ 6.42713535556, 46.475172741370002 ] } },
 { "type": "Feature", "properties": { "number": "8501045", "designationOfficial": "Denges-Echandens" }, "geometry": { "type": "Point", "coordinates": [ 6.54050548188, 46.529127099150003 ] } },
-{ "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } }
+{ "type": "Feature", "properties": { "number": "8501047", "designationOfficial": "Morges-St-Jean" }, "geometry": { "type": "Point", "coordinates": [ 6.50804403291, 46.518195362850001 ] } },
+{ "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },
+{ "type": "Feature", "properties": { "number": "8518452", "designationOfficial": "Prilly-Malley" }, "geometry": { "type": "Point", "coordinates": [ 6.60262893925, 46.526691976519999 ] } }
 ]
 }

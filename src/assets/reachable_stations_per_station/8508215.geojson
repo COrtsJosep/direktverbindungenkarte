@@ -17,7 +17,6 @@
 { "type": "Feature", "properties": { "number": "8508182", "designationOfficial": "Lotzwil" }, "geometry": { "type": "Point", "coordinates": [ 7.78858905233, 47.18949367618 ] } },
 { "type": "Feature", "properties": { "number": "8508185", "designationOfficial": "Kleindietwil" }, "geometry": { "type": "Point", "coordinates": [ 7.79097469134, 47.146307917990001 ] } },
 { "type": "Feature", "properties": { "number": "8508184", "designationOfficial": "Lindenholz" }, "geometry": { "type": "Point", "coordinates": [ 7.79046925437, 47.154563176780002 ] } },
-{ "type": "Feature", "properties": { "number": "8508200", "designationOfficial": "Worb SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.56485160662, 46.915229986290001 ] } },
 { "type": "Feature", "properties": { "number": "8508213", "designationOfficial": "Entlebuch" }, "geometry": { "type": "Point", "coordinates": [ 8.062364328879999, 46.993693355920001 ] } },
 { "type": "Feature", "properties": { "number": "8508207", "designationOfficial": "Langnau i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.78419743448, 46.939242278720002 ] } },
 { "type": "Feature", "properties": { "number": "8508187", "designationOfficial": "Huttwil" }, "geometry": { "type": "Point", "coordinates": [ 7.84260766282, 47.114490041899998 ] } },

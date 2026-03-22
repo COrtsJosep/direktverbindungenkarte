@@ -11,7 +11,6 @@
 { "type": "Feature", "properties": { "number": "8502231", "designationOfficial": "Zug Oberwil" }, "geometry": { "type": "Point", "coordinates": [ 8.50994051687, 47.147683641690001 ] } },
 { "type": "Feature", "properties": { "number": "8502300", "designationOfficial": "Zug Postplatz" }, "geometry": { "type": "Point", "coordinates": [ 8.51693737657, 47.168275682210002 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
-{ "type": "Feature", "properties": { "number": "8503202", "designationOfficial": "Thalwil" }, "geometry": { "type": "Point", "coordinates": [ 8.564769449070001, 47.295981407180001 ] } },
 { "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
 { "type": "Feature", "properties": { "number": "8505003", "designationOfficial": "Immensee" }, "geometry": { "type": "Point", "coordinates": [ 8.46267203625, 47.0916186591 ] } },
 { "type": "Feature", "properties": { "number": "8505002", "designationOfficial": "Küssnacht am Rigi" }, "geometry": { "type": "Point", "coordinates": [ 8.433517457320001, 47.083594155219998 ] } },

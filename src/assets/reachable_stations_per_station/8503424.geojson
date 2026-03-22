@@ -66,6 +66,7 @@
 { "type": "Feature", "properties": { "number": "8506300", "designationOfficial": "St. Gallen Winkeln" }, "geometry": { "type": "Point", "coordinates": [ 9.30086029135, 47.403929411059998 ] } },
 { "type": "Feature", "properties": { "number": "8506303", "designationOfficial": "St. Gallen St. Fiden" }, "geometry": { "type": "Point", "coordinates": [ 9.39344380222, 47.434540382469997 ] } },
 { "type": "Feature", "properties": { "number": "8506302", "designationOfficial": "St. Gallen" }, "geometry": { "type": "Point", "coordinates": [ 9.36989666272, 47.423178949899999 ] } },
+{ "type": "Feature", "properties": { "number": "8506290", "designationOfficial": "Herisau" }, "geometry": { "type": "Point", "coordinates": [ 9.27681223562, 47.390165208660001 ] } },
 { "type": "Feature", "properties": { "number": "8506125", "designationOfficial": "Altnau" }, "geometry": { "type": "Point", "coordinates": [ 9.265917958559999, 47.621367932299997 ] } },
 { "type": "Feature", "properties": { "number": "8506124", "designationOfficial": "Güttingen" }, "geometry": { "type": "Point", "coordinates": [ 9.292243051110001, 47.608752972479998 ] } },
 { "type": "Feature", "properties": { "number": "8506127", "designationOfficial": "Bottighofen" }, "geometry": { "type": "Point", "coordinates": [ 9.213104114289999, 47.64070724442 ] } },

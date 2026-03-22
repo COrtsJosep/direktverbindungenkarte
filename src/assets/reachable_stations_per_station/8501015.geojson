@@ -11,6 +11,7 @@
 { "type": "Feature", "properties": { "number": "8501022", "designationOfficial": "Versoix" }, "geometry": { "type": "Point", "coordinates": [ 6.16574129202, 46.279727184930003 ] } },
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501011", "designationOfficial": "Les Tuileries" }, "geometry": { "type": "Point", "coordinates": [ 6.14733745893, 46.249946345940003 ] } },
+{ "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501013", "designationOfficial": "Pont-Céard" }, "geometry": { "type": "Point", "coordinates": [ 6.16277928503, 46.286817385939997 ] } },
 { "type": "Feature", "properties": { "number": "8516273", "designationOfficial": "Genève-Eaux-Vives" }, "geometry": { "type": "Point", "coordinates": [ 6.16656958816, 46.201445406520001 ] } },
 { "type": "Feature", "properties": { "number": "8516283", "designationOfficial": "Genève-Sécheron" }, "geometry": { "type": "Point", "coordinates": [ 6.1445611504, 46.222440308499998 ] } },

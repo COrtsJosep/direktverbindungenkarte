@@ -7,6 +7,12 @@ from pathlib import Path
 from schienennetz import SchienenNetz
 cd = Path(__file__).parent
 
+# folder preparations
+rn_dir = cd.parent / 'assets' / 'reachable_net_per_station'
+rs_dir = cd.parent / 'assets' / 'reachable_stations_per_station'
+for geojson_file in (list(rn_dir.glob('*.geojson')) + list(rs_dir.glob('*.geojson'))):
+    geojson_file.unlink()
+
 df_is = pd.read_json(cd.parent / 'assets' / 'istdaten.json', dtype = {'BPUIC': str})
 gdf_ds = gpd.read_file(cd.parent / 'assets' / 'dienststellen.geojson').set_index('number')
 sn = SchienenNetz()
@@ -20,7 +26,7 @@ df_eb = (  # eb: erreichbar
     .set_index('FAHRT_BEZEICHNER')
 )
 
-for ds_id in tqdm(gdf_ds.index):
+for ds_id in tqdm(gdf_ds.index, desc = 'Creating files per station'):
     line_subset = df_is.loc[df_is.loc[:, 'BPUIC'] == ds_id, 'FAHRT_BEZEICHNER'].drop_duplicates()
     df_eb_sub = df_eb.loc[line_subset].groupby(level = 0)
 
@@ -56,7 +62,7 @@ for ds_id in tqdm(gdf_ds.index):
             },
             crs = gdf_ds.crs,
         )
-        .to_file(cd.parent / 'assets' / f'reachable_net_per_station/{ds_id}.geojson')
+        .to_file(rn_dir / f'{ds_id}.geojson')
     )
     
     (
@@ -66,5 +72,5 @@ for ds_id in tqdm(gdf_ds.index):
             how = 'inner',
         )
         .loc[:, ['designationOfficial', 'geometry']]
-        .to_file(cd.parent / 'assets' / f'reachable_stations_per_station/{ds_id}.geojson')
+        .to_file(rs_dir / f'{ds_id}.geojson')
     )

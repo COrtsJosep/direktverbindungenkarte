@@ -72,6 +72,8 @@
 { "type": "Feature", "properties": { "number": "8501601", "designationOfficial": "Leuk" }, "geometry": { "type": "Point", "coordinates": [ 7.64493650277, 46.311579511650002 ] } },
 { "type": "Feature", "properties": { "number": "8501600", "designationOfficial": "Salgesch" }, "geometry": { "type": "Point", "coordinates": [ 7.57819435695, 46.309195336610003 ] } },
 { "type": "Feature", "properties": { "number": "8501603", "designationOfficial": "Gampel-Steg" }, "geometry": { "type": "Point", "coordinates": [ 7.74758116307, 46.306515480889999 ] } },
+{ "type": "Feature", "properties": { "number": "8502113", "designationOfficial": "Aarau" }, "geometry": { "type": "Point", "coordinates": [ 8.051273718699999, 47.391359514169999 ] } },
+{ "type": "Feature", "properties": { "number": "8502119", "designationOfficial": "Lenzburg" }, "geometry": { "type": "Point", "coordinates": [ 8.17039288935, 47.391199755439999 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
 { "type": "Feature", "properties": { "number": "8503016", "designationOfficial": "Zürich Flughafen" }, "geometry": { "type": "Point", "coordinates": [ 8.56240182048, 47.450385629899998 ] } },
 { "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },

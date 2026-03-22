@@ -3,6 +3,9 @@
 "name": "8501576",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "number": "8501200", "designationOfficial": "Vevey" }, "geometry": { "type": "Point", "coordinates": [ 6.84344559824, 46.463001810660003 ] } },
+{ "type": "Feature", "properties": { "number": "8501400", "designationOfficial": "Aigle" }, "geometry": { "type": "Point", "coordinates": [ 6.96368321186, 46.316855418599999 ] } },
+{ "type": "Feature", "properties": { "number": "8501402", "designationOfficial": "Bex" }, "geometry": { "type": "Point", "coordinates": [ 7.00066990236, 46.251464582289998 ] } },
 { "type": "Feature", "properties": { "number": "8501500", "designationOfficial": "Martigny" }, "geometry": { "type": "Point", "coordinates": [ 7.07912412849, 46.105831207169999 ] } },
 { "type": "Feature", "properties": { "number": "8501573", "designationOfficial": "Martigny-Croix" }, "geometry": { "type": "Point", "coordinates": [ 7.05850036228, 46.086703963840002 ] } },
 { "type": "Feature", "properties": { "number": "8501572", "designationOfficial": "Martigny-Bourg" }, "geometry": { "type": "Point", "coordinates": [ 7.06973576311, 46.093039927200003 ] } },
@@ -11,6 +14,9 @@
 { "type": "Feature", "properties": { "number": "8501576", "designationOfficial": "Sembrancher" }, "geometry": { "type": "Point", "coordinates": [ 7.14583205021, 46.076931280399997 ] } },
 { "type": "Feature", "properties": { "number": "8501579", "designationOfficial": "Le Châble VS" }, "geometry": { "type": "Point", "coordinates": [ 7.21486016547, 46.079342363089999 ] } },
 { "type": "Feature", "properties": { "number": "8501578", "designationOfficial": "Orsières" }, "geometry": { "type": "Point", "coordinates": [ 7.14361780689, 46.028036843119999 ] } },
-{ "type": "Feature", "properties": { "number": "8501580", "designationOfficial": "Etiez" }, "geometry": { "type": "Point", "coordinates": [ 7.160582137, 46.082948163760001 ] } }
+{ "type": "Feature", "properties": { "number": "8501580", "designationOfficial": "Etiez" }, "geometry": { "type": "Point", "coordinates": [ 7.160582137, 46.082948163760001 ] } },
+{ "type": "Feature", "properties": { "number": "8504023", "designationOfficial": "Romont FR" }, "geometry": { "type": "Point", "coordinates": [ 6.91181142012, 46.693508261230001 ] } },
+{ "type": "Feature", "properties": { "number": "8504014", "designationOfficial": "Palézieux" }, "geometry": { "type": "Point", "coordinates": [ 6.83787527681, 46.542763593579998 ] } },
+{ "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } }
 ]
 }

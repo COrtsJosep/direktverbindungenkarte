@@ -22,6 +22,7 @@
 { "type": "Feature", "properties": { "number": "8503120", "designationOfficial": "Jona" }, "geometry": { "type": "Point", "coordinates": [ 8.83461805252, 47.230976641509997 ] } },
 { "type": "Feature", "properties": { "number": "8503123", "designationOfficial": "Wetzikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.792289733780001, 47.318031631510003 ] } },
 { "type": "Feature", "properties": { "number": "8503122", "designationOfficial": "Bubikon" }, "geometry": { "type": "Point", "coordinates": [ 8.82271483906, 47.270841013149997 ] } },
+{ "type": "Feature", "properties": { "number": "8503147", "designationOfficial": "Stettbach" }, "geometry": { "type": "Point", "coordinates": [ 8.596144778539999, 47.397215407959997 ] } },
 { "type": "Feature", "properties": { "number": "8503125", "designationOfficial": "Uster" }, "geometry": { "type": "Point", "coordinates": [ 8.71870915949, 47.35036900902 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
 { "type": "Feature", "properties": { "number": "8518459", "designationOfficial": "Steinhausen Rigiblick" }, "geometry": { "type": "Point", "coordinates": [ 8.479703872989999, 47.18786377024 ] } }

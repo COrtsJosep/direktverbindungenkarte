@@ -16,7 +16,6 @@
 { "type": "Feature", "properties": { "number": "8503121", "designationOfficial": "Rüti ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.854079463450001, 47.260483804289997 ] } },
 { "type": "Feature", "properties": { "number": "8503138", "designationOfficial": "Wald ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.913999753340001, 47.272690504560003 ] } },
 { "type": "Feature", "properties": { "number": "8503147", "designationOfficial": "Stettbach" }, "geometry": { "type": "Point", "coordinates": [ 8.596144778539999, 47.397215407959997 ] } },
-{ "type": "Feature", "properties": { "number": "8503129", "designationOfficial": "Wallisellen" }, "geometry": { "type": "Point", "coordinates": [ 8.591928199670001, 47.412723086150002 ] } },
 { "type": "Feature", "properties": { "number": "8503135", "designationOfficial": "Steg" }, "geometry": { "type": "Point", "coordinates": [ 8.93237176855, 47.353852464889997 ] } },
 { "type": "Feature", "properties": { "number": "8503134", "designationOfficial": "Bauma" }, "geometry": { "type": "Point", "coordinates": [ 8.878233042230001, 47.368836636890002 ] } },
 { "type": "Feature", "properties": { "number": "8503137", "designationOfficial": "Gibswil" }, "geometry": { "type": "Point", "coordinates": [ 8.91551055853, 47.313720104879998 ] } },

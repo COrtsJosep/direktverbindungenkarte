@@ -10,6 +10,9 @@ gdf_ds = gpd.read_file(cd.parent / 'assets' / 'dienststellen_dirty.geojson').set
 
 # download and read the file of train stations served by any route
 yesterday = datetime.strftime(datetime.now() - timedelta(days = 1), '%Y-%m-%d')
+with open(cd.parent.parent / 'last_update.txt', mode = 'w') as f:  # for version control
+    f.write(f'Last update: {datetime.now()}\nIst-data from day: {yesterday}')
+
 url_is = f'https://data.opentransportdata.swiss/dataset/ist-daten-v2/resource_permalink/{yesterday}_istdaten.csv'
 path_is = cd / f'{yesterday}_istdaten.csv'
 with open(path_is, mode = 'wb') as f:

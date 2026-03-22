@@ -20,6 +20,7 @@
 { "type": "Feature", "properties": { "number": "8507299", "designationOfficial": "Lattigen bei Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.65026894498, 46.691141244169998 ] } },
 { "type": "Feature", "properties": { "number": "8507483", "designationOfficial": "Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.6801030578, 46.686395668350002 ] } },
 { "type": "Feature", "properties": { "number": "8507493", "designationOfficial": "Interlaken West" }, "geometry": { "type": "Point", "coordinates": [ 7.8514531376, 46.682627980360003 ] } },
-{ "type": "Feature", "properties": { "number": "8507492", "designationOfficial": "Interlaken Ost" }, "geometry": { "type": "Point", "coordinates": [ 7.86900000435, 46.690499996189999 ] } }
+{ "type": "Feature", "properties": { "number": "8507492", "designationOfficial": "Interlaken Ost" }, "geometry": { "type": "Point", "coordinates": [ 7.86900000435, 46.690499996189999 ] } },
+{ "type": "Feature", "properties": { "number": "8507100", "designationOfficial": "Thun" }, "geometry": { "type": "Point", "coordinates": [ 7.62960582867, 46.754852730590002 ] } }
 ]
 }

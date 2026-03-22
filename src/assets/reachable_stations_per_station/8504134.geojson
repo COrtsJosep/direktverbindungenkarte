@@ -6,6 +6,7 @@
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
 { "type": "Feature", "properties": { "number": "8504016", "designationOfficial": "Palézieux-Village" }, "geometry": { "type": "Point", "coordinates": [ 6.82887452474, 46.557113199779998 ] } },
 { "type": "Feature", "properties": { "number": "8504000", "designationOfficial": "Pully-Nord" }, "geometry": { "type": "Point", "coordinates": [ 6.6579876066, 46.514681464490003 ] } },
+{ "type": "Feature", "properties": { "number": "8504003", "designationOfficial": "Bossière" }, "geometry": { "type": "Point", "coordinates": [ 6.69932176237, 46.50974851438 ] } },
 { "type": "Feature", "properties": { "number": "8504007", "designationOfficial": "Moreillon" }, "geometry": { "type": "Point", "coordinates": [ 6.78564542808, 46.50839811665 ] } },
 { "type": "Feature", "properties": { "number": "8504011", "designationOfficial": "Grandvaux" }, "geometry": { "type": "Point", "coordinates": [ 6.72265018612, 46.496948240469997 ] } },
 { "type": "Feature", "properties": { "number": "8504010", "designationOfficial": "La Conversion" }, "geometry": { "type": "Point", "coordinates": [ 6.67832359677, 46.513084497489999 ] } },
@@ -17,7 +18,6 @@
 { "type": "Feature", "properties": { "number": "8504124", "designationOfficial": "Dompierre FR" }, "geometry": { "type": "Point", "coordinates": [ 6.98536880348, 46.854402762340001 ] } },
 { "type": "Feature", "properties": { "number": "8504127", "designationOfficial": "Faoug" }, "geometry": { "type": "Point", "coordinates": [ 7.07454622978, 46.908310347819999 ] } },
 { "type": "Feature", "properties": { "number": "8504126", "designationOfficial": "Avenches" }, "geometry": { "type": "Point", "coordinates": [ 7.04092532366, 46.884601597660001 ] } },
-{ "type": "Feature", "properties": { "number": "8504129", "designationOfficial": "Galmiz" }, "geometry": { "type": "Point", "coordinates": [ 7.15320734383, 46.950870626129998 ] } },
 { "type": "Feature", "properties": { "number": "8504128", "designationOfficial": "Murten/Morat" }, "geometry": { "type": "Point", "coordinates": [ 7.11528264747, 46.925346691199998 ] } },
 { "type": "Feature", "properties": { "number": "8504131", "designationOfficial": "Cheyres" }, "geometry": { "type": "Point", "coordinates": [ 6.7863937067, 46.816945830789997 ] } },
 { "type": "Feature", "properties": { "number": "8504130", "designationOfficial": "Yvonand" }, "geometry": { "type": "Point", "coordinates": [ 6.74668733336, 46.800875489180001 ] } },
@@ -33,10 +33,8 @@
 { "type": "Feature", "properties": { "number": "8504181", "designationOfficial": "Givisiez" }, "geometry": { "type": "Point", "coordinates": [ 7.12996152131, 46.816755948020003 ] } },
 { "type": "Feature", "properties": { "number": "8504123", "designationOfficial": "Corcelles-Nord" }, "geometry": { "type": "Point", "coordinates": [ 6.96029447415, 46.835262111710001 ] } },
 { "type": "Feature", "properties": { "number": "8504141", "designationOfficial": "Henniez" }, "geometry": { "type": "Point", "coordinates": [ 6.87010587847, 46.735001406259997 ] } },
-{ "type": "Feature", "properties": { "number": "8504140", "designationOfficial": "Muntelier-Löwenberg" }, "geometry": { "type": "Point", "coordinates": [ 7.13326152062, 46.937974151429998 ] } },
 { "type": "Feature", "properties": { "number": "8504122", "designationOfficial": "Granges-Marnand" }, "geometry": { "type": "Point", "coordinates": [ 6.89428972893, 46.758844924260003 ] } },
 { "type": "Feature", "properties": { "number": "8504125", "designationOfficial": "Domdidier" }, "geometry": { "type": "Point", "coordinates": [ 7.01138257529, 46.868512058969998 ] } },
-{ "type": "Feature", "properties": { "number": "8504400", "designationOfficial": "Kerzers" }, "geometry": { "type": "Point", "coordinates": [ 7.19281016807, 46.975078963309997 ] } },
 { "type": "Feature", "properties": { "number": "8504018", "designationOfficial": "Ecublens-Rue" }, "geometry": { "type": "Point", "coordinates": [ 6.81105498124, 46.610430239739998 ] } },
 { "type": "Feature", "properties": { "number": "8504138", "designationOfficial": "Grolley" }, "geometry": { "type": "Point", "coordinates": [ 7.06605254437, 46.831978844779997 ] } }
 ]

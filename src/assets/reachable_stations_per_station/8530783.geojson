@@ -12,7 +12,6 @@
 { "type": "Feature", "properties": { "number": "8501156", "designationOfficial": "Le Solliat-La Golisse" }, "geometry": { "type": "Point", "coordinates": [ 6.23902295172, 46.61440647573 ] } },
 { "type": "Feature", "properties": { "number": "8501159", "designationOfficial": "Le Brassus" }, "geometry": { "type": "Point", "coordinates": [ 6.21394488318, 46.585543941429997 ] } },
 { "type": "Feature", "properties": { "number": "8501100", "designationOfficial": "Le Pont" }, "geometry": { "type": "Point", "coordinates": [ 6.32471989242, 46.668667491599997 ] } },
-{ "type": "Feature", "properties": { "number": "8501103", "designationOfficial": "Vallorbe" }, "geometry": { "type": "Point", "coordinates": [ 6.37056563541, 46.712406324299998 ] } },
 { "type": "Feature", "properties": { "number": "8501104", "designationOfficial": "Le Day" }, "geometry": { "type": "Point", "coordinates": [ 6.39902378652, 46.720031528230002 ] } },
 { "type": "Feature", "properties": { "number": "8530783", "designationOfficial": "Chez-le-Maître-Ecoles" }, "geometry": { "type": "Point", "coordinates": [ 6.22215117049, 46.599460647880001 ] } }
 ]

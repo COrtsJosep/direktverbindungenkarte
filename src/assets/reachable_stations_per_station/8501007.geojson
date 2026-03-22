@@ -9,11 +9,6 @@
 { "type": "Feature", "properties": { "number": "8501002", "designationOfficial": "Russin" }, "geometry": { "type": "Point", "coordinates": [ 6.01803595662, 46.188395130730001 ] } },
 { "type": "Feature", "properties": { "number": "8501007", "designationOfficial": "Vernier" }, "geometry": { "type": "Point", "coordinates": [ 6.09389170749, 46.220718697499997 ] } },
 { "type": "Feature", "properties": { "number": "8501006", "designationOfficial": "Meyrin" }, "geometry": { "type": "Point", "coordinates": [ 6.07690079901, 46.222335451840003 ] } },
-{ "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
-{ "type": "Feature", "properties": { "number": "8516273", "designationOfficial": "Genève-Eaux-Vives" }, "geometry": { "type": "Point", "coordinates": [ 6.16656958816, 46.201445406520001 ] } },
-{ "type": "Feature", "properties": { "number": "8516272", "designationOfficial": "Genève-Champel" }, "geometry": { "type": "Point", "coordinates": [ 6.15349872414, 46.192193344300001 ] } },
-{ "type": "Feature", "properties": { "number": "8516274", "designationOfficial": "Chêne-Bourg" }, "geometry": { "type": "Point", "coordinates": [ 6.19733346412, 46.196600169 ] } },
-{ "type": "Feature", "properties": { "number": "8516155", "designationOfficial": "Lancy-Pont-Rouge" }, "geometry": { "type": "Point", "coordinates": [ 6.12494699563, 46.185945299780002 ] } },
-{ "type": "Feature", "properties": { "number": "8517142", "designationOfficial": "Lancy-Bachet" }, "geometry": { "type": "Point", "coordinates": [ 6.12936213667, 46.174332867910003 ] } }
+{ "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } }
 ]
 }

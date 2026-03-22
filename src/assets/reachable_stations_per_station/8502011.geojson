@@ -8,6 +8,7 @@
 { "type": "Feature", "properties": { "number": "8502005", "designationOfficial": "Nebikon" }, "geometry": { "type": "Point", "coordinates": [ 7.9774494816, 47.192380620969999 ] } },
 { "type": "Feature", "properties": { "number": "8502004", "designationOfficial": "Dagmersellen" }, "geometry": { "type": "Point", "coordinates": [ 7.97902592247, 47.217557940810003 ] } },
 { "type": "Feature", "properties": { "number": "8502001", "designationOfficial": "Zofingen" }, "geometry": { "type": "Point", "coordinates": [ 7.94311767398, 47.288052535390001 ] } },
+{ "type": "Feature", "properties": { "number": "8502000", "designationOfficial": "Aarburg-Oftringen" }, "geometry": { "type": "Point", "coordinates": [ 7.90822260672, 47.320268469490003 ] } },
 { "type": "Feature", "properties": { "number": "8502007", "designationOfficial": "Sursee" }, "geometry": { "type": "Point", "coordinates": [ 8.09789386466, 47.170795040930003 ] } },
 { "type": "Feature", "properties": { "number": "8502003", "designationOfficial": "Reiden" }, "geometry": { "type": "Point", "coordinates": [ 7.96877438563, 47.241468372120003 ] } },
 { "type": "Feature", "properties": { "number": "8502006", "designationOfficial": "Wauwil" }, "geometry": { "type": "Point", "coordinates": [ 8.01902005935, 47.183858974750002 ] } },

@@ -10,7 +10,6 @@
 { "type": "Feature", "properties": { "number": "8501014", "designationOfficial": "Mies" }, "geometry": { "type": "Point", "coordinates": [ 6.16765465077, 46.298488833279997 ] } },
 { "type": "Feature", "properties": { "number": "8501030", "designationOfficial": "Nyon" }, "geometry": { "type": "Point", "coordinates": [ 6.23596613063, 46.384418967530003 ] } },
 { "type": "Feature", "properties": { "number": "8501033", "designationOfficial": "Rolle" }, "geometry": { "type": "Point", "coordinates": [ 6.33640380762, 46.462745816039998 ] } },
-{ "type": "Feature", "properties": { "number": "8501007", "designationOfficial": "Vernier" }, "geometry": { "type": "Point", "coordinates": [ 6.09389170749, 46.220718697499997 ] } },
 { "type": "Feature", "properties": { "number": "8501035", "designationOfficial": "Allaman" }, "geometry": { "type": "Point", "coordinates": [ 6.39969707975, 46.475753520799998 ] } },
 { "type": "Feature", "properties": { "number": "8501020", "designationOfficial": "Chambésy" }, "geometry": { "type": "Point", "coordinates": [ 6.1473043207, 46.240944855080002 ] } },
 { "type": "Feature", "properties": { "number": "8501023", "designationOfficial": "Coppet" }, "geometry": { "type": "Point", "coordinates": [ 6.18782738095, 46.317393570749999 ] } },

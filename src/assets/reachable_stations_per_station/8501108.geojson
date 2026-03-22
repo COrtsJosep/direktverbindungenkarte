@@ -11,7 +11,10 @@
 { "type": "Feature", "properties": { "number": "8501124", "designationOfficial": "Cully" }, "geometry": { "type": "Point", "coordinates": [ 6.72715146685, 46.488561791690003 ] } },
 { "type": "Feature", "properties": { "number": "8501127", "designationOfficial": "St-Saphorin" }, "geometry": { "type": "Point", "coordinates": [ 6.79703368938, 46.472593707750001 ] } },
 { "type": "Feature", "properties": { "number": "8501126", "designationOfficial": "Rivaz" }, "geometry": { "type": "Point", "coordinates": [ 6.78459498291, 46.474207736079997 ] } },
+{ "type": "Feature", "properties": { "number": "8501201", "designationOfficial": "La Tour-de-Peilz" }, "geometry": { "type": "Point", "coordinates": [ 6.85953267344, 46.45545289156 ] } },
 { "type": "Feature", "properties": { "number": "8501200", "designationOfficial": "Vevey" }, "geometry": { "type": "Point", "coordinates": [ 6.84344559824, 46.463001810660003 ] } },
+{ "type": "Feature", "properties": { "number": "8501203", "designationOfficial": "Clarens" }, "geometry": { "type": "Point", "coordinates": [ 6.89577993661, 46.442738299010003 ] } },
+{ "type": "Feature", "properties": { "number": "8501202", "designationOfficial": "Burier" }, "geometry": { "type": "Point", "coordinates": [ 6.87712182481, 46.447886474980002 ] } },
 { "type": "Feature", "properties": { "number": "8501103", "designationOfficial": "Vallorbe" }, "geometry": { "type": "Point", "coordinates": [ 6.37056563541, 46.712406324299998 ] } },
 { "type": "Feature", "properties": { "number": "8501105", "designationOfficial": "Bretonnières" }, "geometry": { "type": "Point", "coordinates": [ 6.47473250427, 46.715055329930003 ] } },
 { "type": "Feature", "properties": { "number": "8501104", "designationOfficial": "Le Day" }, "geometry": { "type": "Point", "coordinates": [ 6.39902378652, 46.720031528230002 ] } },
@@ -21,6 +24,14 @@
 { "type": "Feature", "properties": { "number": "8501108", "designationOfficial": "La Sarraz" }, "geometry": { "type": "Point", "coordinates": [ 6.51736100453, 46.658784971579998 ] } },
 { "type": "Feature", "properties": { "number": "8501115", "designationOfficial": "Cossonay-Penthalaz" }, "geometry": { "type": "Point", "coordinates": [ 6.52368916814, 46.606010085290002 ] } },
 { "type": "Feature", "properties": { "number": "8501117", "designationOfficial": "Bussigny" }, "geometry": { "type": "Point", "coordinates": [ 6.55182614923, 46.547590367460003 ] } },
+{ "type": "Feature", "properties": { "number": "8501400", "designationOfficial": "Aigle" }, "geometry": { "type": "Point", "coordinates": [ 6.96368321186, 46.316855418599999 ] } },
+{ "type": "Feature", "properties": { "number": "8501403", "designationOfficial": "St-Maurice" }, "geometry": { "type": "Point", "coordinates": [ 7.00204389825, 46.216369502829998 ] } },
+{ "type": "Feature", "properties": { "number": "8501402", "designationOfficial": "Bex" }, "geometry": { "type": "Point", "coordinates": [ 7.00066990236, 46.251464582289998 ] } },
+{ "type": "Feature", "properties": { "number": "8501301", "designationOfficial": "Territet" }, "geometry": { "type": "Point", "coordinates": [ 6.92270695101, 46.426381565539998 ] } },
+{ "type": "Feature", "properties": { "number": "8501300", "designationOfficial": "Montreux" }, "geometry": { "type": "Point", "coordinates": [ 6.91044012131, 46.435884341120001 ] } },
+{ "type": "Feature", "properties": { "number": "8501303", "designationOfficial": "Villeneuve VD" }, "geometry": { "type": "Point", "coordinates": [ 6.92700310805, 46.398371506419998 ] } },
+{ "type": "Feature", "properties": { "number": "8501302", "designationOfficial": "Veytaux-Chillon" }, "geometry": { "type": "Point", "coordinates": [ 6.92786078229, 46.417621195869998 ] } },
+{ "type": "Feature", "properties": { "number": "8501304", "designationOfficial": "Roche VD" }, "geometry": { "type": "Point", "coordinates": [ 6.92705283746, 46.358696372110003 ] } },
 { "type": "Feature", "properties": { "number": "8518452", "designationOfficial": "Prilly-Malley" }, "geometry": { "type": "Point", "coordinates": [ 6.60262893925, 46.526691976519999 ] } }
 ]
 }

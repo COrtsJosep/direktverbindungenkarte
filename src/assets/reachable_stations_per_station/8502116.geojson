@@ -22,7 +22,22 @@
 { "type": "Feature", "properties": { "number": "8502115", "designationOfficial": "Wildegg" }, "geometry": { "type": "Point", "coordinates": [ 8.16301990851, 47.415275144749998 ] } },
 { "type": "Feature", "properties": { "number": "8502114", "designationOfficial": "Rupperswil" }, "geometry": { "type": "Point", "coordinates": [ 8.126956365310001, 47.403290250749997 ] } },
 { "type": "Feature", "properties": { "number": "8502116", "designationOfficial": "Schinznach Bad" }, "geometry": { "type": "Point", "coordinates": [ 8.166948608449999, 47.451785164290001 ] } },
+{ "type": "Feature", "properties": { "number": "8503001", "designationOfficial": "Zürich Altstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.488962649959999, 47.391483073080003 ] } },
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503020", "designationOfficial": "Zürich Hardbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.517126201470001, 47.385197891499999 ] } },
+{ "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
+{ "type": "Feature", "properties": { "number": "8503147", "designationOfficial": "Stettbach" }, "geometry": { "type": "Point", "coordinates": [ 8.596144778539999, 47.397215407959997 ] } },
+{ "type": "Feature", "properties": { "number": "8503512", "designationOfficial": "Glanzenberg" }, "geometry": { "type": "Point", "coordinates": [ 8.4204418766, 47.398878725049997 ] } },
+{ "type": "Feature", "properties": { "number": "8503505", "designationOfficial": "Wettingen" }, "geometry": { "type": "Point", "coordinates": [ 8.316006171450001, 47.459638175930003 ] } },
 { "type": "Feature", "properties": { "number": "8503504", "designationOfficial": "Baden" }, "geometry": { "type": "Point", "coordinates": [ 8.307709474039999, 47.476424284620002 ] } },
+{ "type": "Feature", "properties": { "number": "8503506", "designationOfficial": "Killwangen-Spreitenbach" }, "geometry": { "type": "Point", "coordinates": [ 8.354214000600001, 47.433328858369997 ] } },
+{ "type": "Feature", "properties": { "number": "8503509", "designationOfficial": "Schlieren" }, "geometry": { "type": "Point", "coordinates": [ 8.44724506334, 47.399176368239999 ] } },
+{ "type": "Feature", "properties": { "number": "8503508", "designationOfficial": "Dietikon" }, "geometry": { "type": "Point", "coordinates": [ 8.40498818789, 47.40578380657 ] } },
+{ "type": "Feature", "properties": { "number": "8503511", "designationOfficial": "Neuenhof" }, "geometry": { "type": "Point", "coordinates": [ 8.331255318, 47.450664233099999 ] } },
+{ "type": "Feature", "properties": { "number": "8503305", "designationOfficial": "Effretikon" }, "geometry": { "type": "Point", "coordinates": [ 8.686679144439999, 47.425812059910001 ] } },
+{ "type": "Feature", "properties": { "number": "8503306", "designationOfficial": "Dietlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.619276404560001, 47.420202064009999 ] } },
+{ "type": "Feature", "properties": { "number": "8506000", "designationOfficial": "Winterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.723821055409999, 47.500333810470003 ] } },
+{ "type": "Feature", "properties": { "number": "8506016", "designationOfficial": "Oberwinterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.760389196169999, 47.507922332500002 ] } },
 { "type": "Feature", "properties": { "number": "8503503", "designationOfficial": "Turgi" }, "geometry": { "type": "Point", "coordinates": [ 8.253458645709999, 47.491757319530002 ] } }
 ]
 }

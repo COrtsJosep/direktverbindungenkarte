@@ -30,7 +30,6 @@
 { "type": "Feature", "properties": { "number": "8507073", "designationOfficial": "Thurnen" }, "geometry": { "type": "Point", "coordinates": [ 7.51387770203, 46.813560975580003 ] } },
 { "type": "Feature", "properties": { "number": "8507078", "designationOfficial": "Wabern bei Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.44588875523, 46.928662777169997 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
-{ "type": "Feature", "properties": { "number": "8507002", "designationOfficial": "Ostermundigen" }, "geometry": { "type": "Point", "coordinates": [ 7.48149788168, 46.956802426449997 ] } },
 { "type": "Feature", "properties": { "number": "8508081", "designationOfficial": "Burgdorf Steinhof" }, "geometry": { "type": "Point", "coordinates": [ 7.61953942949, 47.051199893769997 ] } },
 { "type": "Feature", "properties": { "number": "8508080", "designationOfficial": "Oberburg" }, "geometry": { "type": "Point", "coordinates": [ 7.6293428672, 47.039609543239997 ] } },
 { "type": "Feature", "properties": { "number": "8508083", "designationOfficial": "Burgdorf Buchmatt" }, "geometry": { "type": "Point", "coordinates": [ 7.60827597482, 47.065457970840001 ] } },

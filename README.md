@@ -18,6 +18,8 @@ There are three data elements that make up the map:
 ## Credits
 Heavily inspired by [Martin Sterchi](https://martinsterchi.ch/)'s [blog publication](https://martinsterchi.ch/blog/sbb_nw/#load-and-preprocess-ist-daten) about the SBB-CFF-FFS network. Also vaguely inspired on [chronotrains](https://www.chronotrains.com/).
 
+The files in [public/vendor/leaflet-control-credits/](https://github.com/COrtsJosep/direktverbindungenkarte/blob/main/public/vendor/leaflet-control-credits/) are authored by [Greg Allensworth](https://github.com/gregallensworth) and they were released under a different license, which I have placed inside the folder. GitHub's [Invertocat logo](public/GitHub_Invertocat_Black.png) is GitHub's property. All original code by myself is under the Unlicense (see [LICENSE](LICENSE)).
+
 ## Impressions
 Direct railway connections from Bern:
 

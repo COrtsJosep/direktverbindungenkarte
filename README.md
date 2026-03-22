@@ -19,5 +19,6 @@ There are three data elements that make up the map:
 Heavily inspired by [Martin Sterchi](https://martinsterchi.ch/)'s [blog publication](https://martinsterchi.ch/blog/sbb_nw/#load-and-preprocess-ist-daten) about the SBB-CFF-FFS network. Also vaguely inspired on [chronotrains](https://www.chronotrains.com/).
 
 ## Impressions
+Direct railway connections from Bern:
 
 ![Direct railway connections from Bern](public/connections_from_Bern.png "Connections from Bern")

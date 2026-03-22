@@ -1,13 +1,20 @@
 import shapely
+import requests
 import geopandas as gpd
 from pathlib import Path
 cd = Path(__file__).parent
 
-# read the table of existing stations
+# download and read the table of existing stations
+url_ds = 'https://data.opentransportdata.swiss/dataset/service-point-v2/resource_permalink/actual-date-swiss-service-point.csv'
+path_ds = cd / 'actual-date-swiss-service-point.csv'
+with open(path_ds, mode = 'wb') as f:
+    f.write(requests.get(url_ds).content)
+    
 df_ds = gpd.read_file(  # ds: dienststellen
-    filename = 'https://data.opentransportdata.swiss/dataset/service-point-v2/resource_permalink/actual-date-swiss-service-point.csv',  # 403 TODO
+    filename = path_ds,
     columns = ['designationOfficial', 'number', 'isoCountryCode', 'hasGeolocation', 'wgs84East', 'wgs84North', 'meansOfTransport'],
 )
+path_ds.unlink()  # delete the raw file once loaded
 df_ds.set_index('number', inplace = True)
 
 df_ds = df_ds.loc[

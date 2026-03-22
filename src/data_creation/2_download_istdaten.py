@@ -1,17 +1,26 @@
+import requests
 import pandas as pd
 import geopandas as gpd
 from pathlib import Path
+from datetime import datetime, timedelta
 cd = Path(__file__).parent
 
 # load dienststellen data
 gdf_ds = gpd.read_file(cd.parent / 'assets' / 'dienststellen_dirty.geojson').set_index('number')
 
-# read the file of train stations served by any route
+# download and read the file of train stations served by any route
+yesterday = datetime.strftime(datetime.now() - timedelta(days = 1), '%Y-%m-%d')
+url_is = f'https://data.opentransportdata.swiss/dataset/ist-daten-v2/resource_permalink/{yesterday}_istdaten.csv'
+path_is = cd / f'{yesterday}_istdaten.csv'
+with open(path_is, mode = 'wb') as f:
+    f.write(requests.get(url_is).content)
+
 df_is = gpd.read_file(  # is: ist
-    filename = 'https://data.opentransportdata.swiss/dataset/ist-daten-v2/resource_permalink/2026-03-19_istdaten.csv',  # 403 TODO
+    filename = path_is,
     columns = ['FAHRT_BEZEICHNER', 'BPUIC', 'ANKUNFTSZEIT', 'PRODUKT_ID'],
     ignore_geometry = True,
 )
+path_is.unlink()  # delete the raw file once loaded
 df_is.loc[:, 'PRODUKT_ID'] = df_is.loc[:, 'PRODUKT_ID'].fillna('Zug')
 
 df_is = df_is.loc[

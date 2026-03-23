@@ -47,7 +47,6 @@
 { "type": "Feature", "properties": { "number": "8503123", "designationOfficial": "Wetzikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.792289733780001, 47.318031631510003 ] } },
 { "type": "Feature", "properties": { "number": "8503147", "designationOfficial": "Stettbach" }, "geometry": { "type": "Point", "coordinates": [ 8.596144778539999, 47.397215407959997 ] } },
 { "type": "Feature", "properties": { "number": "8503129", "designationOfficial": "Wallisellen" }, "geometry": { "type": "Point", "coordinates": [ 8.591928199670001, 47.412723086150002 ] } },
-{ "type": "Feature", "properties": { "number": "8503130", "designationOfficial": "Hinwil" }, "geometry": { "type": "Point", "coordinates": [ 8.839719894410001, 47.300056950360002 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
 { "type": "Feature", "properties": { "number": "8503512", "designationOfficial": "Glanzenberg" }, "geometry": { "type": "Point", "coordinates": [ 8.4204418766, 47.398878725049997 ] } },
 { "type": "Feature", "properties": { "number": "8503505", "designationOfficial": "Wettingen" }, "geometry": { "type": "Point", "coordinates": [ 8.316006171450001, 47.459638175930003 ] } },

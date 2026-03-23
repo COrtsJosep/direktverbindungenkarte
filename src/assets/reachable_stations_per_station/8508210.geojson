@@ -5,6 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
+{ "type": "Feature", "properties": { "number": "8508200", "designationOfficial": "Worb SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.56485160662, 46.915229986290001 ] } },
 { "type": "Feature", "properties": { "number": "8508213", "designationOfficial": "Entlebuch" }, "geometry": { "type": "Point", "coordinates": [ 8.062364328879999, 46.993693355920001 ] } },
 { "type": "Feature", "properties": { "number": "8508207", "designationOfficial": "Langnau i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.78419743448, 46.939242278720002 ] } },
 { "type": "Feature", "properties": { "number": "8508212", "designationOfficial": "Hasle LU" }, "geometry": { "type": "Point", "coordinates": [ 8.046981752040001, 46.97815166318 ] } },

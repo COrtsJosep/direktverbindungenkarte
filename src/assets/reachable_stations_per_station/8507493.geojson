@@ -16,8 +16,6 @@
 { "type": "Feature", "properties": { "number": "8506109", "designationOfficial": "Amriswil" }, "geometry": { "type": "Point", "coordinates": [ 9.30222720093, 47.550449721219998 ] } },
 { "type": "Feature", "properties": { "number": "8506121", "designationOfficial": "Romanshorn" }, "geometry": { "type": "Point", "coordinates": [ 9.37937129226, 47.565522864869997 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
-{ "type": "Feature", "properties": { "number": "8507003", "designationOfficial": "Gümligen" }, "geometry": { "type": "Point", "coordinates": [ 7.50550479629, 46.934321918789998 ] } },
-{ "type": "Feature", "properties": { "number": "8507002", "designationOfficial": "Ostermundigen" }, "geometry": { "type": "Point", "coordinates": [ 7.48149788168, 46.956802426449997 ] } },
 { "type": "Feature", "properties": { "number": "8507006", "designationOfficial": "Münsingen" }, "geometry": { "type": "Point", "coordinates": [ 7.55944239602, 46.873354149930002 ] } },
 { "type": "Feature", "properties": { "number": "8507290", "designationOfficial": "Zweisimmen" }, "geometry": { "type": "Point", "coordinates": [ 7.37486190719, 46.553482551329999 ] } },
 { "type": "Feature", "properties": { "number": "8507298", "designationOfficial": "Wimmis" }, "geometry": { "type": "Point", "coordinates": [ 7.6355974518, 46.675722195939997 ] } },

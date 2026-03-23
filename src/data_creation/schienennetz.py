@@ -5,6 +5,9 @@ from pathlib import Path
 cd = Path(__file__).parent
 
 class SchienenNetz():
+    '''
+    Object that represents the railway net and its corresponding geometry.
+    '''
     def __init__(self):
         self.__gdf_ka = (
             gpd
@@ -33,7 +36,6 @@ class SchienenNetz():
                     (ds_id, kn_id),
                     ['m_length', 'geometry']
                 ] = [connection.length, connection]
-                    
     
         self.__G = nx.Graph()
         for (node_from, node_to), row in self.__gdf_ka.iterrows():
@@ -45,12 +47,16 @@ class SchienenNetz():
         self.__gdf_ds.to_crs('EPSG:4326', inplace = True)
 
     def get_linestring_route(self, number_start: str, number_end: str) -> set[shapely.LineString]:
+        '''
+        Returns the geometry of the shortest route found on the railway net connecting
+        the two stations.
+        '''
         try:
             path_nodes = nx.shortest_path(self.__G, number_start, number_end)
         except (nx.NetworkXNoPath, nx.NodeNotFound):
             # there is no path between nodes or stations have no nodes nearby
             print(f'No path found between {number_start} and {number_end}.')
-            return {  # just return a straight line between the 
+            return {  # just return a straight line between the stations
                 shapely.LineString(
                     [
                         self.__gdf_ds.loc[number_start, 'geometry'],

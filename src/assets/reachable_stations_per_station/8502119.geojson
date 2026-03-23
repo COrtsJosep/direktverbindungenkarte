@@ -101,7 +101,6 @@
 { "type": "Feature", "properties": { "number": "8506038", "designationOfficial": "Winterthur Wallrüti" }, "geometry": { "type": "Point", "coordinates": [ 8.76088216732, 47.516721663529999 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8507483", "designationOfficial": "Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.6801030578, 46.686395668350002 ] } },
-{ "type": "Feature", "properties": { "number": "8507478", "designationOfficial": "Frutigen" }, "geometry": { "type": "Point", "coordinates": [ 7.65141831454, 46.588907542809999 ] } },
 { "type": "Feature", "properties": { "number": "8508101", "designationOfficial": "Roggwil-Wynau" }, "geometry": { "type": "Point", "coordinates": [ 7.81491637783, 47.251639651879998 ] } },
 { "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
 { "type": "Feature", "properties": { "number": "8508103", "designationOfficial": "Rothrist" }, "geometry": { "type": "Point", "coordinates": [ 7.87939646804, 47.306455679450004 ] } },

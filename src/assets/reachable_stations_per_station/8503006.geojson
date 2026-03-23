@@ -13,7 +13,6 @@
 { "type": "Feature", "properties": { "number": "8500305", "designationOfficial": "Frick" }, "geometry": { "type": "Point", "coordinates": [ 8.01309246283, 47.507348523940003 ] } },
 { "type": "Feature", "properties": { "number": "8500309", "designationOfficial": "Brugg AG" }, "geometry": { "type": "Point", "coordinates": [ 8.20884455349, 47.480859834980002 ] } },
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
-{ "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },

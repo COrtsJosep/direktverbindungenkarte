@@ -21,7 +21,6 @@
 { "type": "Feature", "properties": { "number": "8505304", "designationOfficial": "Capolago-Riva S. Vitale" }, "geometry": { "type": "Point", "coordinates": [ 8.97890525715, 45.902837295749997 ] } },
 { "type": "Feature", "properties": { "number": "8505307", "designationOfficial": "Chiasso" }, "geometry": { "type": "Point", "coordinates": [ 9.03144956231, 45.832168026369999 ] } },
 { "type": "Feature", "properties": { "number": "8505306", "designationOfficial": "Balerna" }, "geometry": { "type": "Point", "coordinates": [ 9.005035609409999, 45.846745056789999 ] } },
-{ "type": "Feature", "properties": { "number": "8505113", "designationOfficial": "Altdorf UR" }, "geometry": { "type": "Point", "coordinates": [ 8.631575417440001, 46.875738713280001 ] } },
 { "type": "Feature", "properties": { "number": "8505209", "designationOfficial": "Biasca" }, "geometry": { "type": "Point", "coordinates": [ 8.97417921686, 46.351984152409997 ] } },
 { "type": "Feature", "properties": { "number": "8505201", "designationOfficial": "Airolo" }, "geometry": { "type": "Point", "coordinates": [ 8.608619755599999, 46.527525957789997 ] } },
 { "type": "Feature", "properties": { "number": "8505202", "designationOfficial": "Ambrì-Piotta" }, "geometry": { "type": "Point", "coordinates": [ 8.689927898840001, 46.510763790410003 ] } },

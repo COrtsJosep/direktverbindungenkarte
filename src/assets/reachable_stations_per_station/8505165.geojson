@@ -24,6 +24,7 @@
 { "type": "Feature", "properties": { "number": "8501676", "designationOfficial": "Mörel" }, "geometry": { "type": "Point", "coordinates": [ 8.04714048292, 46.356208683749998 ] } },
 { "type": "Feature", "properties": { "number": "8501729", "designationOfficial": "Fiesch Feriendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.13077222768, 46.397325215179997 ] } },
 { "type": "Feature", "properties": { "number": "8501605", "designationOfficial": "Visp" }, "geometry": { "type": "Point", "coordinates": [ 7.88146547575, 46.294029135389998 ] } },
+{ "type": "Feature", "properties": { "number": "8501609", "designationOfficial": "Brig" }, "geometry": { "type": "Point", "coordinates": [ 7.9880947394, 46.319422705779999 ] } },
 { "type": "Feature", "properties": { "number": "8505119", "designationOfficial": "Göschenen" }, "geometry": { "type": "Point", "coordinates": [ 8.588808225479999, 46.66581493943 ] } },
 { "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
 { "type": "Feature", "properties": { "number": "8505163", "designationOfficial": "Realp" }, "geometry": { "type": "Point", "coordinates": [ 8.503458516469999, 46.598625759390004 ] } },
@@ -38,7 +39,6 @@
 { "type": "Feature", "properties": { "number": "8505174", "designationOfficial": "Dieni" }, "geometry": { "type": "Point", "coordinates": [ 8.74286499978, 46.669931633490002 ] } },
 { "type": "Feature", "properties": { "number": "8505177", "designationOfficial": "Bugnei" }, "geometry": { "type": "Point", "coordinates": [ 8.786466785429999, 46.68234743304 ] } },
 { "type": "Feature", "properties": { "number": "8505176", "designationOfficial": "Sedrun" }, "geometry": { "type": "Point", "coordinates": [ 8.769780988779999, 46.681067151230003 ] } },
-{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
 { "type": "Feature", "properties": { "number": "8509179", "designationOfficial": "Disentis/Mustér" }, "geometry": { "type": "Point", "coordinates": [ 8.855174644610001, 46.705093222830001 ] } }
 ]
 }

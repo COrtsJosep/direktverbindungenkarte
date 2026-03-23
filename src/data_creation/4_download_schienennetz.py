@@ -29,7 +29,7 @@ gdf_kn = (  # schienennetz knoten
     )
     .set_index('object_id')
 )
-gdf_kn = gdf_kn.loc[
+gdf_kn = gdf_kn.loc[  # only nodes that are the start or end of a railway edge
     (gdf_kn.index.isin(gdf_ka.index.get_level_values('from_node_object_id')))
     | (gdf_kn.index.isin(gdf_ka.index.get_level_values('to_node_object_id')))
 ]

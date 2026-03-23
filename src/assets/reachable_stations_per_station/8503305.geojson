@@ -59,7 +59,6 @@
 { "type": "Feature", "properties": { "number": "8503129", "designationOfficial": "Wallisellen" }, "geometry": { "type": "Point", "coordinates": [ 8.591928199670001, 47.412723086150002 ] } },
 { "type": "Feature", "properties": { "number": "8503106", "designationOfficial": "Männedorf" }, "geometry": { "type": "Point", "coordinates": [ 8.69234611716, 47.253424027679998 ] } },
 { "type": "Feature", "properties": { "number": "8503109", "designationOfficial": "Feldbach" }, "geometry": { "type": "Point", "coordinates": [ 8.783497766349999, 47.239203561369997 ] } },
-{ "type": "Feature", "properties": { "number": "8503130", "designationOfficial": "Hinwil" }, "geometry": { "type": "Point", "coordinates": [ 8.839719894410001, 47.300056950360002 ] } },
 { "type": "Feature", "properties": { "number": "8503424", "designationOfficial": "Schaffhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.632755780129999, 47.698281514820003 ] } },
 { "type": "Feature", "properties": { "number": "8503108", "designationOfficial": "Uerikon" }, "geometry": { "type": "Point", "coordinates": [ 8.752625203059999, 47.235860774720003 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },

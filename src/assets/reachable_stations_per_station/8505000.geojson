@@ -130,6 +130,7 @@
 { "type": "Feature", "properties": { "number": "8508391", "designationOfficial": "Stans" }, "geometry": { "type": "Point", "coordinates": [ 8.36658044639, 46.958396924570003 ] } },
 { "type": "Feature", "properties": { "number": "8508394", "designationOfficial": "Wolfenschiessen" }, "geometry": { "type": "Point", "coordinates": [ 8.394797821059999, 46.907822642440003 ] } },
 { "type": "Feature", "properties": { "number": "8508396", "designationOfficial": "Grafenort" }, "geometry": { "type": "Point", "coordinates": [ 8.372423756890001, 46.870597175950003 ] } },
+{ "type": "Feature", "properties": { "number": "8508200", "designationOfficial": "Worb SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.56485160662, 46.915229986290001 ] } },
 { "type": "Feature", "properties": { "number": "8508213", "designationOfficial": "Entlebuch" }, "geometry": { "type": "Point", "coordinates": [ 8.062364328879999, 46.993693355920001 ] } },
 { "type": "Feature", "properties": { "number": "8508207", "designationOfficial": "Langnau i.E." }, "geometry": { "type": "Point", "coordinates": [ 7.78419743448, 46.939242278720002 ] } },
 { "type": "Feature", "properties": { "number": "8508202", "designationOfficial": "Konolfingen" }, "geometry": { "type": "Point", "coordinates": [ 7.6213670273, 46.880702418909998 ] } },

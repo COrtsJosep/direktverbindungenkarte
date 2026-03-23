@@ -23,9 +23,9 @@
 { "type": "Feature", "properties": { "number": "8501676", "designationOfficial": "Mörel" }, "geometry": { "type": "Point", "coordinates": [ 8.04714048292, 46.356208683749998 ] } },
 { "type": "Feature", "properties": { "number": "8501729", "designationOfficial": "Fiesch Feriendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.13077222768, 46.397325215179997 ] } },
 { "type": "Feature", "properties": { "number": "8501605", "designationOfficial": "Visp" }, "geometry": { "type": "Point", "coordinates": [ 7.88146547575, 46.294029135389998 ] } },
+{ "type": "Feature", "properties": { "number": "8501609", "designationOfficial": "Brig" }, "geometry": { "type": "Point", "coordinates": [ 7.9880947394, 46.319422705779999 ] } },
 { "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
 { "type": "Feature", "properties": { "number": "8505163", "designationOfficial": "Realp" }, "geometry": { "type": "Point", "coordinates": [ 8.503458516469999, 46.598625759390004 ] } },
-{ "type": "Feature", "properties": { "number": "8505164", "designationOfficial": "Hospental" }, "geometry": { "type": "Point", "coordinates": [ 8.57096435385, 46.621082266050003 ] } },
-{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } }
+{ "type": "Feature", "properties": { "number": "8505164", "designationOfficial": "Hospental" }, "geometry": { "type": "Point", "coordinates": [ 8.57096435385, 46.621082266050003 ] } }
 ]
 }

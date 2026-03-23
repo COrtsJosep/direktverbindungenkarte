@@ -7,7 +7,6 @@
 { "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
 { "type": "Feature", "properties": { "number": "8500090", "designationOfficial": "Basel Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 7.60692041847, 47.567307905699998 ] } },
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
-{ "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },
@@ -61,7 +60,6 @@
 { "type": "Feature", "properties": { "number": "8509056", "designationOfficial": "Landquart Ried" }, "geometry": { "type": "Point", "coordinates": [ 9.560955883049999, 46.957245216099999 ] } },
 { "type": "Feature", "properties": { "number": "8509054", "designationOfficial": "Zizers" }, "geometry": { "type": "Point", "coordinates": [ 9.55962931619, 46.934897321009998 ] } },
 { "type": "Feature", "properties": { "number": "8519370", "designationOfficial": "Bernina Diavolezza" }, "geometry": { "type": "Point", "coordinates": [ 9.9822753097, 46.441743463880002 ] } },
-{ "type": "Feature", "properties": { "number": "8509051", "designationOfficial": "Haldenstein" }, "geometry": { "type": "Point", "coordinates": [ 9.53306202209, 46.876977993899999 ] } },
 { "type": "Feature", "properties": { "number": "8509060", "designationOfficial": "Schiers" }, "geometry": { "type": "Point", "coordinates": [ 9.688043165390001, 46.968012222650003 ] } },
 { "type": "Feature", "properties": { "number": "8509150", "designationOfficial": "Chur Altstadt" }, "geometry": { "type": "Point", "coordinates": [ 9.53094841659, 46.847525490259997 ] } },
 { "type": "Feature", "properties": { "number": "8509364", "designationOfficial": "Le Prese" }, "geometry": { "type": "Point", "coordinates": [ 10.078192555939999, 46.291087069710002 ] } }

@@ -13,7 +13,6 @@
 { "type": "Feature", "properties": { "number": "8509057", "designationOfficial": "Malans GR" }, "geometry": { "type": "Point", "coordinates": [ 9.57368677325, 46.977724619409997 ] } },
 { "type": "Feature", "properties": { "number": "8509056", "designationOfficial": "Landquart Ried" }, "geometry": { "type": "Point", "coordinates": [ 9.560955883049999, 46.957245216099999 ] } },
 { "type": "Feature", "properties": { "number": "8509054", "designationOfficial": "Zizers" }, "geometry": { "type": "Point", "coordinates": [ 9.55962931619, 46.934897321009998 ] } },
-{ "type": "Feature", "properties": { "number": "8509051", "designationOfficial": "Haldenstein" }, "geometry": { "type": "Point", "coordinates": [ 9.53306202209, 46.876977993899999 ] } },
 { "type": "Feature", "properties": { "number": "8509060", "designationOfficial": "Schiers" }, "geometry": { "type": "Point", "coordinates": [ 9.688043165390001, 46.968012222650003 ] } }
 ]
 }

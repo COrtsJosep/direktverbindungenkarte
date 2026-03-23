@@ -35,7 +35,6 @@
 { "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
 { "type": "Feature", "properties": { "number": "8503147", "designationOfficial": "Stettbach" }, "geometry": { "type": "Point", "coordinates": [ 8.596144778539999, 47.397215407959997 ] } },
 { "type": "Feature", "properties": { "number": "8503512", "designationOfficial": "Glanzenberg" }, "geometry": { "type": "Point", "coordinates": [ 8.4204418766, 47.398878725049997 ] } },
-{ "type": "Feature", "properties": { "number": "8503505", "designationOfficial": "Wettingen" }, "geometry": { "type": "Point", "coordinates": [ 8.316006171450001, 47.459638175930003 ] } },
 { "type": "Feature", "properties": { "number": "8503504", "designationOfficial": "Baden" }, "geometry": { "type": "Point", "coordinates": [ 8.307709474039999, 47.476424284620002 ] } },
 { "type": "Feature", "properties": { "number": "8503506", "designationOfficial": "Killwangen-Spreitenbach" }, "geometry": { "type": "Point", "coordinates": [ 8.354214000600001, 47.433328858369997 ] } },
 { "type": "Feature", "properties": { "number": "8503509", "designationOfficial": "Schlieren" }, "geometry": { "type": "Point", "coordinates": [ 8.44724506334, 47.399176368239999 ] } },

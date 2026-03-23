@@ -14,12 +14,9 @@
 { "type": "Feature", "properties": { "number": "8500127", "designationOfficial": "Courtemaîche" }, "geometry": { "type": "Point", "coordinates": [ 7.05538017512, 47.455869183739999 ] } },
 { "type": "Feature", "properties": { "number": "8500126", "designationOfficial": "Porrentruy" }, "geometry": { "type": "Point", "coordinates": [ 7.08007728509, 47.420916383079998 ] } },
 { "type": "Feature", "properties": { "number": "8500109", "designationOfficial": "Delémont" }, "geometry": { "type": "Point", "coordinates": [ 7.3500633234, 47.362012700089998 ] } },
-{ "type": "Feature", "properties": { "number": "8500159", "designationOfficial": "Grenchen Nord" }, "geometry": { "type": "Point", "coordinates": [ 7.38961866289, 47.191698205100003 ] } },
 { "type": "Feature", "properties": { "number": "8500128", "designationOfficial": "Boncourt" }, "geometry": { "type": "Point", "coordinates": [ 7.01655175225, 47.49263186836 ] } },
 { "type": "Feature", "properties": { "number": "8500187", "designationOfficial": "Vendlincourt" }, "geometry": { "type": "Point", "coordinates": [ 7.15703956533, 47.452154323990001 ] } },
 { "type": "Feature", "properties": { "number": "8500186", "designationOfficial": "Alle" }, "geometry": { "type": "Point", "coordinates": [ 7.12824856048, 47.424228701319997 ] } },
-{ "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },
-{ "type": "Feature", "properties": { "number": "8500188", "designationOfficial": "Bonfol" }, "geometry": { "type": "Point", "coordinates": [ 7.1548840055, 47.474424996849997 ] } },
-{ "type": "Feature", "properties": { "number": "8500105", "designationOfficial": "Moutier" }, "geometry": { "type": "Point", "coordinates": [ 7.38104429627, 47.280672517479999 ] } }
+{ "type": "Feature", "properties": { "number": "8500188", "designationOfficial": "Bonfol" }, "geometry": { "type": "Point", "coordinates": [ 7.1548840055, 47.474424996849997 ] } }
 ]
 }

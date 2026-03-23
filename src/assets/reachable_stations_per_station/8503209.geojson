@@ -77,7 +77,7 @@
 { "type": "Feature", "properties": { "number": "8503124", "designationOfficial": "Aathal" }, "geometry": { "type": "Point", "coordinates": [ 8.76562513535, 47.335959133839999 ] } },
 { "type": "Feature", "properties": { "number": "8503129", "designationOfficial": "Wallisellen" }, "geometry": { "type": "Point", "coordinates": [ 8.591928199670001, 47.412723086150002 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
-{ "type": "Feature", "properties": { "number": "8503117", "designationOfficial": "Kaltbrunn" }, "geometry": { "type": "Point", "coordinates": [ 9.02243102403, 47.217983208420002 ] } },
+{ "type": "Feature", "properties": { "number": "8503509", "designationOfficial": "Schlieren" }, "geometry": { "type": "Point", "coordinates": [ 8.44724506334, 47.399176368239999 ] } },
 { "type": "Feature", "properties": { "number": "8503299", "designationOfficial": "Hurden" }, "geometry": { "type": "Point", "coordinates": [ 8.80074572761, 47.214146345629999 ] } },
 { "type": "Feature", "properties": { "number": "8503301", "designationOfficial": "Pfäffikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.784799698480001, 47.367086237860001 ] } },
 { "type": "Feature", "properties": { "number": "8503303", "designationOfficial": "Illnau" }, "geometry": { "type": "Point", "coordinates": [ 8.72272752143, 47.408819189660001 ] } },

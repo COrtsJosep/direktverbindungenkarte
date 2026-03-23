@@ -8,7 +8,6 @@
 { "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
 { "type": "Feature", "properties": { "number": "8503123", "designationOfficial": "Wetzikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.792289733780001, 47.318031631510003 ] } },
 { "type": "Feature", "properties": { "number": "8503147", "designationOfficial": "Stettbach" }, "geometry": { "type": "Point", "coordinates": [ 8.596144778539999, 47.397215407959997 ] } },
-{ "type": "Feature", "properties": { "number": "8503130", "designationOfficial": "Hinwil" }, "geometry": { "type": "Point", "coordinates": [ 8.839719894410001, 47.300056950360002 ] } },
 { "type": "Feature", "properties": { "number": "8503301", "designationOfficial": "Pfäffikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.784799698480001, 47.367086237860001 ] } },
 { "type": "Feature", "properties": { "number": "8503300", "designationOfficial": "Kempten" }, "geometry": { "type": "Point", "coordinates": [ 8.8047206925, 47.332043115330002 ] } },
 { "type": "Feature", "properties": { "number": "8503303", "designationOfficial": "Illnau" }, "geometry": { "type": "Point", "coordinates": [ 8.72272752143, 47.408819189660001 ] } },

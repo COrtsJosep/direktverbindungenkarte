@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "8511261",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "line_description": "Klosters Selfranga->Sagliains Autoverlad" }, "geometry": { "type": "LineString", "coordinates": [ [ 9.883841967215506, 46.856078220475652 ], [ 10.096529470262576, 46.763388283179445 ] ] } }
-]
-}

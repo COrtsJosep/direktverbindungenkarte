@@ -8,6 +8,7 @@
 { "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
 { "type": "Feature", "properties": { "number": "8503004", "designationOfficial": "Zürich Tiefenbrunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.56138984971, 47.350124682619999 ] } },
 { "type": "Feature", "properties": { "number": "8503006", "designationOfficial": "Zürich Oerlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.544139909989999, 47.411530041200002 ] } },
+{ "type": "Feature", "properties": { "number": "8503016", "designationOfficial": "Zürich Flughafen" }, "geometry": { "type": "Point", "coordinates": [ 8.56240182048, 47.450385629899998 ] } },
 { "type": "Feature", "properties": { "number": "8503101", "designationOfficial": "Küsnacht ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.58063781685, 47.319156627460004 ] } },
 { "type": "Feature", "properties": { "number": "8503100", "designationOfficial": "Zollikon" }, "geometry": { "type": "Point", "coordinates": [ 8.569740625830001, 47.337334596520002 ] } },
 { "type": "Feature", "properties": { "number": "8503103", "designationOfficial": "Herrliberg-Feldmeilen" }, "geometry": { "type": "Point", "coordinates": [ 8.612733422250001, 47.281826601079999 ] } },

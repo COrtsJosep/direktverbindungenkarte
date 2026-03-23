@@ -18,9 +18,9 @@ path_ds.unlink()  # delete the raw file once loaded
 df_ds.set_index('number', inplace = True)
 
 df_ds = df_ds.loc[
-    (df_ds.loc[:, 'hasGeolocation'] == 'true')
-    & (df_ds.loc[:, 'isoCountryCode'] == 'CH')
-    & (df_ds.loc[:, 'meansOfTransport'].apply(lambda x: 'TRAIN' in x))  # station serves trains
+    (df_ds.loc[:, 'hasGeolocation'] == 'true')                          # only geolocated stations
+    & (df_ds.loc[:, 'isoCountryCode'] == 'CH')                          # only stations in Switzerland
+    & (df_ds.loc[:, 'meansOfTransport'].apply(lambda x: 'TRAIN' in x))  # only stations that serve trains
 ]
 
 # manual corrections

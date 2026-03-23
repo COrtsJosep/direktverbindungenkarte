@@ -7,6 +7,7 @@
 { "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },
 { "type": "Feature", "properties": { "number": "8504410", "designationOfficial": "Zollikofen" }, "geometry": { "type": "Point", "coordinates": [ 7.46291119582, 47.001825935440003 ] } },
 { "type": "Feature", "properties": { "number": "8504414", "designationOfficial": "Lyss" }, "geometry": { "type": "Point", "coordinates": [ 7.30630154849, 47.076323503929999 ] } },
+{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8507003", "designationOfficial": "Gümligen" }, "geometry": { "type": "Point", "coordinates": [ 7.50550479629, 46.934321918789998 ] } },
 { "type": "Feature", "properties": { "number": "8507002", "designationOfficial": "Ostermundigen" }, "geometry": { "type": "Point", "coordinates": [ 7.48149788168, 46.956802426449997 ] } },
 { "type": "Feature", "properties": { "number": "8507006", "designationOfficial": "Münsingen" }, "geometry": { "type": "Point", "coordinates": [ 7.55944239602, 46.873354149930002 ] } },

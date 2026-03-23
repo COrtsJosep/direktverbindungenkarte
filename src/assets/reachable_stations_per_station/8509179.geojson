@@ -4,6 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "number": "8501689", "designationOfficial": "Zermatt" }, "geometry": { "type": "Point", "coordinates": [ 7.74783789838, 46.023999881249999 ] } },
+{ "type": "Feature", "properties": { "number": "8501609", "designationOfficial": "Brig" }, "geometry": { "type": "Point", "coordinates": [ 7.9880947394, 46.319422705779999 ] } },
 { "type": "Feature", "properties": { "number": "8505165", "designationOfficial": "Andermatt" }, "geometry": { "type": "Point", "coordinates": [ 8.593280416940001, 46.636890087680001 ] } },
 { "type": "Feature", "properties": { "number": "8505179", "designationOfficial": "Segnas" }, "geometry": { "type": "Point", "coordinates": [ 8.82981823972, 46.690997474850001 ] } },
 { "type": "Feature", "properties": { "number": "8505178", "designationOfficial": "Mumpé Tujetsch" }, "geometry": { "type": "Point", "coordinates": [ 8.82655852087, 46.682117278210001 ] } },
@@ -15,7 +16,6 @@
 { "type": "Feature", "properties": { "number": "8505174", "designationOfficial": "Dieni" }, "geometry": { "type": "Point", "coordinates": [ 8.74286499978, 46.669931633490002 ] } },
 { "type": "Feature", "properties": { "number": "8505177", "designationOfficial": "Bugnei" }, "geometry": { "type": "Point", "coordinates": [ 8.786466785429999, 46.68234743304 ] } },
 { "type": "Feature", "properties": { "number": "8505176", "designationOfficial": "Sedrun" }, "geometry": { "type": "Point", "coordinates": [ 8.769780988779999, 46.681067151230003 ] } },
-{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
 { "type": "Feature", "properties": { "number": "8509183", "designationOfficial": "Reichenau-Tamins" }, "geometry": { "type": "Point", "coordinates": [ 9.413088909860001, 46.823959073019999 ] } },
 { "type": "Feature", "properties": { "number": "8509253", "designationOfficial": "St. Moritz" }, "geometry": { "type": "Point", "coordinates": [ 9.84585384995, 46.497988725020001 ] } },
 { "type": "Feature", "properties": { "number": "8509192", "designationOfficial": "Tiefencastel" }, "geometry": { "type": "Point", "coordinates": [ 9.57244619403, 46.663997114579999 ] } },

@@ -18,7 +18,6 @@
 { "type": "Feature", "properties": { "number": "8506106", "designationOfficial": "Bürglen TG" }, "geometry": { "type": "Point", "coordinates": [ 9.149876589210001, 47.549098428690002 ] } },
 { "type": "Feature", "properties": { "number": "8506109", "designationOfficial": "Amriswil" }, "geometry": { "type": "Point", "coordinates": [ 9.30222720093, 47.550449721219998 ] } },
 { "type": "Feature", "properties": { "number": "8506108", "designationOfficial": "Oberaach" }, "geometry": { "type": "Point", "coordinates": [ 9.27106226685, 47.55331937375 ] } },
-{ "type": "Feature", "properties": { "number": "8506302", "designationOfficial": "St. Gallen" }, "geometry": { "type": "Point", "coordinates": [ 9.36989666272, 47.423178949899999 ] } },
 { "type": "Feature", "properties": { "number": "8506121", "designationOfficial": "Romanshorn" }, "geometry": { "type": "Point", "coordinates": [ 9.37937129226, 47.565522864869997 ] } },
 { "type": "Feature", "properties": { "number": "8506168", "designationOfficial": "Tägerschen" }, "geometry": { "type": "Point", "coordinates": [ 9.02479327434, 47.509363876 ] } },
 { "type": "Feature", "properties": { "number": "8506181", "designationOfficial": "Bronschhofen" }, "geometry": { "type": "Point", "coordinates": [ 9.03467787496, 47.475444379179997 ] } },

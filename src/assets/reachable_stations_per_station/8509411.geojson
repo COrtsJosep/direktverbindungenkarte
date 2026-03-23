@@ -7,7 +7,6 @@
 { "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
 { "type": "Feature", "properties": { "number": "8500090", "designationOfficial": "Basel Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 7.60692041847, 47.567307905699998 ] } },
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
-{ "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },

@@ -92,6 +92,7 @@
 { "type": "Feature", "properties": { "number": "8503112", "designationOfficial": "Kempraten" }, "geometry": { "type": "Point", "coordinates": [ 8.81431096018, 47.238397728279999 ] } },
 { "type": "Feature", "properties": { "number": "8503115", "designationOfficial": "Schmerikon" }, "geometry": { "type": "Point", "coordinates": [ 8.94338195257, 47.225160130570004 ] } },
 { "type": "Feature", "properties": { "number": "8503117", "designationOfficial": "Kaltbrunn" }, "geometry": { "type": "Point", "coordinates": [ 9.02243102403, 47.217983208420002 ] } },
+{ "type": "Feature", "properties": { "number": "8503509", "designationOfficial": "Schlieren" }, "geometry": { "type": "Point", "coordinates": [ 8.44724506334, 47.399176368239999 ] } },
 { "type": "Feature", "properties": { "number": "8503299", "designationOfficial": "Hurden" }, "geometry": { "type": "Point", "coordinates": [ 8.80074572761, 47.214146345629999 ] } },
 { "type": "Feature", "properties": { "number": "8503310", "designationOfficial": "Glattbrugg" }, "geometry": { "type": "Point", "coordinates": [ 8.558854148749999, 47.430826715629998 ] } },
 { "type": "Feature", "properties": { "number": "8503301", "designationOfficial": "Pfäffikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.784799698480001, 47.367086237860001 ] } },

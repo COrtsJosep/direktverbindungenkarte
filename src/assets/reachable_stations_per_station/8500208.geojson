@@ -23,7 +23,7 @@
 { "type": "Feature", "properties": { "number": "8500216", "designationOfficial": "Wangen bei Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.86836052, 47.341400673099997 ] } },
 { "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
 { "type": "Feature", "properties": { "number": "8500261", "designationOfficial": "Langendorf" }, "geometry": { "type": "Point", "coordinates": [ 7.51358543186, 47.217861497949997 ] } },
-{ "type": "Feature", "properties": { "number": "8500262", "designationOfficial": "Lommiswil" }, "geometry": { "type": "Point", "coordinates": [ 7.46951830598, 47.21856495542 ] } },
+{ "type": "Feature", "properties": { "number": "8500264", "designationOfficial": "Oberdorf SO" }, "geometry": { "type": "Point", "coordinates": [ 7.49369622143, 47.23588345436 ] } },
 { "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },
 { "type": "Feature", "properties": { "number": "8504419", "designationOfficial": "Biel Mett" }, "geometry": { "type": "Point", "coordinates": [ 7.27248725632, 47.144725283870002 ] } },
 { "type": "Feature", "properties": { "number": "8518771", "designationOfficial": "Biel/Bienne Bözingenfeld/Champ" }, "geometry": { "type": "Point", "coordinates": [ 7.29464813274, 47.158382302210001 ] } },

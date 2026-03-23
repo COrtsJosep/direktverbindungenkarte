@@ -52,7 +52,6 @@
 { "type": "Feature", "properties": { "number": "8507005", "designationOfficial": "Rubigen" }, "geometry": { "type": "Point", "coordinates": [ 7.54536836042, 46.899169737980003 ] } },
 { "type": "Feature", "properties": { "number": "8507007", "designationOfficial": "Wichtrach" }, "geometry": { "type": "Point", "coordinates": [ 7.56885580683, 46.841612086049999 ] } },
 { "type": "Feature", "properties": { "number": "8507006", "designationOfficial": "Münsingen" }, "geometry": { "type": "Point", "coordinates": [ 7.55944239602, 46.873354149930002 ] } },
-{ "type": "Feature", "properties": { "number": "8508001", "designationOfficial": "Schönbühl SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.49892786502, 47.018942169349998 ] } },
 { "type": "Feature", "properties": { "number": "8508003", "designationOfficial": "Hindelbank" }, "geometry": { "type": "Point", "coordinates": [ 7.54541060076, 47.049563760760002 ] } },
 { "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
 { "type": "Feature", "properties": { "number": "8508004", "designationOfficial": "Lyssach" }, "geometry": { "type": "Point", "coordinates": [ 7.58132358183, 47.063760915449997 ] } },

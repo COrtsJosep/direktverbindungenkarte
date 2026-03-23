@@ -19,7 +19,7 @@
 { "type": "Feature", "properties": { "number": "8501729", "designationOfficial": "Fiesch Feriendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.13077222768, 46.397325215179997 ] } },
 { "type": "Feature", "properties": { "number": "8501683", "designationOfficial": "Stalden-Saas" }, "geometry": { "type": "Point", "coordinates": [ 7.87075460369, 46.231975831660002 ] } },
 { "type": "Feature", "properties": { "number": "8501605", "designationOfficial": "Visp" }, "geometry": { "type": "Point", "coordinates": [ 7.88146547575, 46.294029135389998 ] } },
-{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
+{ "type": "Feature", "properties": { "number": "8501609", "designationOfficial": "Brig" }, "geometry": { "type": "Point", "coordinates": [ 7.9880947394, 46.319422705779999 ] } },
 { "type": "Feature", "properties": { "number": "8518885", "designationOfficial": "Täsch Monte Rosa" }, "geometry": { "type": "Point", "coordinates": [ 7.77476005576, 46.074534045839997 ] } }
 ]
 }

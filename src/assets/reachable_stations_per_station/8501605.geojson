@@ -87,7 +87,6 @@
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8507483", "designationOfficial": "Spiez" }, "geometry": { "type": "Point", "coordinates": [ 7.6801030578, 46.686395668350002 ] } },
 { "type": "Feature", "properties": { "number": "8507478", "designationOfficial": "Frutigen" }, "geometry": { "type": "Point", "coordinates": [ 7.65141831454, 46.588907542809999 ] } },
-{ "type": "Feature", "properties": { "number": "8515296", "designationOfficial": "Brig Bahnhofplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.98638354897, 46.319008174540002 ] } },
 { "type": "Feature", "properties": { "number": "8518885", "designationOfficial": "Täsch Monte Rosa" }, "geometry": { "type": "Point", "coordinates": [ 7.77476005576, 46.074534045839997 ] } },
 { "type": "Feature", "properties": { "number": "8507100", "designationOfficial": "Thun" }, "geometry": { "type": "Point", "coordinates": [ 7.62960582867, 46.754852730590002 ] } }
 ]

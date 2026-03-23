@@ -56,7 +56,6 @@
 { "type": "Feature", "properties": { "number": "8503106", "designationOfficial": "Männedorf" }, "geometry": { "type": "Point", "coordinates": [ 8.69234611716, 47.253424027679998 ] } },
 { "type": "Feature", "properties": { "number": "8503128", "designationOfficial": "Dübendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.623421744230001, 47.400080359950003 ] } },
 { "type": "Feature", "properties": { "number": "8503109", "designationOfficial": "Feldbach" }, "geometry": { "type": "Point", "coordinates": [ 8.783497766349999, 47.239203561369997 ] } },
-{ "type": "Feature", "properties": { "number": "8503130", "designationOfficial": "Hinwil" }, "geometry": { "type": "Point", "coordinates": [ 8.839719894410001, 47.300056950360002 ] } },
 { "type": "Feature", "properties": { "number": "8503424", "designationOfficial": "Schaffhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.632755780129999, 47.698281514820003 ] } },
 { "type": "Feature", "properties": { "number": "8503108", "designationOfficial": "Uerikon" }, "geometry": { "type": "Point", "coordinates": [ 8.752625203059999, 47.235860774720003 ] } },
 { "type": "Feature", "properties": { "number": "8503111", "designationOfficial": "Winkel am Zürichsee" }, "geometry": { "type": "Point", "coordinates": [ 8.59898830941, 47.29720784525 ] } },

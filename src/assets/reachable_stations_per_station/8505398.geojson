@@ -3,7 +3,7 @@
 "name": "8505398",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "number": "8505391", "designationOfficial": "Lugano FLP" }, "geometry": { "type": "Point", "coordinates": [ 8.94760000626, 46.004490002300003 ] } },
+{ "type": "Feature", "properties": { "number": "8505300", "designationOfficial": "Lugano" }, "geometry": { "type": "Point", "coordinates": [ 8.946995308509999, 46.005500549910003 ] } },
 { "type": "Feature", "properties": { "number": "8505390", "designationOfficial": "Serocca" }, "geometry": { "type": "Point", "coordinates": [ 8.90457000364, 46.00851999695 ] } },
 { "type": "Feature", "properties": { "number": "8505393", "designationOfficial": "Cappella-Agnuzzo" }, "geometry": { "type": "Point", "coordinates": [ 8.92444999754, 45.993259993560002 ] } },
 { "type": "Feature", "properties": { "number": "8505392", "designationOfficial": "Magliaso Paese" }, "geometry": { "type": "Point", "coordinates": [ 8.890580004769999, 45.983409998399999 ] } },

@@ -49,6 +49,39 @@ var railRoadsStyle = {
     "opacity": 1
 };
 
+// Idea of the program: 
+// Initially the layer with all stations (as dots) is loeaded onto the map.
+// Hoovering reveals the name of the station. 
+// Clicking on a station removes the layer with all stations and reveals the
+// network of the clicked station (see next comment).
+var allDienstStelleLayer = new L.GeoJSON.AJAX("src/assets/dienststellen.geojson", {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, dienstStelleStyle);
+    },
+    onEachFeature: function(feature, layer) {
+        if (feature.properties && feature.properties.designationOfficial && feature.properties.number) {
+            layer.on('mouseover', function(e) {
+                var popup = L.popup({ closeButton: false, minWidth: 0 }).setContent(feature.properties.designationOfficial);
+                layer.bindPopup(popup).openPopup();
+            });
+            layer.on('mouseout', function(e) {
+                layer.closePopup();
+            });
+            layer.on('click', function(e) {
+                map.removeLayer(allDienstStelleLayer);
+                addNetwork(feature.properties.number);
+            });
+        }
+    }
+});
+allDienstStelleLayer.addTo(map);
+
+// After clicking on a station, two layers are added: the layer with the reachable
+// railroad network linestrings, and the layer with the reachable stations.
+// Clicking on the same station again returns to the initial state of the webpage.
+// Clicking on a different station switches the focus onto that station (removes
+// the two layers and adds the reachable stations + network of the newly selected
+// station.
 function addNetwork(number) {
     var railRoadsLayer = new L.GeoJSON.AJAX(`src/assets/reachable_net_per_station/${number}.geojson`, {
         style: railRoadsStyle,
@@ -89,10 +122,12 @@ function addNetwork(number) {
             });
             layer.on('click', function(e) {
                 if (feature.properties.number == number) {
+                    // return to inital state
                     map.removeLayer(railRoadsLayer);
                     map.removeLayer(reachableDienstStelleLayer);
                     allDienstStelleLayer.addTo(map);
                 } else {
+                    // re-focus on newly selected station
                     map.removeLayer(railRoadsLayer);
                     map.removeLayer(reachableDienstStelleLayer);
                     addNetwork(feature.properties.number);
@@ -105,27 +140,3 @@ function addNetwork(number) {
     
     notifications.info('Info', 'Click on another train station to discover where you can travel to with a direct connection, or click on the same one again to deselect it.');
 }
-
-var allDienstStelleLayer = new L.GeoJSON.AJAX("src/assets/dienststellen.geojson", {
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, dienstStelleStyle);
-    },
-    onEachFeature: function(feature, layer) {
-        if (feature.properties && feature.properties.designationOfficial && feature.properties.number) {
-            layer.on('mouseover', function(e) {
-                var popup = L.popup({ closeButton: false, minWidth: 0 }).setContent(feature.properties.designationOfficial);
-                layer.bindPopup(popup).openPopup();
-            });
-            layer.on('mouseout', function(e) {
-                layer.closePopup();
-            });
-            layer.on('click', function(e) {
-                map.removeLayer(allDienstStelleLayer);
-                addNetwork(feature.properties.number);
-            });
-        }
-    }
-});
-
-
-allDienstStelleLayer.addTo(map);

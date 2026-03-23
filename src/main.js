@@ -12,7 +12,7 @@ L.controlCredits({
     tooltip: 'Made by COrtsJosep',
     width: '45px',
     height: '45px',
-    expandcontent: 'Made for fun by COrtsJosep, hosted at<br/><a href="https://github.com/COrtsJosep/direktverbindungenkarte" target="_blank">COrtsJosep/direktverbindungenkarte</a>',
+    expandcontent: 'Made for fun by COrtsJosep, hosted at<br/><a href="https://github.com/COrtsJosep/direktverbindungskarte" target="_blank">COrtsJosep/direktverbindungskarte</a>',
     imagealt: 'Could not load icon'
 }).addTo(map);
 

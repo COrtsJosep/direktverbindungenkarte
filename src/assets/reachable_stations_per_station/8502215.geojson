@@ -24,6 +24,8 @@
 { "type": "Feature", "properties": { "number": "8502114", "designationOfficial": "Rupperswil" }, "geometry": { "type": "Point", "coordinates": [ 8.126956365310001, 47.403290250749997 ] } },
 { "type": "Feature", "properties": { "number": "8502105", "designationOfficial": "Othmarsingen" }, "geometry": { "type": "Point", "coordinates": [ 8.21480549444, 47.40743350791 ] } },
 { "type": "Feature", "properties": { "number": "8502119", "designationOfficial": "Lenzburg" }, "geometry": { "type": "Point", "coordinates": [ 8.17039288935, 47.391199755439999 ] } },
-{ "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } }
+{ "type": "Feature", "properties": { "number": "8503001", "designationOfficial": "Zürich Altstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.488962649959999, 47.391483073080003 ] } },
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503508", "designationOfficial": "Dietikon" }, "geometry": { "type": "Point", "coordinates": [ 8.40498818789, 47.40578380657 ] } }
 ]
 }

@@ -5,6 +5,10 @@
 "features": [
 { "type": "Feature", "properties": { "number": "8508081", "designationOfficial": "Burgdorf Steinhof" }, "geometry": { "type": "Point", "coordinates": [ 7.61953942949, 47.051199893769997 ] } },
 { "type": "Feature", "properties": { "number": "8508080", "designationOfficial": "Oberburg" }, "geometry": { "type": "Point", "coordinates": [ 7.6293428672, 47.039609543239997 ] } },
+{ "type": "Feature", "properties": { "number": "8508083", "designationOfficial": "Burgdorf Buchmatt" }, "geometry": { "type": "Point", "coordinates": [ 7.60827597482, 47.065457970840001 ] } },
+{ "type": "Feature", "properties": { "number": "8508085", "designationOfficial": "Aefligen" }, "geometry": { "type": "Point", "coordinates": [ 7.55925321768, 47.095593510729998 ] } },
+{ "type": "Feature", "properties": { "number": "8508084", "designationOfficial": "Kirchberg-Alchenflüh" }, "geometry": { "type": "Point", "coordinates": [ 7.58106589855, 47.082900980769999 ] } },
+{ "type": "Feature", "properties": { "number": "8508086", "designationOfficial": "Utzenstorf" }, "geometry": { "type": "Point", "coordinates": [ 7.55362761912, 47.129537149980003 ] } },
 { "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
 { "type": "Feature", "properties": { "number": "8508202", "designationOfficial": "Konolfingen" }, "geometry": { "type": "Point", "coordinates": [ 7.6213670273, 46.880702418909998 ] } },
 { "type": "Feature", "properties": { "number": "8508261", "designationOfficial": "Biglen" }, "geometry": { "type": "Point", "coordinates": [ 7.62670288412, 46.924617392439998 ] } },

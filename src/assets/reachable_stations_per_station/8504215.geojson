@@ -14,7 +14,6 @@
 { "type": "Feature", "properties": { "number": "8504284", "designationOfficial": "La Presta Mines d'asphalte" }, "geometry": { "type": "Point", "coordinates": [ 6.6543614223, 46.931097061270002 ] } },
 { "type": "Feature", "properties": { "number": "8504287", "designationOfficial": "Fleurier" }, "geometry": { "type": "Point", "coordinates": [ 6.58131693222, 46.904761574609999 ] } },
 { "type": "Feature", "properties": { "number": "8504286", "designationOfficial": "Môtiers NE" }, "geometry": { "type": "Point", "coordinates": [ 6.61022689725, 46.911822093600001 ] } },
-{ "type": "Feature", "properties": { "number": "8504288", "designationOfficial": "Buttes" }, "geometry": { "type": "Point", "coordinates": [ 6.55319500129, 46.888346246929999 ] } },
-{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } }
+{ "type": "Feature", "properties": { "number": "8504288", "designationOfficial": "Buttes" }, "geometry": { "type": "Point", "coordinates": [ 6.55319500129, 46.888346246929999 ] } }
 ]
 }

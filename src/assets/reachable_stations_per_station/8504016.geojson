@@ -5,12 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
 { "type": "Feature", "properties": { "number": "8504016", "designationOfficial": "Palézieux-Village" }, "geometry": { "type": "Point", "coordinates": [ 6.82887452474, 46.557113199779998 ] } },
-{ "type": "Feature", "properties": { "number": "8504000", "designationOfficial": "Pully-Nord" }, "geometry": { "type": "Point", "coordinates": [ 6.6579876066, 46.514681464490003 ] } },
-{ "type": "Feature", "properties": { "number": "8504003", "designationOfficial": "Bossière" }, "geometry": { "type": "Point", "coordinates": [ 6.69932176237, 46.50974851438 ] } },
 { "type": "Feature", "properties": { "number": "8504007", "designationOfficial": "Moreillon" }, "geometry": { "type": "Point", "coordinates": [ 6.78564542808, 46.50839811665 ] } },
-{ "type": "Feature", "properties": { "number": "8504011", "designationOfficial": "Grandvaux" }, "geometry": { "type": "Point", "coordinates": [ 6.72265018612, 46.496948240469997 ] } },
-{ "type": "Feature", "properties": { "number": "8504010", "designationOfficial": "La Conversion" }, "geometry": { "type": "Point", "coordinates": [ 6.67832359677, 46.513084497489999 ] } },
-{ "type": "Feature", "properties": { "number": "8504012", "designationOfficial": "Puidoux" }, "geometry": { "type": "Point", "coordinates": [ 6.76568648465, 46.493841228789996 ] } },
 { "type": "Feature", "properties": { "number": "8504014", "designationOfficial": "Palézieux" }, "geometry": { "type": "Point", "coordinates": [ 6.83787527681, 46.542763593579998 ] } },
 { "type": "Feature", "properties": { "number": "8504017", "designationOfficial": "Châtillens" }, "geometry": { "type": "Point", "coordinates": [ 6.81548152013, 46.57053302432 ] } },
 { "type": "Feature", "properties": { "number": "8504124", "designationOfficial": "Dompierre FR" }, "geometry": { "type": "Point", "coordinates": [ 6.98536880348, 46.854402762340001 ] } },

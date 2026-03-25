@@ -36,7 +36,7 @@ for ds_id in tqdm(gdf_ds.index, desc = 'Creating files per station'):
     df_eb_sub = df_eb.loc[line_subset].groupby(level = 0)
 
     # now create the routes by joining the coordinates of the stations
-    line_descriptions, stop_sets, multilinestrings = [], [], []
+    stop_sets, multilinestrings = [], []
     for ride_id, chunk in df_eb_sub:  # for each train ride
         stop_ids = chunk.loc[:, 'BPUIC'].to_list()  # get the ids of the stations served
         
@@ -54,12 +54,8 @@ for ds_id in tqdm(gdf_ds.index, desc = 'Creating files per station'):
         # join all pieces of the route and simplify the geometry (to improve latency)
         multilinestring = shapely.MultiLineString(linestring).simplify(tolerance = 0.001)
         
-        # create the line description by appending the names of all served stations in the ride
-        line_description = '->'.join([gdf_ds.loc[stop_id, 'designationOfficial'] for stop_id in stop_ids])
-        
         # keep results for later
         stop_sets.append(stop_set)
-        line_descriptions.append(line_description)
         multilinestrings.append(multilinestring)
 
     # join the routes that serve the origin station in a single gdf
@@ -67,7 +63,6 @@ for ds_id in tqdm(gdf_ds.index, desc = 'Creating files per station'):
         gpd
         .GeoDataFrame(  # ln: linie
             data = {
-                'line_description': line_descriptions,
                 'geometry': multilinestrings,
             },
             crs = gdf_ds.crs,

@@ -19,6 +19,7 @@
 { "type": "Feature", "properties": { "number": "8504026", "designationOfficial": "Cottens FR" }, "geometry": { "type": "Point", "coordinates": [ 7.03479432111, 46.75121262863 ] } },
 { "type": "Feature", "properties": { "number": "8504014", "designationOfficial": "Palézieux" }, "geometry": { "type": "Point", "coordinates": [ 6.83787527681, 46.542763593579998 ] } },
 { "type": "Feature", "properties": { "number": "8504030", "designationOfficial": "Villars-sur-Glâne" }, "geometry": { "type": "Point", "coordinates": [ 7.11638562388, 46.789829818759998 ] } },
+{ "type": "Feature", "properties": { "number": "8504086", "designationOfficial": "Bulle" }, "geometry": { "type": "Point", "coordinates": [ 7.05300172867, 46.61922510286 ] } },
 { "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
 { "type": "Feature", "properties": { "number": "8501632", "designationOfficial": "Avry-Matran" }, "geometry": { "type": "Point", "coordinates": [ 7.08043455807, 46.786030170239997 ] } }
 ]

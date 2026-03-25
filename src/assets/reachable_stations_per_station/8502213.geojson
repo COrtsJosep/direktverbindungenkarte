@@ -40,8 +40,9 @@
 { "type": "Feature", "properties": { "number": "8502278", "designationOfficial": "Reppischhof" }, "geometry": { "type": "Point", "coordinates": [ 8.39617331569, 47.384001759599997 ] } },
 { "type": "Feature", "properties": { "number": "8502273", "designationOfficial": "Bremgarten" }, "geometry": { "type": "Point", "coordinates": [ 8.34648741256, 47.351517711299998 ] } },
 { "type": "Feature", "properties": { "number": "8502272", "designationOfficial": "Bremgarten West" }, "geometry": { "type": "Point", "coordinates": [ 8.33711091194, 47.345690565760002 ] } },
+{ "type": "Feature", "properties": { "number": "8503001", "designationOfficial": "Zürich Altstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.488962649959999, 47.391483073080003 ] } },
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
 { "type": "Feature", "properties": { "number": "8503508", "designationOfficial": "Dietikon" }, "geometry": { "type": "Point", "coordinates": [ 8.40498818789, 47.40578380657 ] } },
-{ "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } },
 { "type": "Feature", "properties": { "number": "8517377", "designationOfficial": "Bibenlos-Sonnenhof" }, "geometry": { "type": "Point", "coordinates": [ 8.350277981830001, 47.353791413869999 ] } },
 { "type": "Feature", "properties": { "number": "8517376", "designationOfficial": "Dietikon Schöneggstrasse" }, "geometry": { "type": "Point", "coordinates": [ 8.400988158480001, 47.401961309139999 ] } }
 ]

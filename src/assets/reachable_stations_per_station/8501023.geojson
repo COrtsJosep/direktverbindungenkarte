@@ -20,6 +20,7 @@
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501013", "designationOfficial": "Pont-Céard" }, "geometry": { "type": "Point", "coordinates": [ 6.16277928503, 46.286817385939997 ] } },
 { "type": "Feature", "properties": { "number": "8501031", "designationOfficial": "Gland" }, "geometry": { "type": "Point", "coordinates": [ 6.26913983363, 46.419986471240001 ] } },
+{ "type": "Feature", "properties": { "number": "8501042", "designationOfficial": "Etoy" }, "geometry": { "type": "Point", "coordinates": [ 6.42713535556, 46.475172741370002 ] } },
 { "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },
 { "type": "Feature", "properties": { "number": "8501400", "designationOfficial": "Aigle" }, "geometry": { "type": "Point", "coordinates": [ 6.96368321186, 46.316855418599999 ] } },
 { "type": "Feature", "properties": { "number": "8501403", "designationOfficial": "St-Maurice" }, "geometry": { "type": "Point", "coordinates": [ 7.00204389825, 46.216369502829998 ] } },

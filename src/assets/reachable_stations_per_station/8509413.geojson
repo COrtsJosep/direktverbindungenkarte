@@ -22,7 +22,6 @@
 { "type": "Feature", "properties": { "number": "8503115", "designationOfficial": "Schmerikon" }, "geometry": { "type": "Point", "coordinates": [ 8.94338195257, 47.225160130570004 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
-{ "type": "Feature", "properties": { "number": "8508006", "designationOfficial": "Wynigen" }, "geometry": { "type": "Point", "coordinates": [ 7.6635068635, 47.105174831379998 ] } },
 { "type": "Feature", "properties": { "number": "8508008", "designationOfficial": "Herzogenbuchsee" }, "geometry": { "type": "Point", "coordinates": [ 7.70095826853, 47.188086128259997 ] } },
 { "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
 { "type": "Feature", "properties": { "number": "8509000", "designationOfficial": "Chur" }, "geometry": { "type": "Point", "coordinates": [ 9.528937733039999, 46.853084162759998 ] } },

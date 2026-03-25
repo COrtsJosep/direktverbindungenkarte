@@ -11,7 +11,6 @@
 { "type": "Feature", "properties": { "number": "8505304", "designationOfficial": "Capolago-Riva S. Vitale" }, "geometry": { "type": "Point", "coordinates": [ 8.97890525715, 45.902837295749997 ] } },
 { "type": "Feature", "properties": { "number": "8505307", "designationOfficial": "Chiasso" }, "geometry": { "type": "Point", "coordinates": [ 9.03144956231, 45.832168026369999 ] } },
 { "type": "Feature", "properties": { "number": "8505306", "designationOfficial": "Balerna" }, "geometry": { "type": "Point", "coordinates": [ 9.005035609409999, 45.846745056789999 ] } },
-{ "type": "Feature", "properties": { "number": "8505209", "designationOfficial": "Biasca" }, "geometry": { "type": "Point", "coordinates": [ 8.97417921686, 46.351984152409997 ] } },
 { "type": "Feature", "properties": { "number": "8505213", "designationOfficial": "Bellinzona" }, "geometry": { "type": "Point", "coordinates": [ 9.02951851227, 46.195431792210002 ] } },
 { "type": "Feature", "properties": { "number": "8505212", "designationOfficial": "Castione-Arbedo" }, "geometry": { "type": "Point", "coordinates": [ 9.041461806219999, 46.222921653139998 ] } },
 { "type": "Feature", "properties": { "number": "8505214", "designationOfficial": "Giubiasco" }, "geometry": { "type": "Point", "coordinates": [ 9.003600088960001, 46.173812731540004 ] } },

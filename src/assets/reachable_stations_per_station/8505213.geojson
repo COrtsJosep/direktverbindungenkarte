@@ -7,14 +7,8 @@
 { "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
 { "type": "Feature", "properties": { "number": "8500023", "designationOfficial": "Liestal" }, "geometry": { "type": "Point", "coordinates": [ 7.7313674807, 47.484461172129997 ] } },
 { "type": "Feature", "properties": { "number": "8500090", "designationOfficial": "Basel Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 7.60692041847, 47.567307905699998 ] } },
-{ "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
-{ "type": "Feature", "properties": { "number": "8502001", "designationOfficial": "Zofingen" }, "geometry": { "type": "Point", "coordinates": [ 7.94311767398, 47.288052535390001 ] } },
-{ "type": "Feature", "properties": { "number": "8502007", "designationOfficial": "Sursee" }, "geometry": { "type": "Point", "coordinates": [ 8.09789386466, 47.170795040930003 ] } },
 { "type": "Feature", "properties": { "number": "8502204", "designationOfficial": "Zug" }, "geometry": { "type": "Point", "coordinates": [ 8.515049340959999, 47.173706977679998 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
-{ "type": "Feature", "properties": { "number": "8504023", "designationOfficial": "Romont FR" }, "geometry": { "type": "Point", "coordinates": [ 6.91181142012, 46.693508261230001 ] } },
-{ "type": "Feature", "properties": { "number": "8504014", "designationOfficial": "Palézieux" }, "geometry": { "type": "Point", "coordinates": [ 6.83787527681, 46.542763593579998 ] } },
-{ "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
 { "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
 { "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } },
 { "type": "Feature", "properties": { "number": "8505007", "designationOfficial": "Brunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.61006766101, 46.999174913140003 ] } },
@@ -55,7 +49,6 @@
 { "type": "Feature", "properties": { "number": "8505405", "designationOfficial": "Quartino" }, "geometry": { "type": "Point", "coordinates": [ 8.887331214590001, 46.151298089240001 ] } },
 { "type": "Feature", "properties": { "number": "8505415", "designationOfficial": "S. Antonino" }, "geometry": { "type": "Point", "coordinates": [ 8.969520646039999, 46.159049138550003 ] } },
 { "type": "Feature", "properties": { "number": "8505417", "designationOfficial": "Minusio" }, "geometry": { "type": "Point", "coordinates": [ 8.819566342230001, 46.174005924760003 ] } },
-{ "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8518475", "designationOfficial": "Mendrisio S. Martino" }, "geometry": { "type": "Point", "coordinates": [ 8.98309272048, 45.877220199280003 ] } },
 { "type": "Feature", "properties": { "number": "8505207", "designationOfficial": "Bodio TI" }, "geometry": { "type": "Point", "coordinates": [ 8.906567985280001, 46.380254520359998 ] } }
 ]

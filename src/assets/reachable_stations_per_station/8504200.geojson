@@ -6,6 +6,7 @@
 { "type": "Feature", "properties": { "number": "8500109", "designationOfficial": "Delémont" }, "geometry": { "type": "Point", "coordinates": [ 7.3500633234, 47.362012700089998 ] } },
 { "type": "Feature", "properties": { "number": "8500159", "designationOfficial": "Grenchen Nord" }, "geometry": { "type": "Point", "coordinates": [ 7.38961866289, 47.191698205100003 ] } },
 { "type": "Feature", "properties": { "number": "8500113", "designationOfficial": "Laufen" }, "geometry": { "type": "Point", "coordinates": [ 7.50263613094, 47.419346483520002 ] } },
+{ "type": "Feature", "properties": { "number": "8500119", "designationOfficial": "Münchenstein" }, "geometry": { "type": "Point", "coordinates": [ 7.61759669026, 47.51339736245 ] } },
 { "type": "Feature", "properties": { "number": "8500202", "designationOfficial": "Grenchen Süd" }, "geometry": { "type": "Point", "coordinates": [ 7.39818006116, 47.188774688670001 ] } },
 { "type": "Feature", "properties": { "number": "8500212", "designationOfficial": "Oensingen" }, "geometry": { "type": "Point", "coordinates": [ 7.709870322, 47.28503510558 ] } },
 { "type": "Feature", "properties": { "number": "8500207", "designationOfficial": "Solothurn" }, "geometry": { "type": "Point", "coordinates": [ 7.54268921098, 47.204192502879998 ] } },

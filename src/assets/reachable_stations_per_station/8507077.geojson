@@ -26,9 +26,13 @@
 { "type": "Feature", "properties": { "number": "8507073", "designationOfficial": "Thurnen" }, "geometry": { "type": "Point", "coordinates": [ 7.51387770203, 46.813560975580003 ] } },
 { "type": "Feature", "properties": { "number": "8507078", "designationOfficial": "Wabern bei Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.44588875523, 46.928662777169997 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
+{ "type": "Feature", "properties": { "number": "8508081", "designationOfficial": "Burgdorf Steinhof" }, "geometry": { "type": "Point", "coordinates": [ 7.61953942949, 47.051199893769997 ] } },
+{ "type": "Feature", "properties": { "number": "8508080", "designationOfficial": "Oberburg" }, "geometry": { "type": "Point", "coordinates": [ 7.6293428672, 47.039609543239997 ] } },
+{ "type": "Feature", "properties": { "number": "8508001", "designationOfficial": "Schönbühl SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.49892786502, 47.018942169349998 ] } },
 { "type": "Feature", "properties": { "number": "8508003", "designationOfficial": "Hindelbank" }, "geometry": { "type": "Point", "coordinates": [ 7.54541060076, 47.049563760760002 ] } },
 { "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
 { "type": "Feature", "properties": { "number": "8508004", "designationOfficial": "Lyssach" }, "geometry": { "type": "Point", "coordinates": [ 7.58132358183, 47.063760915449997 ] } },
+{ "type": "Feature", "properties": { "number": "8508265", "designationOfficial": "Hasle-Rüegsau" }, "geometry": { "type": "Point", "coordinates": [ 7.65532241986, 47.016262786630001 ] } },
 { "type": "Feature", "properties": { "number": "8516161", "designationOfficial": "Bern Wankdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.46547780088, 46.967825765960001 ] } },
 { "type": "Feature", "properties": { "number": "8504441", "designationOfficial": "Studen BE" }, "geometry": { "type": "Point", "coordinates": [ 7.30081358676, 47.11158452574 ] } },
 { "type": "Feature", "properties": { "number": "8507100", "designationOfficial": "Thun" }, "geometry": { "type": "Point", "coordinates": [ 7.62960582867, 46.754852730590002 ] } }

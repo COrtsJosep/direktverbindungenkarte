@@ -80,6 +80,7 @@
 { "type": "Feature", "properties": { "number": "8503308", "designationOfficial": "Kloten" }, "geometry": { "type": "Point", "coordinates": [ 8.58380969746, 47.448607285569999 ] } },
 { "type": "Feature", "properties": { "number": "8503340", "designationOfficial": "Opfikon" }, "geometry": { "type": "Point", "coordinates": [ 8.56179479491, 47.429954843849998 ] } },
 { "type": "Feature", "properties": { "number": "8503423", "designationOfficial": "Neuhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.62493454562, 47.683133411969997 ] } },
+{ "type": "Feature", "properties": { "number": "8504023", "designationOfficial": "Romont FR" }, "geometry": { "type": "Point", "coordinates": [ 6.91181142012, 46.693508261230001 ] } },
 { "type": "Feature", "properties": { "number": "8504221", "designationOfficial": "Neuchâtel" }, "geometry": { "type": "Point", "coordinates": [ 6.93570169412, 46.996726792559997 ] } },
 { "type": "Feature", "properties": { "number": "8504200", "designationOfficial": "Yverdon-les-Bains" }, "geometry": { "type": "Point", "coordinates": [ 6.64094400151, 46.781545186979997 ] } },
 { "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },

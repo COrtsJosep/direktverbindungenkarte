@@ -30,12 +30,6 @@
 { "type": "Feature", "properties": { "number": "8506103", "designationOfficial": "Müllheim-Wigoltingen" }, "geometry": { "type": "Point", "coordinates": [ 9.015522055170001, 47.588164573569998 ] } },
 { "type": "Feature", "properties": { "number": "8506102", "designationOfficial": "Hüttlingen-Mettendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.974555007579999, 47.582343636109997 ] } },
 { "type": "Feature", "properties": { "number": "8506105", "designationOfficial": "Weinfelden" }, "geometry": { "type": "Point", "coordinates": [ 9.10636822199, 47.566224263229998 ] } },
-{ "type": "Feature", "properties": { "number": "8506104", "designationOfficial": "Märstetten" }, "geometry": { "type": "Point", "coordinates": [ 9.06219347751, 47.582820556759998 ] } },
-{ "type": "Feature", "properties": { "number": "8506107", "designationOfficial": "Erlen" }, "geometry": { "type": "Point", "coordinates": [ 9.22620198059, 47.551460276489998 ] } },
-{ "type": "Feature", "properties": { "number": "8506106", "designationOfficial": "Bürglen TG" }, "geometry": { "type": "Point", "coordinates": [ 9.149876589210001, 47.549098428690002 ] } },
-{ "type": "Feature", "properties": { "number": "8506109", "designationOfficial": "Amriswil" }, "geometry": { "type": "Point", "coordinates": [ 9.30222720093, 47.550449721219998 ] } },
-{ "type": "Feature", "properties": { "number": "8506108", "designationOfficial": "Oberaach" }, "geometry": { "type": "Point", "coordinates": [ 9.27106226685, 47.55331937375 ] } },
-{ "type": "Feature", "properties": { "number": "8506121", "designationOfficial": "Romanshorn" }, "geometry": { "type": "Point", "coordinates": [ 9.37937129226, 47.565522864869997 ] } },
-{ "type": "Feature", "properties": { "number": "8506217", "designationOfficial": "Sulgen" }, "geometry": { "type": "Point", "coordinates": [ 9.183694438910001, 47.538804025520001 ] } }
+{ "type": "Feature", "properties": { "number": "8506104", "designationOfficial": "Märstetten" }, "geometry": { "type": "Point", "coordinates": [ 9.06219347751, 47.582820556759998 ] } }
 ]
 }

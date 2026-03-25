@@ -57,7 +57,6 @@
 { "type": "Feature", "properties": { "number": "8516272", "designationOfficial": "Genève-Champel" }, "geometry": { "type": "Point", "coordinates": [ 6.15349872414, 46.192193344300001 ] } },
 { "type": "Feature", "properties": { "number": "8516274", "designationOfficial": "Chêne-Bourg" }, "geometry": { "type": "Point", "coordinates": [ 6.19733346412, 46.196600169 ] } },
 { "type": "Feature", "properties": { "number": "8516155", "designationOfficial": "Lancy-Pont-Rouge" }, "geometry": { "type": "Point", "coordinates": [ 6.12494699563, 46.185945299780002 ] } },
-{ "type": "Feature", "properties": { "number": "8517142", "designationOfficial": "Lancy-Bachet" }, "geometry": { "type": "Point", "coordinates": [ 6.12936213667, 46.174332867910003 ] } },
-{ "type": "Feature", "properties": { "number": "8518452", "designationOfficial": "Prilly-Malley" }, "geometry": { "type": "Point", "coordinates": [ 6.60262893925, 46.526691976519999 ] } }
+{ "type": "Feature", "properties": { "number": "8517142", "designationOfficial": "Lancy-Bachet" }, "geometry": { "type": "Point", "coordinates": [ 6.12936213667, 46.174332867910003 ] } }
 ]
 }

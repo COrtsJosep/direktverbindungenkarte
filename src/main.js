@@ -86,15 +86,6 @@ function addNetwork(number) {
     var railRoadsLayer = new L.GeoJSON.AJAX(`src/assets/reachable_net_per_station/${number}.geojson`, {
         style: railRoadsStyle,
         onEachFeature: function(feature, layer) {
-            if (feature.properties && feature.properties.line_description) {
-                layer.on('click', function(e) {
-                    var popup = L
-                        .popup({ closeButton: false, minWidth: 0 })
-                        .setContent(feature.properties.line_description)
-                        .setLatLng(e.latlng);
-                    layer.bindPopup(popup).openPopup();
-                });
-            }
             layer.on({
                 'add': function(){layer.bringToBack()}
             });

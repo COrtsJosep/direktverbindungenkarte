@@ -21,7 +21,6 @@
 { "type": "Feature", "properties": { "number": "8506319", "designationOfficial": "Altstätten SG" }, "geometry": { "type": "Point", "coordinates": [ 9.55651988356, 47.374234807059999 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8508100", "designationOfficial": "Langenthal" }, "geometry": { "type": "Point", "coordinates": [ 7.78471513555, 47.217302871489998 ] } },
-{ "type": "Feature", "properties": { "number": "8508006", "designationOfficial": "Wynigen" }, "geometry": { "type": "Point", "coordinates": [ 7.6635068635, 47.105174831379998 ] } },
 { "type": "Feature", "properties": { "number": "8508008", "designationOfficial": "Herzogenbuchsee" }, "geometry": { "type": "Point", "coordinates": [ 7.70095826853, 47.188086128259997 ] } },
 { "type": "Feature", "properties": { "number": "8508005", "designationOfficial": "Burgdorf" }, "geometry": { "type": "Point", "coordinates": [ 7.62169447355, 47.060700726390003 ] } },
 { "type": "Feature", "properties": { "number": "8509000", "designationOfficial": "Chur" }, "geometry": { "type": "Point", "coordinates": [ 9.528937733039999, 46.853084162759998 ] } },
@@ -29,9 +28,12 @@
 { "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
 { "type": "Feature", "properties": { "number": "8509004", "designationOfficial": "Bad Ragaz" }, "geometry": { "type": "Point", "coordinates": [ 9.50522497811, 47.010309478099998 ] } },
 { "type": "Feature", "properties": { "number": "8509413", "designationOfficial": "Flums" }, "geometry": { "type": "Point", "coordinates": [ 9.347929247890001, 47.09661665326 ] } },
+{ "type": "Feature", "properties": { "number": "8509412", "designationOfficial": "Mels" }, "geometry": { "type": "Point", "coordinates": [ 9.4177582723, 47.053746256309999 ] } },
 { "type": "Feature", "properties": { "number": "8509414", "designationOfficial": "Walenstadt" }, "geometry": { "type": "Point", "coordinates": [ 9.31298145333, 47.119873608550002 ] } },
+{ "type": "Feature", "properties": { "number": "8509417", "designationOfficial": "Murg" }, "geometry": { "type": "Point", "coordinates": [ 9.2150418825, 47.113174855399997 ] } },
 { "type": "Feature", "properties": { "number": "8509416", "designationOfficial": "Unterterzen" }, "geometry": { "type": "Point", "coordinates": [ 9.25501837741, 47.113856870699998 ] } },
 { "type": "Feature", "properties": { "number": "8509404", "designationOfficial": "Buchs SG" }, "geometry": { "type": "Point", "coordinates": [ 9.47863668892, 47.168411979360002 ] } },
+{ "type": "Feature", "properties": { "number": "8509418", "designationOfficial": "Mühlehorn" }, "geometry": { "type": "Point", "coordinates": [ 9.1730180523, 47.117840244550003 ] } },
 { "type": "Feature", "properties": { "number": "8509411", "designationOfficial": "Sargans" }, "geometry": { "type": "Point", "coordinates": [ 9.446260474660001, 47.044823514409998 ] } }
 ]
 }

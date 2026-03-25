@@ -22,6 +22,7 @@
 { "type": "Feature", "properties": { "number": "8505001", "designationOfficial": "Meggen" }, "geometry": { "type": "Point", "coordinates": [ 8.383061443880001, 47.050147795800001 ] } },
 { "type": "Feature", "properties": { "number": "8505011", "designationOfficial": "Merlischachen" }, "geometry": { "type": "Point", "coordinates": [ 8.40905814694, 47.067659984380001 ] } },
 { "type": "Feature", "properties": { "number": "8505300", "designationOfficial": "Lugano" }, "geometry": { "type": "Point", "coordinates": [ 8.946995308509999, 46.005500549910003 ] } },
+{ "type": "Feature", "properties": { "number": "8505305", "designationOfficial": "Mendrisio" }, "geometry": { "type": "Point", "coordinates": [ 8.978610919619999, 45.869108608029997 ] } },
 { "type": "Feature", "properties": { "number": "8505307", "designationOfficial": "Chiasso" }, "geometry": { "type": "Point", "coordinates": [ 9.03144956231, 45.832168026369999 ] } },
 { "type": "Feature", "properties": { "number": "8505111", "designationOfficial": "Sisikon" }, "geometry": { "type": "Point", "coordinates": [ 8.62074872767, 46.949254014570002 ] } },
 { "type": "Feature", "properties": { "number": "8505113", "designationOfficial": "Altdorf UR" }, "geometry": { "type": "Point", "coordinates": [ 8.631575417440001, 46.875738713280001 ] } },

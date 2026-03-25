@@ -9,6 +9,7 @@
 { "type": "Feature", "properties": { "number": "8500020", "designationOfficial": "Muttenz" }, "geometry": { "type": "Point", "coordinates": [ 7.64789442691, 47.533591211900003 ] } },
 { "type": "Feature", "properties": { "number": "8500301", "designationOfficial": "Rheinfelden" }, "geometry": { "type": "Point", "coordinates": [ 7.79216890116, 47.551214032499999 ] } },
 { "type": "Feature", "properties": { "number": "8500302", "designationOfficial": "Möhlin" }, "geometry": { "type": "Point", "coordinates": [ 7.83386265811, 47.561858466010001 ] } },
+{ "type": "Feature", "properties": { "number": "8500329", "designationOfficial": "Koblenz" }, "geometry": { "type": "Point", "coordinates": [ 8.22704969738, 47.600338298689998 ] } },
 { "type": "Feature", "properties": { "number": "8500320", "designationOfficial": "Stein-Säckingen" }, "geometry": { "type": "Point", "coordinates": [ 7.94884287334, 47.54160826004 ] } },
 { "type": "Feature", "properties": { "number": "8500305", "designationOfficial": "Frick" }, "geometry": { "type": "Point", "coordinates": [ 8.01309246283, 47.507348523940003 ] } },
 { "type": "Feature", "properties": { "number": "8500309", "designationOfficial": "Brugg AG" }, "geometry": { "type": "Point", "coordinates": [ 8.20884455349, 47.480859834980002 ] } },
@@ -86,6 +87,8 @@
 { "type": "Feature", "properties": { "number": "8503111", "designationOfficial": "Winkel am Zürichsee" }, "geometry": { "type": "Point", "coordinates": [ 8.59898830941, 47.29720784525 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
 { "type": "Feature", "properties": { "number": "8503112", "designationOfficial": "Kempraten" }, "geometry": { "type": "Point", "coordinates": [ 8.81431096018, 47.238397728279999 ] } },
+{ "type": "Feature", "properties": { "number": "8503501", "designationOfficial": "Döttingen" }, "geometry": { "type": "Point", "coordinates": [ 8.25636467328, 47.575269820380001 ] } },
+{ "type": "Feature", "properties": { "number": "8503502", "designationOfficial": "Siggenthal-Würenlingen" }, "geometry": { "type": "Point", "coordinates": [ 8.240659996210001, 47.52068999387 ] } },
 { "type": "Feature", "properties": { "number": "8503505", "designationOfficial": "Wettingen" }, "geometry": { "type": "Point", "coordinates": [ 8.316006171450001, 47.459638175930003 ] } },
 { "type": "Feature", "properties": { "number": "8503504", "designationOfficial": "Baden" }, "geometry": { "type": "Point", "coordinates": [ 8.307709474039999, 47.476424284620002 ] } },
 { "type": "Feature", "properties": { "number": "8503525", "designationOfficial": "Otelfingen Golfpark" }, "geometry": { "type": "Point", "coordinates": [ 8.402113454909999, 47.455821643599997 ] } },
@@ -94,10 +97,10 @@
 { "type": "Feature", "properties": { "number": "8503526", "designationOfficial": "Regensdorf-Watt" }, "geometry": { "type": "Point", "coordinates": [ 8.472084926959999, 47.43656352579 ] } },
 { "type": "Feature", "properties": { "number": "8503529", "designationOfficial": "Würenlos" }, "geometry": { "type": "Point", "coordinates": [ 8.35766780632, 47.445759471629998 ] } },
 { "type": "Feature", "properties": { "number": "8503528", "designationOfficial": "Otelfingen" }, "geometry": { "type": "Point", "coordinates": [ 8.38753243209, 47.45493620253 ] } },
-{ "type": "Feature", "properties": { "number": "8503299", "designationOfficial": "Hurden" }, "geometry": { "type": "Point", "coordinates": [ 8.80074572761, 47.214146345629999 ] } },
 { "type": "Feature", "properties": { "number": "8503310", "designationOfficial": "Glattbrugg" }, "geometry": { "type": "Point", "coordinates": [ 8.558854148749999, 47.430826715629998 ] } },
 { "type": "Feature", "properties": { "number": "8503301", "designationOfficial": "Pfäffikon ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.784799698480001, 47.367086237860001 ] } },
 { "type": "Feature", "properties": { "number": "8503313", "designationOfficial": "Niederglatt ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.503315575549999, 47.487471020119997 ] } },
+{ "type": "Feature", "properties": { "number": "8503300", "designationOfficial": "Kempten" }, "geometry": { "type": "Point", "coordinates": [ 8.8047206925, 47.332043115330002 ] } },
 { "type": "Feature", "properties": { "number": "8503312", "designationOfficial": "Oberglatt ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.51061883625, 47.470204611580002 ] } },
 { "type": "Feature", "properties": { "number": "8503303", "designationOfficial": "Illnau" }, "geometry": { "type": "Point", "coordinates": [ 8.72272752143, 47.408819189660001 ] } },
 { "type": "Feature", "properties": { "number": "8503315", "designationOfficial": "Dielsdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.45944375321, 47.482420505489998 ] } },
@@ -121,6 +124,7 @@
 { "type": "Feature", "properties": { "number": "8503403", "designationOfficial": "Hüntwangen-Wil" }, "geometry": { "type": "Point", "coordinates": [ 8.512848049740001, 47.581268898879998 ] } },
 { "type": "Feature", "properties": { "number": "8503423", "designationOfficial": "Neuhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.62493454562, 47.683133411969997 ] } },
 { "type": "Feature", "properties": { "number": "8503402", "designationOfficial": "Eglisau" }, "geometry": { "type": "Point", "coordinates": [ 8.516558015859999, 47.572374547 ] } },
+{ "type": "Feature", "properties": { "number": "8504023", "designationOfficial": "Romont FR" }, "geometry": { "type": "Point", "coordinates": [ 6.91181142012, 46.693508261230001 ] } },
 { "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
 { "type": "Feature", "properties": { "number": "8506000", "designationOfficial": "Winterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.723821055409999, 47.500333810470003 ] } },
 { "type": "Feature", "properties": { "number": "8506017", "designationOfficial": "Wiesendangen" }, "geometry": { "type": "Point", "coordinates": [ 8.776038001270001, 47.525543037269998 ] } },
@@ -146,6 +150,8 @@
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
 { "type": "Feature", "properties": { "number": "8509404", "designationOfficial": "Buchs SG" }, "geometry": { "type": "Point", "coordinates": [ 9.47863668892, 47.168411979360002 ] } },
 { "type": "Feature", "properties": { "number": "8509411", "designationOfficial": "Sargans" }, "geometry": { "type": "Point", "coordinates": [ 9.446260474660001, 47.044823514409998 ] } },
-{ "type": "Feature", "properties": { "number": "8518924", "designationOfficial": "Neuhausen Rheinfall" }, "geometry": { "type": "Point", "coordinates": [ 8.61694647232, 47.679804926229998 ] } }
+{ "type": "Feature", "properties": { "number": "8516176", "designationOfficial": "Klingnau" }, "geometry": { "type": "Point", "coordinates": [ 8.25029485286, 47.581557221680001 ] } },
+{ "type": "Feature", "properties": { "number": "8518924", "designationOfficial": "Neuhausen Rheinfall" }, "geometry": { "type": "Point", "coordinates": [ 8.61694647232, 47.679804926229998 ] } },
+{ "type": "Feature", "properties": { "number": "8503503", "designationOfficial": "Turgi" }, "geometry": { "type": "Point", "coordinates": [ 8.253458645709999, 47.491757319530002 ] } }
 ]
 }

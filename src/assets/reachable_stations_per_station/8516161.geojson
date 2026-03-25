@@ -3,6 +3,8 @@
 "name": "8516161",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
+{ "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
 { "type": "Feature", "properties": { "number": "8504300", "designationOfficial": "Biel/Bienne" }, "geometry": { "type": "Point", "coordinates": [ 7.24291060323, 47.132897870859999 ] } },
 { "type": "Feature", "properties": { "number": "8504101", "designationOfficial": "Düdingen" }, "geometry": { "type": "Point", "coordinates": [ 7.18975321001, 46.851052455340003 ] } },
 { "type": "Feature", "properties": { "number": "8504104", "designationOfficial": "Thörishaus Station" }, "geometry": { "type": "Point", "coordinates": [ 7.35702880474, 46.904625737849997 ] } },

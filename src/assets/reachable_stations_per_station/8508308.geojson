@@ -23,7 +23,6 @@
 { "type": "Feature", "properties": { "number": "8530760", "designationOfficial": "Aareschlucht West" }, "geometry": { "type": "Point", "coordinates": [ 8.19857711981, 46.721247453140002 ] } },
 { "type": "Feature", "properties": { "number": "8530800", "designationOfficial": "Innertkirchen Unterwasser" }, "geometry": { "type": "Point", "coordinates": [ 8.22607936514, 46.708096942909997 ] } },
 { "type": "Feature", "properties": { "number": "8530799", "designationOfficial": "Meiringen Alpbach" }, "geometry": { "type": "Point", "coordinates": [ 8.19001455159, 46.72311132982 ] } },
-{ "type": "Feature", "properties": { "number": "8530801", "designationOfficial": "Aareschlucht Ost (Bahn)" }, "geometry": { "type": "Point", "coordinates": [ 8.21789520301, 46.712000077330003 ] } },
 { "type": "Feature", "properties": { "number": "8508306", "designationOfficial": "Brienzwiler" }, "geometry": { "type": "Point", "coordinates": [ 8.090630227069999, 46.745684696090002 ] } }
 ]
 }

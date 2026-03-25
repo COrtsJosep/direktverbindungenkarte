@@ -14,6 +14,7 @@
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501031", "designationOfficial": "Gland" }, "geometry": { "type": "Point", "coordinates": [ 6.26913983363, 46.419986471240001 ] } },
+{ "type": "Feature", "properties": { "number": "8501042", "designationOfficial": "Etoy" }, "geometry": { "type": "Point", "coordinates": [ 6.42713535556, 46.475172741370002 ] } },
 { "type": "Feature", "properties": { "number": "8501053", "designationOfficial": "La Vuarpillière" }, "geometry": { "type": "Point", "coordinates": [ 6.21704248122, 46.399099815249997 ] } },
 { "type": "Feature", "properties": { "number": "8501064", "designationOfficial": "Bassins" }, "geometry": { "type": "Point", "coordinates": [ 6.22230999899, 46.460569994940002 ] } },
 { "type": "Feature", "properties": { "number": "8501055", "designationOfficial": "Les Pralies" }, "geometry": { "type": "Point", "coordinates": [ 6.12687000389, 46.451180000699999 ] } },

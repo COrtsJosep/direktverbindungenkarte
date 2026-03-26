@@ -7,6 +7,9 @@ L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}
 	ext: 'png'
 }).addTo(map);
 
+map.createPane('selectedPane');
+map.getPane('selectedPane').style.zIndex = 650; // pane for the selected dienstStelle
+
 L.controlCredits({
     imageurl: 'public/GitHub_Invertocat_Black.png',
     tooltip: 'Made by COrtsJosep',
@@ -89,7 +92,6 @@ function addNetwork(number) {
             layer.on({
                 'add': function(){layer.bringToBack()}
             });
-            
         }
     });
     railRoadsLayer.addTo(map);
@@ -97,7 +99,10 @@ function addNetwork(number) {
     var reachableDienstStelleLayer = new L.GeoJSON.AJAX(`src/assets/reachable_stations_per_station/${number}.geojson`, {
     pointToLayer: function (feature, latlng) {
         if (feature.properties && feature.properties.number && feature.properties.number == number) {
-            return L.circleMarker(latlng, selectedDienstStelleStyle);
+            return L.circleMarker(latlng, {
+                ...selectedDienstStelleStyle,
+                pane: 'selectedPane'
+            });
         } else if (feature.properties && feature.properties.number && feature.properties.number != number) {
             return L.circleMarker(latlng, dienstStelleStyle);
         }

@@ -18,12 +18,12 @@ L.controlCredits({
 
 var notifications = L.control.notifications({ 
     className: 'modern',
-    timeout: 5000,
+    timeout: 99999999999999,
     closable: false,
     dismissable: true
 }).addTo(map);
 
-notifications.info('Info', 'Click on a train station to discover where you can travel to with a direct connection.');
+notifications.info('Info', 'Click on a dot (train station) to discover where you can go with a direct train connection.');
 
 var dienstStelleStyle = {
     radius: 7.5,
@@ -129,5 +129,9 @@ function addNetwork(number) {
     });
     reachableDienstStelleLayer.addTo(map);
     
-    notifications.info('Info', 'Click on another train station to discover where you can travel to with a direct connection, or click on the same one again to deselect it.');
+    notifications.clear()
+    setTimeout(() => {
+        notifications.info('Info', 'Click on another train station to change the origin, or click on the same one again to deselect it.');
+    }, 300);
+    
 }

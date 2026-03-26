@@ -33,12 +33,11 @@ var dienstStelleStyle = {
     fillColor: "#FFFFFF",
     color: "#5A5A5A",
     weight: 5,
-    opacity: 1,
     fillOpacity: 1
 };
 
 var selectedDienstStelleStyle = {
-    radius: 7.5,
+    radius: 10,
     fillColor: "#FFFFFF",
     color: "#FF0000",
     weight: 5,
@@ -72,12 +71,23 @@ var allDienstStelleLayer = new L.GeoJSON.AJAX("src/assets/dienststellen.geojson"
             });
             layer.on('click', function(e) {
                 map.removeLayer(allDienstStelleLayer);
-                addNetwork(feature.properties.number);
+                map.removeControl(allDienstStelleLayerLegend);
+                addNetwork(feature.properties);
             });
         }
     }
 });
 allDienstStelleLayer.addTo(map);
+
+var allDienstStelleLayerLegend = new L.control.Legend({
+    position: "bottomleft",
+    legends: [{
+        label: "Train station",
+        type: "circle",
+        ...dienstStelleStyle
+    }]
+});
+allDienstStelleLayerLegend.addTo(map);
 
 // After clicking on a station, two layers are added: the layer with the reachable
 // railroad network linestrings, and the layer with the reachable stations.
@@ -85,8 +95,28 @@ allDienstStelleLayer.addTo(map);
 // Clicking on a different station switches the focus onto that station (removes
 // the two layers and adds the reachable stations + network of the newly selected
 // station.
-function addNetwork(number) {
-    var railRoadsLayer = new L.GeoJSON.AJAX(`src/assets/reachable_net_per_station/${number}.geojson`, {
+function addNetwork(selectedDienstStelle) {
+    var selectedDienstStelleLayerLegend = new L.control.Legend({
+        position: "bottomleft",
+        legends: [
+            {
+                label: `Selected train station (${selectedDienstStelle.designationOfficial})`,
+                type: "circle",
+                ...selectedDienstStelleStyle
+            }, {
+                label: "Directly connected train station",
+                type: "circle",
+                ...dienstStelleStyle
+            }, {
+                label: "Railway track",
+                type: "polyline",
+                ...railRoadsStyle
+            }    
+        ]
+    });
+    selectedDienstStelleLayerLegend.addTo(map);
+    
+    var railRoadsLayer = new L.GeoJSON.AJAX(`src/assets/reachable_net_per_station/${selectedDienstStelle.number}.geojson`, {
         style: railRoadsStyle,
         onEachFeature: function(feature, layer) {
             layer.on({
@@ -96,41 +126,44 @@ function addNetwork(number) {
     });
     railRoadsLayer.addTo(map);
     
-    var reachableDienstStelleLayer = new L.GeoJSON.AJAX(`src/assets/reachable_stations_per_station/${number}.geojson`, {
-    pointToLayer: function (feature, latlng) {
-        if (feature.properties && feature.properties.number && feature.properties.number == number) {
-            return L.circleMarker(latlng, {
-                ...selectedDienstStelleStyle,
-                pane: 'selectedPane'
-            });
-        } else if (feature.properties && feature.properties.number && feature.properties.number != number) {
-            return L.circleMarker(latlng, dienstStelleStyle);
+    var reachableDienstStelleLayer = new L.GeoJSON.AJAX(`src/assets/reachable_stations_per_station/${selectedDienstStelle.number}.geojson`, {
+        pointToLayer: function (feature, latlng) {
+            if (feature.properties && feature.properties.number && feature.properties.number == selectedDienstStelle.number) {
+                return L.circleMarker(latlng, {
+                    ...selectedDienstStelleStyle,
+                    pane: 'selectedPane'
+                });
+            } else if (feature.properties && feature.properties.number && feature.properties.number != selectedDienstStelle.number) {
+                return L.circleMarker(latlng, dienstStelleStyle);
+            }
+        },
+        onEachFeature: function(feature, layer) {
+            if (feature.properties && feature.properties.designationOfficial && feature.properties.number) {
+                layer.on('mouseover', function(e) {
+                    var popup = L.popup({ closeButton: false, minWidth: 0 }).setContent(feature.properties.designationOfficial);
+                    layer.bindPopup(popup).openPopup();
+                });
+                layer.on('mouseout', function(e) {
+                    layer.closePopup();
+                });
+                layer.on('click', function(e) {
+                    if (feature.properties.number == selectedDienstStelle.number) {
+                        // return to inital state
+                        map.removeLayer(railRoadsLayer);
+                        map.removeLayer(reachableDienstStelleLayer);
+                        map.removeControl(selectedDienstStelleLayerLegend);
+                        allDienstStelleLayer.addTo(map);
+                        allDienstStelleLayerLegend.addTo(map);
+                    } else {
+                        // re-focus on newly selected station
+                        map.removeLayer(railRoadsLayer);
+                        map.removeLayer(reachableDienstStelleLayer);
+                        map.removeControl(selectedDienstStelleLayerLegend)
+                        addNetwork(feature.properties);
+                    }
+                });
+            }
         }
-    },
-    onEachFeature: function(feature, layer) {
-        if (feature.properties && feature.properties.designationOfficial && feature.properties.number) {
-            layer.on('mouseover', function(e) {
-                var popup = L.popup({ closeButton: false, minWidth: 0 }).setContent(feature.properties.designationOfficial);
-                layer.bindPopup(popup).openPopup();
-            });
-            layer.on('mouseout', function(e) {
-                layer.closePopup();
-            });
-            layer.on('click', function(e) {
-                if (feature.properties.number == number) {
-                    // return to inital state
-                    map.removeLayer(railRoadsLayer);
-                    map.removeLayer(reachableDienstStelleLayer);
-                    allDienstStelleLayer.addTo(map);
-                } else {
-                    // re-focus on newly selected station
-                    map.removeLayer(railRoadsLayer);
-                    map.removeLayer(reachableDienstStelleLayer);
-                    addNetwork(feature.properties.number);
-                }
-            });
-        }
-    }
     });
     reachableDienstStelleLayer.addTo(map);
     

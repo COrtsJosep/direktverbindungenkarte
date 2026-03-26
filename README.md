@@ -20,6 +20,9 @@ Heavily inspired by [Martin Sterchi](https://martinsterchi.ch/)'s [blog publicat
 
 The files in [public/vendor/leaflet-control-credits/](https://github.com/COrtsJosep/direktverbindungskarte/blob/main/public/vendor/leaflet-control-credits/) are authored by [Greg Allensworth](https://github.com/gregallensworth) and they were released under a different license, which I have placed inside the folder. GitHub's [Invertocat logo](public/GitHub_Invertocat_Black.png) is GitHub's property. All original code by myself is under the Unlicense (see [LICENSE](LICENSE)).
 
+## Contributing
+Contributions are welcome! Feel free to open an issue if you have bug reports or improvement suggestions :)
+
 ## Impressions
 Direct railway connections from Bern:
 

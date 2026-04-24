@@ -12,8 +12,6 @@
 { "type": "Feature", "properties": { "number": "8507068", "designationOfficial": "Bolligen" }, "geometry": { "type": "Point", "coordinates": [ 7.49742000217, 46.969539997639998 ] } },
 { "type": "Feature", "properties": { "number": "8507096", "designationOfficial": "Papiermühle" }, "geometry": { "type": "Point", "coordinates": [ 7.47658551009, 46.974257308909998 ] } },
 { "type": "Feature", "properties": { "number": "8507000", "designationOfficial": "Bern" }, "geometry": { "type": "Point", "coordinates": [ 7.43913088992, 46.9488322905 ] } },
-{ "type": "Feature", "properties": { "number": "8508051", "designationOfficial": "Bern Felsenau" }, "geometry": { "type": "Point", "coordinates": [ 7.44424999405, 46.968499995649999 ] } },
-{ "type": "Feature", "properties": { "number": "8508052", "designationOfficial": "Bern Tiefenau" }, "geometry": { "type": "Point", "coordinates": [ 7.45019999681, 46.972739997799998 ] } },
 { "type": "Feature", "properties": { "number": "8508054", "designationOfficial": "Worblaufen" }, "geometry": { "type": "Point", "coordinates": [ 7.45763000019, 46.978839998520002 ] } },
 { "type": "Feature", "properties": { "number": "8589198", "designationOfficial": "Worbboden" }, "geometry": { "type": "Point", "coordinates": [ 7.55952527022, 46.933929080410003 ] } }
 ]

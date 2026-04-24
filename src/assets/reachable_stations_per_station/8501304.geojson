@@ -5,6 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "number": "8501121", "designationOfficial": "Pully" }, "geometry": { "type": "Point", "coordinates": [ 6.65946814021, 46.510923623179998 ] } },
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
+{ "type": "Feature", "properties": { "number": "8501123", "designationOfficial": "Villette VD" }, "geometry": { "type": "Point", "coordinates": [ 6.70737729881, 46.495424818810001 ] } },
 { "type": "Feature", "properties": { "number": "8501122", "designationOfficial": "Lutry" }, "geometry": { "type": "Point", "coordinates": [ 6.69060943656, 46.503786768360001 ] } },
 { "type": "Feature", "properties": { "number": "8501125", "designationOfficial": "Epesses" }, "geometry": { "type": "Point", "coordinates": [ 6.74516603412, 46.489328795189998 ] } },
 { "type": "Feature", "properties": { "number": "8501124", "designationOfficial": "Cully" }, "geometry": { "type": "Point", "coordinates": [ 6.72715146685, 46.488561791690003 ] } },

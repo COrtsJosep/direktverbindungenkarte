@@ -31,7 +31,6 @@
 { "type": "Feature", "properties": { "number": "8503129", "designationOfficial": "Wallisellen" }, "geometry": { "type": "Point", "coordinates": [ 8.591928199670001, 47.412723086150002 ] } },
 { "type": "Feature", "properties": { "number": "8503128", "designationOfficial": "Dübendorf" }, "geometry": { "type": "Point", "coordinates": [ 8.623421744230001, 47.400080359950003 ] } },
 { "type": "Feature", "properties": { "number": "8503110", "designationOfficial": "Rapperswil SG" }, "geometry": { "type": "Point", "coordinates": [ 8.816744887600001, 47.224887212319999 ] } },
-{ "type": "Feature", "properties": { "number": "8503509", "designationOfficial": "Schlieren" }, "geometry": { "type": "Point", "coordinates": [ 8.44724506334, 47.399176368239999 ] } },
 { "type": "Feature", "properties": { "number": "8503310", "designationOfficial": "Glattbrugg" }, "geometry": { "type": "Point", "coordinates": [ 8.558854148749999, 47.430826715629998 ] } },
 { "type": "Feature", "properties": { "number": "8503312", "designationOfficial": "Oberglatt ZH" }, "geometry": { "type": "Point", "coordinates": [ 8.51061883625, 47.470204611580002 ] } },
 { "type": "Feature", "properties": { "number": "8503315", "designationOfficial": "Dielsdorf" }, "geometry": { "type": "Point", "coordinates": [ 8.45944375321, 47.482420505489998 ] } },

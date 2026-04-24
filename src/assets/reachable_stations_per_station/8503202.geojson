@@ -49,6 +49,16 @@
 { "type": "Feature", "properties": { "number": "8503306", "designationOfficial": "Dietlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.619276404560001, 47.420202064009999 ] } },
 { "type": "Feature", "properties": { "number": "8503423", "designationOfficial": "Neuhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.62493454562, 47.683133411969997 ] } },
 { "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
+{ "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } },
+{ "type": "Feature", "properties": { "number": "8505007", "designationOfficial": "Brunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.61006766101, 46.999174913140003 ] } },
+{ "type": "Feature", "properties": { "number": "8505006", "designationOfficial": "Schwyz" }, "geometry": { "type": "Point", "coordinates": [ 8.632151708389999, 47.026397191039997 ] } },
+{ "type": "Feature", "properties": { "number": "8505300", "designationOfficial": "Lugano" }, "geometry": { "type": "Point", "coordinates": [ 8.946995308509999, 46.005500549910003 ] } },
+{ "type": "Feature", "properties": { "number": "8505307", "designationOfficial": "Chiasso" }, "geometry": { "type": "Point", "coordinates": [ 9.03144956231, 45.832168026369999 ] } },
+{ "type": "Feature", "properties": { "number": "8505113", "designationOfficial": "Altdorf UR" }, "geometry": { "type": "Point", "coordinates": [ 8.631575417440001, 46.875738713280001 ] } },
+{ "type": "Feature", "properties": { "number": "8505112", "designationOfficial": "Flüelen" }, "geometry": { "type": "Point", "coordinates": [ 8.62430265309, 46.901730165460002 ] } },
+{ "type": "Feature", "properties": { "number": "8505114", "designationOfficial": "Erstfeld" }, "geometry": { "type": "Point", "coordinates": [ 8.65045464023, 46.820339408860001 ] } },
+{ "type": "Feature", "properties": { "number": "8505209", "designationOfficial": "Biasca" }, "geometry": { "type": "Point", "coordinates": [ 8.97417921686, 46.351984152409997 ] } },
+{ "type": "Feature", "properties": { "number": "8505213", "designationOfficial": "Bellinzona" }, "geometry": { "type": "Point", "coordinates": [ 9.02951851227, 46.195431792210002 ] } },
 { "type": "Feature", "properties": { "number": "8506000", "designationOfficial": "Winterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.723821055409999, 47.500333810470003 ] } },
 { "type": "Feature", "properties": { "number": "8506017", "designationOfficial": "Wiesendangen" }, "geometry": { "type": "Point", "coordinates": [ 8.776038001270001, 47.525543037269998 ] } },
 { "type": "Feature", "properties": { "number": "8506016", "designationOfficial": "Oberwinterthur" }, "geometry": { "type": "Point", "coordinates": [ 8.760389196169999, 47.507922332500002 ] } },
@@ -71,11 +81,8 @@
 { "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
 { "type": "Feature", "properties": { "number": "8509004", "designationOfficial": "Bad Ragaz" }, "geometry": { "type": "Point", "coordinates": [ 9.50522497811, 47.010309478099998 ] } },
 { "type": "Feature", "properties": { "number": "8509413", "designationOfficial": "Flums" }, "geometry": { "type": "Point", "coordinates": [ 9.347929247890001, 47.09661665326 ] } },
-{ "type": "Feature", "properties": { "number": "8509412", "designationOfficial": "Mels" }, "geometry": { "type": "Point", "coordinates": [ 9.4177582723, 47.053746256309999 ] } },
 { "type": "Feature", "properties": { "number": "8509414", "designationOfficial": "Walenstadt" }, "geometry": { "type": "Point", "coordinates": [ 9.31298145333, 47.119873608550002 ] } },
-{ "type": "Feature", "properties": { "number": "8509417", "designationOfficial": "Murg" }, "geometry": { "type": "Point", "coordinates": [ 9.2150418825, 47.113174855399997 ] } },
 { "type": "Feature", "properties": { "number": "8509416", "designationOfficial": "Unterterzen" }, "geometry": { "type": "Point", "coordinates": [ 9.25501837741, 47.113856870699998 ] } },
-{ "type": "Feature", "properties": { "number": "8509418", "designationOfficial": "Mühlehorn" }, "geometry": { "type": "Point", "coordinates": [ 9.1730180523, 47.117840244550003 ] } },
 { "type": "Feature", "properties": { "number": "8509411", "designationOfficial": "Sargans" }, "geometry": { "type": "Point", "coordinates": [ 9.446260474660001, 47.044823514409998 ] } }
 ]
 }

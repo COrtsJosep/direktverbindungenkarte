@@ -11,6 +11,7 @@
 { "type": "Feature", "properties": { "number": "8501565", "designationOfficial": "Finhaut" }, "geometry": { "type": "Point", "coordinates": [ 6.97613107, 46.082404420289997 ] } },
 { "type": "Feature", "properties": { "number": "8501564", "designationOfficial": "Le Trétien" }, "geometry": { "type": "Point", "coordinates": [ 6.99772622088, 46.10231762806 ] } },
 { "type": "Feature", "properties": { "number": "8530334", "designationOfficial": "La Médettaz" }, "geometry": { "type": "Point", "coordinates": [ 7.00783909249, 46.108833702680002 ] } },
+{ "type": "Feature", "properties": { "number": "8530303", "designationOfficial": "Les Fumeaux" }, "geometry": { "type": "Point", "coordinates": [ 7.06460813618, 46.110080351080001 ] } },
 { "type": "Feature", "properties": { "number": "8501566", "designationOfficial": "Le Châtelard VS" }, "geometry": { "type": "Point", "coordinates": [ 6.95841126688, 46.061882869340003 ] } }
 ]
 }

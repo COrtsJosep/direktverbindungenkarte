@@ -8,7 +8,6 @@
 { "type": "Feature", "properties": { "number": "8503003", "designationOfficial": "Zürich Stadelhofen" }, "geometry": { "type": "Point", "coordinates": [ 8.548489088449999, 47.366609766709999 ] } },
 { "type": "Feature", "properties": { "number": "8503004", "designationOfficial": "Zürich Tiefenbrunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.56138984971, 47.350124682619999 ] } },
 { "type": "Feature", "properties": { "number": "8503006", "designationOfficial": "Zürich Oerlikon" }, "geometry": { "type": "Point", "coordinates": [ 8.544139909989999, 47.411530041200002 ] } },
-{ "type": "Feature", "properties": { "number": "8503016", "designationOfficial": "Zürich Flughafen" }, "geometry": { "type": "Point", "coordinates": [ 8.56240182048, 47.450385629899998 ] } },
 { "type": "Feature", "properties": { "number": "8503105", "designationOfficial": "Uetikon" }, "geometry": { "type": "Point", "coordinates": [ 8.67878709851, 47.259030130409997 ] } },
 { "type": "Feature", "properties": { "number": "8503104", "designationOfficial": "Meilen" }, "geometry": { "type": "Point", "coordinates": [ 8.64431191101, 47.269811151150002 ] } },
 { "type": "Feature", "properties": { "number": "8503107", "designationOfficial": "Stäfa" }, "geometry": { "type": "Point", "coordinates": [ 8.72165286994, 47.240527198460001 ] } },

@@ -6,7 +6,6 @@
 { "type": "Feature", "properties": { "number": "8500201", "designationOfficial": "Lengnau BE" }, "geometry": { "type": "Point", "coordinates": [ 7.36655367635, 47.179431423259999 ] } },
 { "type": "Feature", "properties": { "number": "8500209", "designationOfficial": "Deitingen" }, "geometry": { "type": "Point", "coordinates": [ 7.61891302482, 47.218225797709998 ] } },
 { "type": "Feature", "properties": { "number": "8500200", "designationOfficial": "Pieterlen" }, "geometry": { "type": "Point", "coordinates": [ 7.34019353831, 47.171441154009997 ] } },
-{ "type": "Feature", "properties": { "number": "8500208", "designationOfficial": "Luterbach-Attisholz" }, "geometry": { "type": "Point", "coordinates": [ 7.58352345957, 47.217149192740003 ] } },
 { "type": "Feature", "properties": { "number": "8500203", "designationOfficial": "Bettlach" }, "geometry": { "type": "Point", "coordinates": [ 7.42837301675, 47.194949414699998 ] } },
 { "type": "Feature", "properties": { "number": "8500211", "designationOfficial": "Niederbipp" }, "geometry": { "type": "Point", "coordinates": [ 7.69481806732, 47.270401734330001 ] } },
 { "type": "Feature", "properties": { "number": "8500202", "designationOfficial": "Grenchen Süd" }, "geometry": { "type": "Point", "coordinates": [ 7.39818006116, 47.188774688670001 ] } },

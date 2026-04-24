@@ -9,16 +9,12 @@
 { "type": "Feature", "properties": { "number": "8509050", "designationOfficial": "Chur West" }, "geometry": { "type": "Point", "coordinates": [ 9.514775826339999, 46.850396074290003 ] } },
 { "type": "Feature", "properties": { "number": "8509187", "designationOfficial": "Rodels-Realta" }, "geometry": { "type": "Point", "coordinates": [ 9.433334990320001, 46.735622586040002 ] } },
 { "type": "Feature", "properties": { "number": "8509183", "designationOfficial": "Reichenau-Tamins" }, "geometry": { "type": "Point", "coordinates": [ 9.413088909860001, 46.823959073019999 ] } },
-{ "type": "Feature", "properties": { "number": "8509073", "designationOfficial": "Davos Platz" }, "geometry": { "type": "Point", "coordinates": [ 9.821008807169999, 46.791774931280003 ] } },
-{ "type": "Feature", "properties": { "number": "8509068", "designationOfficial": "Klosters Platz" }, "geometry": { "type": "Point", "coordinates": [ 9.88084727765, 46.869553734189999 ] } },
-{ "type": "Feature", "properties": { "number": "8509072", "designationOfficial": "Davos Dorf" }, "geometry": { "type": "Point", "coordinates": [ 9.84182788359, 46.80955535815 ] } },
 { "type": "Feature", "properties": { "number": "8509171", "designationOfficial": "Ilanz" }, "geometry": { "type": "Point", "coordinates": [ 9.207717986620001, 46.775248713030003 ] } },
 { "type": "Feature", "properties": { "number": "8509181", "designationOfficial": "Domat/Ems" }, "geometry": { "type": "Point", "coordinates": [ 9.45314539005, 46.833335654720003 ] } },
 { "type": "Feature", "properties": { "number": "8509170", "designationOfficial": "Castrisch" }, "geometry": { "type": "Point", "coordinates": [ 9.23282379698, 46.778409055520001 ] } },
 { "type": "Feature", "properties": { "number": "8509189", "designationOfficial": "Thusis" }, "geometry": { "type": "Point", "coordinates": [ 9.44061136168, 46.698039285450001 ] } },
 { "type": "Feature", "properties": { "number": "8509055", "designationOfficial": "Igis" }, "geometry": { "type": "Point", "coordinates": [ 9.564793831699999, 46.949665686209997 ] } },
 { "type": "Feature", "properties": { "number": "8509182", "designationOfficial": "Domat/Ems Werk" }, "geometry": { "type": "Point", "coordinates": [ 9.430625736910001, 46.828631170080001 ] } },
-{ "type": "Feature", "properties": { "number": "8509067", "designationOfficial": "Klosters Dorf" }, "geometry": { "type": "Point", "coordinates": [ 9.875227145649999, 46.88361442926 ] } },
 { "type": "Feature", "properties": { "number": "8509185", "designationOfficial": "Rhäzüns" }, "geometry": { "type": "Point", "coordinates": [ 9.39919411172, 46.799823822930001 ] } },
 { "type": "Feature", "properties": { "number": "8509058", "designationOfficial": "Seewis-Pardisla" }, "geometry": { "type": "Point", "coordinates": [ 9.632366112310001, 46.97698033044 ] } },
 { "type": "Feature", "properties": { "number": "8509188", "designationOfficial": "Cazis" }, "geometry": { "type": "Point", "coordinates": [ 9.432736278469999, 46.719915276469997 ] } },
@@ -33,7 +29,6 @@
 { "type": "Feature", "properties": { "number": "8509056", "designationOfficial": "Landquart Ried" }, "geometry": { "type": "Point", "coordinates": [ 9.560955883049999, 46.957245216099999 ] } },
 { "type": "Feature", "properties": { "number": "8509054", "designationOfficial": "Zizers" }, "geometry": { "type": "Point", "coordinates": [ 9.55962931619, 46.934897321009998 ] } },
 { "type": "Feature", "properties": { "number": "8509051", "designationOfficial": "Haldenstein" }, "geometry": { "type": "Point", "coordinates": [ 9.53306202209, 46.876977993899999 ] } },
-{ "type": "Feature", "properties": { "number": "8509060", "designationOfficial": "Schiers" }, "geometry": { "type": "Point", "coordinates": [ 9.688043165390001, 46.968012222650003 ] } },
-{ "type": "Feature", "properties": { "number": "8509064", "designationOfficial": "Küblis" }, "geometry": { "type": "Point", "coordinates": [ 9.771862786350001, 46.914238307950001 ] } }
+{ "type": "Feature", "properties": { "number": "8509060", "designationOfficial": "Schiers" }, "geometry": { "type": "Point", "coordinates": [ 9.688043165390001, 46.968012222650003 ] } }
 ]
 }

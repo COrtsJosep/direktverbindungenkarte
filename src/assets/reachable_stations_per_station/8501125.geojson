@@ -15,7 +15,6 @@
 { "type": "Feature", "properties": { "number": "8501200", "designationOfficial": "Vevey" }, "geometry": { "type": "Point", "coordinates": [ 6.84344559824, 46.463001810660003 ] } },
 { "type": "Feature", "properties": { "number": "8501203", "designationOfficial": "Clarens" }, "geometry": { "type": "Point", "coordinates": [ 6.89577993661, 46.442738299010003 ] } },
 { "type": "Feature", "properties": { "number": "8501202", "designationOfficial": "Burier" }, "geometry": { "type": "Point", "coordinates": [ 6.87712182481, 46.447886474980002 ] } },
-{ "type": "Feature", "properties": { "number": "8501103", "designationOfficial": "Vallorbe" }, "geometry": { "type": "Point", "coordinates": [ 6.37056563541, 46.712406324299998 ] } },
 { "type": "Feature", "properties": { "number": "8501116", "designationOfficial": "Vufflens-la-Ville" }, "geometry": { "type": "Point", "coordinates": [ 6.53076759961, 46.5762449809 ] } },
 { "type": "Feature", "properties": { "number": "8501105", "designationOfficial": "Bretonnières" }, "geometry": { "type": "Point", "coordinates": [ 6.47473250427, 46.715055329930003 ] } },
 { "type": "Feature", "properties": { "number": "8501104", "designationOfficial": "Le Day" }, "geometry": { "type": "Point", "coordinates": [ 6.39902378652, 46.720031528230002 ] } },

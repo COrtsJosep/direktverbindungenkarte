@@ -5,8 +5,10 @@
 "features": [
 { "type": "Feature", "properties": { "number": "8500218", "designationOfficial": "Olten" }, "geometry": { "type": "Point", "coordinates": [ 7.90769964791, 47.351934759270002 ] } },
 { "type": "Feature", "properties": { "number": "8500309", "designationOfficial": "Brugg AG" }, "geometry": { "type": "Point", "coordinates": [ 8.20884455349, 47.480859834980002 ] } },
+{ "type": "Feature", "properties": { "number": "8502128", "designationOfficial": "Holderbank AG" }, "geometry": { "type": "Point", "coordinates": [ 8.166622369060001, 47.428642529720001 ] } },
 { "type": "Feature", "properties": { "number": "8502113", "designationOfficial": "Aarau" }, "geometry": { "type": "Point", "coordinates": [ 8.051273718699999, 47.391359514169999 ] } },
 { "type": "Feature", "properties": { "number": "8502115", "designationOfficial": "Wildegg" }, "geometry": { "type": "Point", "coordinates": [ 8.16301990851, 47.415275144749998 ] } },
+{ "type": "Feature", "properties": { "number": "8502116", "designationOfficial": "Schinznach Bad" }, "geometry": { "type": "Point", "coordinates": [ 8.166948608449999, 47.451785164290001 ] } },
 { "type": "Feature", "properties": { "number": "8503001", "designationOfficial": "Zürich Altstetten" }, "geometry": { "type": "Point", "coordinates": [ 8.488962649959999, 47.391483073080003 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
 { "type": "Feature", "properties": { "number": "8503020", "designationOfficial": "Zürich Hardbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.517126201470001, 47.385197891499999 ] } },

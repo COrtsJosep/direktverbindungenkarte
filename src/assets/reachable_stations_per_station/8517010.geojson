@@ -5,7 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "number": "8500010", "designationOfficial": "Basel SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.58956279016, 47.547412055050003 ] } },
 { "type": "Feature", "properties": { "number": "8500090", "designationOfficial": "Basel Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 7.60692041847, 47.567307905699998 ] } },
-{ "type": "Feature", "properties": { "number": "8516764", "designationOfficial": "Riehen" }, "geometry": { "type": "Point", "coordinates": [ 7.65204415577, 47.583611115449997 ] } },
-{ "type": "Feature", "properties": { "number": "8517010", "designationOfficial": "Riehen Niederholz" }, "geometry": { "type": "Point", "coordinates": [ 7.63371477002, 47.569478281019997 ] } }
+{ "type": "Feature", "properties": { "number": "8517010", "designationOfficial": "Riehen Niederholz" }, "geometry": { "type": "Point", "coordinates": [ 7.63371477002, 47.569478281019997 ] } },
+{ "type": "Feature", "properties": { "number": "8516764", "designationOfficial": "Riehen" }, "geometry": { "type": "Point", "coordinates": [ 7.65204415577, 47.583611115449997 ] } }
 ]
 }

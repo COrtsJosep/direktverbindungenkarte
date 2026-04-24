@@ -10,7 +10,6 @@
 { "type": "Feature", "properties": { "number": "8501035", "designationOfficial": "Allaman" }, "geometry": { "type": "Point", "coordinates": [ 6.39969707975, 46.475753520799998 ] } },
 { "type": "Feature", "properties": { "number": "8501023", "designationOfficial": "Coppet" }, "geometry": { "type": "Point", "coordinates": [ 6.18782738095, 46.317393570749999 ] } },
 { "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
-{ "type": "Feature", "properties": { "number": "8501022", "designationOfficial": "Versoix" }, "geometry": { "type": "Point", "coordinates": [ 6.16574129202, 46.279727184930003 ] } },
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501031", "designationOfficial": "Gland" }, "geometry": { "type": "Point", "coordinates": [ 6.26913983363, 46.419986471240001 ] } },
@@ -65,6 +64,7 @@
 { "type": "Feature", "properties": { "number": "8516155", "designationOfficial": "Lancy-Pont-Rouge" }, "geometry": { "type": "Point", "coordinates": [ 6.12494699563, 46.185945299780002 ] } },
 { "type": "Feature", "properties": { "number": "8517142", "designationOfficial": "Lancy-Bachet" }, "geometry": { "type": "Point", "coordinates": [ 6.12936213667, 46.174332867910003 ] } },
 { "type": "Feature", "properties": { "number": "8530334", "designationOfficial": "La Médettaz" }, "geometry": { "type": "Point", "coordinates": [ 7.00783909249, 46.108833702680002 ] } },
+{ "type": "Feature", "properties": { "number": "8530303", "designationOfficial": "Les Fumeaux" }, "geometry": { "type": "Point", "coordinates": [ 7.06460813618, 46.110080351080001 ] } },
 { "type": "Feature", "properties": { "number": "8501566", "designationOfficial": "Le Châtelard VS" }, "geometry": { "type": "Point", "coordinates": [ 6.95841126688, 46.061882869340003 ] } }
 ]
 }

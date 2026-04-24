@@ -11,7 +11,6 @@
 { "type": "Feature", "properties": { "number": "8503091", "designationOfficial": "Zürich Giesshübel" }, "geometry": { "type": "Point", "coordinates": [ 8.522016334110001, 47.362611102499997 ] } },
 { "type": "Feature", "properties": { "number": "8503099", "designationOfficial": "Sihlau" }, "geometry": { "type": "Point", "coordinates": [ 8.52516835662, 47.303288555 ] } },
 { "type": "Feature", "properties": { "number": "8503090", "designationOfficial": "Zürich Selnau" }, "geometry": { "type": "Point", "coordinates": [ 8.53172495488, 47.372238343479999 ] } },
-{ "type": "Feature", "properties": { "number": "8503098", "designationOfficial": "Sihlwald" }, "geometry": { "type": "Point", "coordinates": [ 8.55750854775, 47.268293771590002 ] } },
 { "type": "Feature", "properties": { "number": "8503093", "designationOfficial": "Zürich Manegg" }, "geometry": { "type": "Point", "coordinates": [ 8.51962904891, 47.337936833770001 ] } },
 { "type": "Feature", "properties": { "number": "8503095", "designationOfficial": "Sood-Oberleimbach" }, "geometry": { "type": "Point", "coordinates": [ 8.521519715449999, 47.319622418329999 ] } },
 { "type": "Feature", "properties": { "number": "8503094", "designationOfficial": "Zürich Leimbach" }, "geometry": { "type": "Point", "coordinates": [ 8.51856404602, 47.333044321549998 ] } },

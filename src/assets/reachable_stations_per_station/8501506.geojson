@@ -29,7 +29,6 @@
 { "type": "Feature", "properties": { "number": "8501503", "designationOfficial": "Riddes" }, "geometry": { "type": "Point", "coordinates": [ 7.21785442217, 46.172511150059997 ] } },
 { "type": "Feature", "properties": { "number": "8501502", "designationOfficial": "Saxon" }, "geometry": { "type": "Point", "coordinates": [ 7.17343599205, 46.149383378430002 ] } },
 { "type": "Feature", "properties": { "number": "8501300", "designationOfficial": "Montreux" }, "geometry": { "type": "Point", "coordinates": [ 6.91044012131, 46.435884341120001 ] } },
-{ "type": "Feature", "properties": { "number": "8501303", "designationOfficial": "Villeneuve VD" }, "geometry": { "type": "Point", "coordinates": [ 6.92700310805, 46.398371506419998 ] } },
 { "type": "Feature", "properties": { "number": "8501505", "designationOfficial": "Ardon" }, "geometry": { "type": "Point", "coordinates": [ 7.27094677176, 46.208594169240001 ] } },
 { "type": "Feature", "properties": { "number": "8501504", "designationOfficial": "Chamoson-St-Pierre-de-Clages" }, "geometry": { "type": "Point", "coordinates": [ 7.24109904693, 46.188836380749997 ] } },
 { "type": "Feature", "properties": { "number": "8501507", "designationOfficial": "St-Léonard" }, "geometry": { "type": "Point", "coordinates": [ 7.41956823287, 46.251488575240003 ] } },

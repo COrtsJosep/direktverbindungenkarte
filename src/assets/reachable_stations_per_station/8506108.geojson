@@ -8,11 +8,6 @@
 { "type": "Feature", "properties": { "number": "8506106", "designationOfficial": "Bürglen TG" }, "geometry": { "type": "Point", "coordinates": [ 9.149876589210001, 47.549098428690002 ] } },
 { "type": "Feature", "properties": { "number": "8506109", "designationOfficial": "Amriswil" }, "geometry": { "type": "Point", "coordinates": [ 9.30222720093, 47.550449721219998 ] } },
 { "type": "Feature", "properties": { "number": "8506108", "designationOfficial": "Oberaach" }, "geometry": { "type": "Point", "coordinates": [ 9.27106226685, 47.55331937375 ] } },
-{ "type": "Feature", "properties": { "number": "8506311", "designationOfficial": "Rorschach" }, "geometry": { "type": "Point", "coordinates": [ 9.505141287400001, 47.478001975429997 ] } },
-{ "type": "Feature", "properties": { "number": "8506307", "designationOfficial": "Horn" }, "geometry": { "type": "Point", "coordinates": [ 9.463387883339999, 47.493179980279997 ] } },
-{ "type": "Feature", "properties": { "number": "8506306", "designationOfficial": "Rorschach Hafen" }, "geometry": { "type": "Point", "coordinates": [ 9.492923293620001, 47.478589918380003 ] } },
-{ "type": "Feature", "properties": { "number": "8506309", "designationOfficial": "Egnach" }, "geometry": { "type": "Point", "coordinates": [ 9.3830174841, 47.543991303829998 ] } },
-{ "type": "Feature", "properties": { "number": "8506308", "designationOfficial": "Arbon" }, "geometry": { "type": "Point", "coordinates": [ 9.43335858262, 47.510587732979999 ] } },
 { "type": "Feature", "properties": { "number": "8506121", "designationOfficial": "Romanshorn" }, "geometry": { "type": "Point", "coordinates": [ 9.37937129226, 47.565522864869997 ] } },
 { "type": "Feature", "properties": { "number": "8506168", "designationOfficial": "Tägerschen" }, "geometry": { "type": "Point", "coordinates": [ 9.02479327434, 47.509363876 ] } },
 { "type": "Feature", "properties": { "number": "8506181", "designationOfficial": "Bronschhofen" }, "geometry": { "type": "Point", "coordinates": [ 9.03467787496, 47.475444379179997 ] } },
@@ -23,8 +18,6 @@
 { "type": "Feature", "properties": { "number": "8506185", "designationOfficial": "Oppikon" }, "geometry": { "type": "Point", "coordinates": [ 9.062103411280001, 47.55206426158 ] } },
 { "type": "Feature", "properties": { "number": "8506184", "designationOfficial": "Märwil" }, "geometry": { "type": "Point", "coordinates": [ 9.069239039899999, 47.533130690790003 ] } },
 { "type": "Feature", "properties": { "number": "8506206", "designationOfficial": "Wil SG" }, "geometry": { "type": "Point", "coordinates": [ 9.04099305047, 47.462413242739999 ] } },
-{ "type": "Feature", "properties": { "number": "8506217", "designationOfficial": "Sulgen" }, "geometry": { "type": "Point", "coordinates": [ 9.183694438910001, 47.538804025520001 ] } },
-{ "type": "Feature", "properties": { "number": "8516271", "designationOfficial": "Steinach" }, "geometry": { "type": "Point", "coordinates": [ 9.442003386850001, 47.500955913879999 ] } },
-{ "type": "Feature", "properties": { "number": "8516270", "designationOfficial": "Arbon Seemoosriet" }, "geometry": { "type": "Point", "coordinates": [ 9.42501951919, 47.521195258250003 ] } }
+{ "type": "Feature", "properties": { "number": "8506217", "designationOfficial": "Sulgen" }, "geometry": { "type": "Point", "coordinates": [ 9.183694438910001, 47.538804025520001 ] } }
 ]
 }

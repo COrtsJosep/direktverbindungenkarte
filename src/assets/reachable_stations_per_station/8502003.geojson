@@ -19,7 +19,6 @@
 { "type": "Feature", "properties": { "number": "8502010", "designationOfficial": "St. Erhard-Knutwil" }, "geometry": { "type": "Point", "coordinates": [ 8.074581534709999, 47.18008191186 ] } },
 { "type": "Feature", "properties": { "number": "8502012", "designationOfficial": "Emmenbrücke Kapf" }, "geometry": { "type": "Point", "coordinates": [ 8.27319059247, 47.09090997877 ] } },
 { "type": "Feature", "properties": { "number": "8502021", "designationOfficial": "Emmenbrücke" }, "geometry": { "type": "Point", "coordinates": [ 8.282565368009999, 47.070601499669998 ] } },
-{ "type": "Feature", "properties": { "number": "8502028", "designationOfficial": "Emmenbrücke Gersag" }, "geometry": { "type": "Point", "coordinates": [ 8.27682007954, 47.078314178249997 ] } },
 { "type": "Feature", "properties": { "number": "8502020", "designationOfficial": "Rothenburg Station" }, "geometry": { "type": "Point", "coordinates": [ 8.247561445380001, 47.089183674529998 ] } },
 { "type": "Feature", "properties": { "number": "8502128", "designationOfficial": "Holderbank AG" }, "geometry": { "type": "Point", "coordinates": [ 8.166622369060001, 47.428642529720001 ] } },
 { "type": "Feature", "properties": { "number": "8502113", "designationOfficial": "Aarau" }, "geometry": { "type": "Point", "coordinates": [ 8.051273718699999, 47.391359514169999 ] } },

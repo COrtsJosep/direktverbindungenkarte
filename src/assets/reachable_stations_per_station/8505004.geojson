@@ -12,6 +12,7 @@
 { "type": "Feature", "properties": { "number": "8502231", "designationOfficial": "Zug Oberwil" }, "geometry": { "type": "Point", "coordinates": [ 8.50994051687, 47.147683641690001 ] } },
 { "type": "Feature", "properties": { "number": "8502300", "designationOfficial": "Zug Postplatz" }, "geometry": { "type": "Point", "coordinates": [ 8.51693737657, 47.168275682210002 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503202", "designationOfficial": "Thalwil" }, "geometry": { "type": "Point", "coordinates": [ 8.564769449070001, 47.295981407180001 ] } },
 { "type": "Feature", "properties": { "number": "8503209", "designationOfficial": "Pfäffikon SZ" }, "geometry": { "type": "Point", "coordinates": [ 8.778129818949999, 47.202997443130002 ] } },
 { "type": "Feature", "properties": { "number": "8503295", "designationOfficial": "Wilen bei Wollerau" }, "geometry": { "type": "Point", "coordinates": [ 8.73433286443, 47.197584323119997 ] } },
 { "type": "Feature", "properties": { "number": "8503294", "designationOfficial": "Riedmatt SZ" }, "geometry": { "type": "Point", "coordinates": [ 8.71210210165, 47.196705345300003 ] } },

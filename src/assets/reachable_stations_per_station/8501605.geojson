@@ -33,7 +33,6 @@
 { "type": "Feature", "properties": { "number": "8501503", "designationOfficial": "Riddes" }, "geometry": { "type": "Point", "coordinates": [ 7.21785442217, 46.172511150059997 ] } },
 { "type": "Feature", "properties": { "number": "8501502", "designationOfficial": "Saxon" }, "geometry": { "type": "Point", "coordinates": [ 7.17343599205, 46.149383378430002 ] } },
 { "type": "Feature", "properties": { "number": "8501300", "designationOfficial": "Montreux" }, "geometry": { "type": "Point", "coordinates": [ 6.91044012131, 46.435884341120001 ] } },
-{ "type": "Feature", "properties": { "number": "8501303", "designationOfficial": "Villeneuve VD" }, "geometry": { "type": "Point", "coordinates": [ 6.92700310805, 46.398371506419998 ] } },
 { "type": "Feature", "properties": { "number": "8501636", "designationOfficial": "Eyholz" }, "geometry": { "type": "Point", "coordinates": [ 7.91630428018, 46.296780566860001 ] } },
 { "type": "Feature", "properties": { "number": "8501664", "designationOfficial": "Geschinen" }, "geometry": { "type": "Point", "coordinates": [ 8.28210576169, 46.491653336820001 ] } },
 { "type": "Feature", "properties": { "number": "8501667", "designationOfficial": "Gluringen" }, "geometry": { "type": "Point", "coordinates": [ 8.233906714430001, 46.46278231134 ] } },

@@ -24,17 +24,11 @@
 { "type": "Feature", "properties": { "number": "8504017", "designationOfficial": "Châtillens" }, "geometry": { "type": "Point", "coordinates": [ 6.81548152013, 46.57053302432 ] } },
 { "type": "Feature", "properties": { "number": "8504030", "designationOfficial": "Villars-sur-Glâne" }, "geometry": { "type": "Point", "coordinates": [ 7.11638562388, 46.789829818759998 ] } },
 { "type": "Feature", "properties": { "number": "8504100", "designationOfficial": "Fribourg/Freiburg" }, "geometry": { "type": "Point", "coordinates": [ 7.15104688334, 46.803148172180002 ] } },
-{ "type": "Feature", "properties": { "number": "8504124", "designationOfficial": "Dompierre FR" }, "geometry": { "type": "Point", "coordinates": [ 6.98536880348, 46.854402762340001 ] } },
-{ "type": "Feature", "properties": { "number": "8504127", "designationOfficial": "Faoug" }, "geometry": { "type": "Point", "coordinates": [ 7.07454622978, 46.908310347819999 ] } },
-{ "type": "Feature", "properties": { "number": "8504126", "designationOfficial": "Avenches" }, "geometry": { "type": "Point", "coordinates": [ 7.04092532366, 46.884601597660001 ] } },
-{ "type": "Feature", "properties": { "number": "8504128", "designationOfficial": "Murten/Morat" }, "geometry": { "type": "Point", "coordinates": [ 7.11528264747, 46.925346691199998 ] } },
 { "type": "Feature", "properties": { "number": "8504134", "designationOfficial": "Payerne" }, "geometry": { "type": "Point", "coordinates": [ 6.9398849232, 46.819649959179998 ] } },
 { "type": "Feature", "properties": { "number": "8504121", "designationOfficial": "Lucens" }, "geometry": { "type": "Point", "coordinates": [ 6.84215023311, 46.707771374510003 ] } },
 { "type": "Feature", "properties": { "number": "8504120", "designationOfficial": "Moudon" }, "geometry": { "type": "Point", "coordinates": [ 6.80250793901, 46.668057341020003 ] } },
-{ "type": "Feature", "properties": { "number": "8504123", "designationOfficial": "Corcelles-Nord" }, "geometry": { "type": "Point", "coordinates": [ 6.96029447415, 46.835262111710001 ] } },
 { "type": "Feature", "properties": { "number": "8504141", "designationOfficial": "Henniez" }, "geometry": { "type": "Point", "coordinates": [ 6.87010587847, 46.735001406259997 ] } },
 { "type": "Feature", "properties": { "number": "8504122", "designationOfficial": "Granges-Marnand" }, "geometry": { "type": "Point", "coordinates": [ 6.89428972893, 46.758844924260003 ] } },
-{ "type": "Feature", "properties": { "number": "8504125", "designationOfficial": "Domdidier" }, "geometry": { "type": "Point", "coordinates": [ 7.01138257529, 46.868512058969998 ] } },
 { "type": "Feature", "properties": { "number": "8504018", "designationOfficial": "Ecublens-Rue" }, "geometry": { "type": "Point", "coordinates": [ 6.81105498124, 46.610430239739998 ] } },
 { "type": "Feature", "properties": { "number": "8501632", "designationOfficial": "Avry-Matran" }, "geometry": { "type": "Point", "coordinates": [ 7.08043455807, 46.786030170239997 ] } }
 ]

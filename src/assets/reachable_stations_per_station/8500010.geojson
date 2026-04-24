@@ -90,7 +90,7 @@
 { "type": "Feature", "properties": { "number": "8507100", "designationOfficial": "Thun" }, "geometry": { "type": "Point", "coordinates": [ 7.62960582867, 46.754852730590002 ] } },
 { "type": "Feature", "properties": { "number": "8505207", "designationOfficial": "Bodio TI" }, "geometry": { "type": "Point", "coordinates": [ 8.906567985280001, 46.380254520359998 ] } },
 { "type": "Feature", "properties": { "number": "8500105", "designationOfficial": "Moutier" }, "geometry": { "type": "Point", "coordinates": [ 7.38104429627, 47.280672517479999 ] } },
-{ "type": "Feature", "properties": { "number": "8516764", "designationOfficial": "Riehen" }, "geometry": { "type": "Point", "coordinates": [ 7.65204415577, 47.583611115449997 ] } },
-{ "type": "Feature", "properties": { "number": "8517010", "designationOfficial": "Riehen Niederholz" }, "geometry": { "type": "Point", "coordinates": [ 7.63371477002, 47.569478281019997 ] } }
+{ "type": "Feature", "properties": { "number": "8517010", "designationOfficial": "Riehen Niederholz" }, "geometry": { "type": "Point", "coordinates": [ 7.63371477002, 47.569478281019997 ] } },
+{ "type": "Feature", "properties": { "number": "8516764", "designationOfficial": "Riehen" }, "geometry": { "type": "Point", "coordinates": [ 7.65204415577, 47.583611115449997 ] } }
 ]
 }

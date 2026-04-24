@@ -9,6 +9,7 @@
 { "type": "Feature", "properties": { "number": "8500090", "designationOfficial": "Basel Bad Bf" }, "geometry": { "type": "Point", "coordinates": [ 7.60692041847, 47.567307905699998 ] } },
 { "type": "Feature", "properties": { "number": "8502204", "designationOfficial": "Zug" }, "geometry": { "type": "Point", "coordinates": [ 8.515049340959999, 47.173706977679998 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503202", "designationOfficial": "Thalwil" }, "geometry": { "type": "Point", "coordinates": [ 8.564769449070001, 47.295981407180001 ] } },
 { "type": "Feature", "properties": { "number": "8505000", "designationOfficial": "Luzern" }, "geometry": { "type": "Point", "coordinates": [ 8.31018320694, 47.05017782809 ] } },
 { "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } },
 { "type": "Feature", "properties": { "number": "8505007", "designationOfficial": "Brunnen" }, "geometry": { "type": "Point", "coordinates": [ 8.61006766101, 46.999174913140003 ] } },

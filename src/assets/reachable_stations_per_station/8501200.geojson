@@ -20,7 +20,6 @@
 { "type": "Feature", "properties": { "number": "8501035", "designationOfficial": "Allaman" }, "geometry": { "type": "Point", "coordinates": [ 6.39969707975, 46.475753520799998 ] } },
 { "type": "Feature", "properties": { "number": "8501023", "designationOfficial": "Coppet" }, "geometry": { "type": "Point", "coordinates": [ 6.18782738095, 46.317393570749999 ] } },
 { "type": "Feature", "properties": { "number": "8501037", "designationOfficial": "Morges" }, "geometry": { "type": "Point", "coordinates": [ 6.49396950064, 46.511101197869998 ] } },
-{ "type": "Feature", "properties": { "number": "8501022", "designationOfficial": "Versoix" }, "geometry": { "type": "Point", "coordinates": [ 6.16574129202, 46.279727184930003 ] } },
 { "type": "Feature", "properties": { "number": "8501008", "designationOfficial": "Genève" }, "geometry": { "type": "Point", "coordinates": [ 6.14245159514, 46.210212898759998 ] } },
 { "type": "Feature", "properties": { "number": "8501026", "designationOfficial": "Genève-Aéroport" }, "geometry": { "type": "Point", "coordinates": [ 6.1119855726, 46.232538534390002 ] } },
 { "type": "Feature", "properties": { "number": "8501031", "designationOfficial": "Gland" }, "geometry": { "type": "Point", "coordinates": [ 6.26913983363, 46.419986471240001 ] } },

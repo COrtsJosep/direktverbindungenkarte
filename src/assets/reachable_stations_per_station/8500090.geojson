@@ -11,6 +11,7 @@
 { "type": "Feature", "properties": { "number": "8501609", "designationOfficial": "Brig" }, "geometry": { "type": "Point", "coordinates": [ 7.9880947394, 46.319422705779999 ] } },
 { "type": "Feature", "properties": { "number": "8502204", "designationOfficial": "Zug" }, "geometry": { "type": "Point", "coordinates": [ 8.515049340959999, 47.173706977679998 ] } },
 { "type": "Feature", "properties": { "number": "8503000", "designationOfficial": "Zürich HB" }, "geometry": { "type": "Point", "coordinates": [ 8.539239, 47.378194 ] } },
+{ "type": "Feature", "properties": { "number": "8503424", "designationOfficial": "Schaffhausen" }, "geometry": { "type": "Point", "coordinates": [ 8.632755780129999, 47.698281514820003 ] } },
 { "type": "Feature", "properties": { "number": "8505004", "designationOfficial": "Arth-Goldau" }, "geometry": { "type": "Point", "coordinates": [ 8.549446300670001, 47.049044883409998 ] } },
 { "type": "Feature", "properties": { "number": "8505300", "designationOfficial": "Lugano" }, "geometry": { "type": "Point", "coordinates": [ 8.946995308509999, 46.005500549910003 ] } },
 { "type": "Feature", "properties": { "number": "8505307", "designationOfficial": "Chiasso" }, "geometry": { "type": "Point", "coordinates": [ 9.03144956231, 45.832168026369999 ] } },
@@ -23,7 +24,7 @@
 { "type": "Feature", "properties": { "number": "8509002", "designationOfficial": "Landquart" }, "geometry": { "type": "Point", "coordinates": [ 9.55404469208, 46.96744042836 ] } },
 { "type": "Feature", "properties": { "number": "8509411", "designationOfficial": "Sargans" }, "geometry": { "type": "Point", "coordinates": [ 9.446260474660001, 47.044823514409998 ] } },
 { "type": "Feature", "properties": { "number": "8507100", "designationOfficial": "Thun" }, "geometry": { "type": "Point", "coordinates": [ 7.62960582867, 46.754852730590002 ] } },
-{ "type": "Feature", "properties": { "number": "8516764", "designationOfficial": "Riehen" }, "geometry": { "type": "Point", "coordinates": [ 7.65204415577, 47.583611115449997 ] } },
-{ "type": "Feature", "properties": { "number": "8517010", "designationOfficial": "Riehen Niederholz" }, "geometry": { "type": "Point", "coordinates": [ 7.63371477002, 47.569478281019997 ] } }
+{ "type": "Feature", "properties": { "number": "8517010", "designationOfficial": "Riehen Niederholz" }, "geometry": { "type": "Point", "coordinates": [ 7.63371477002, 47.569478281019997 ] } },
+{ "type": "Feature", "properties": { "number": "8516764", "designationOfficial": "Riehen" }, "geometry": { "type": "Point", "coordinates": [ 7.65204415577, 47.583611115449997 ] } }
 ]
 }

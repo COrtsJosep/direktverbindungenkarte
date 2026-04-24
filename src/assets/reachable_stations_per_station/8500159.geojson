@@ -6,7 +6,6 @@
 { "type": "Feature", "properties": { "number": "8500109", "designationOfficial": "Delémont" }, "geometry": { "type": "Point", "coordinates": [ 7.3500633234, 47.362012700089998 ] } },
 { "type": "Feature", "properties": { "number": "8500159", "designationOfficial": "Grenchen Nord" }, "geometry": { "type": "Point", "coordinates": [ 7.38961866289, 47.191698205100003 ] } },
 { "type": "Feature", "properties": { "number": "8500113", "designationOfficial": "Laufen" }, "geometry": { "type": "Point", "coordinates": [ 7.50263613094, 47.419346483520002 ] } },
-{ "type": "Feature", "properties": { "number": "8500119", "designationOfficial": "Münchenstein" }, "geometry": { "type": "Point", "coordinates": [ 7.61759669026, 47.51339736245 ] } },
 { "type": "Feature", "properties": { "number": "8500010", "designationOfficial": "Basel SBB" }, "geometry": { "type": "Point", "coordinates": [ 7.58956279016, 47.547412055050003 ] } },
 { "type": "Feature", "properties": { "number": "8501120", "designationOfficial": "Lausanne" }, "geometry": { "type": "Point", "coordinates": [ 6.6290923032, 46.516791835459998 ] } },
 { "type": "Feature", "properties": { "number": "8501118", "designationOfficial": "Renens VD" }, "geometry": { "type": "Point", "coordinates": [ 6.57893533809, 46.537042466899997 ] } },
